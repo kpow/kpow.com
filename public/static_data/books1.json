@@ -1,0 +1,2140 @@
+{
+   "GoodreadsResponse": {
+      "Request": {
+         "authentication": "true",
+         "key": {
+            "__cdata": "ajR4uV5s4lLmYZUWI2SKXw",
+            "toString": [
+               null
+            ]
+         },
+         "method": {
+            "__cdata": "review_list",
+            "toString": [
+               null
+            ]
+         }
+      },
+      "reviews": {
+         "review": [
+            {
+               "id": "2118119637",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "29090844",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "383",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "The Stars Are Legion",
+                  "title_without_series": "The Stars Are Legion",
+                  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/29090844-the-stars-are-legion",
+                  "num_pages": "",
+                  "format": "",
+                  "edition_information": "",
+                  "publisher": "",
+                  "publication_day": "7",
+                  "publication_year": "2017",
+                  "publication_month": "2",
+                  "average_rating": "3.74",
+                  "ratings_count": "2272",
+                  "description": "Somewhere on the outer rim of the universe, a mass of decaying world-ships known as the Legion is traveling in the seams between the stars. For generations, a war for control of the Legion has been waged, with no clear resolution.  As worlds continue to die, a desperate plan is put into motion.<br /><br />Zan wakes with no memory, prisoner of a people who say they are her family. She is told she is their salvation - the only person capable of boarding the Mokshi, a world-ship with the power to leave the Legion. But Zan's new family is not the only one desperate to gain control of the prized ship. Zan finds that she must choose sides in a genocidal campaign that will take her from the edges of the Legion's gravity well to the very belly of the world.<br /><br />Zan will soon learn that she carries the seeds of the Legion's destruction - and its possible salvation. But can she and her ragtag band of followers survive the horrors of the Legion and its people long enough to deliver it?<br /><br />In the tradition of <i>The Fall of Hyperion</i> and <i>Dune</i>, <i>The Stars are Legion</i> is an epic and thrilling tale about tragic love, revenge, and war as imagined by one of the genre's most celebrated new writers.",
+                  "authors": {
+                     "author": {
+                        "id": "4369922",
+                        "name": "Kameron Hurley",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1446651591p5/4369922.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1446651591p2/4369922.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/4369922.Kameron_Hurley",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "3.75",
+                        "ratings_count": "16624",
+                        "text_reviews_count": "3019"
+                     }
+                  },
+                  "published": "2017",
+                  "work": {
+                     "id": "21836212"
+                  }
+               },
+               "rating": "0",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "currently-reading",
+                     "_exclusive": "true",
+                     "_review_shelf_id": "1769636747",
+                     "_sortable": "false"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Fri Sep 08 12:21:36 -0700 2017",
+               "read_at": "",
+               "date_added": "Fri Sep 08 12:08:00 -0700 2017",
+               "date_updated": "Fri Sep 08 12:21:36 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2118119637",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2118119637",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2112638204",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "29503206",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "112",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Ninefox Gambit (The Machineries of Empire, #1)",
+                  "title_without_series": "Ninefox Gambit",
+                  "image_url": "https://images.gr-assets.com/books/1457926692m/29503206.jpg",
+                  "small_image_url": "https://images.gr-assets.com/books/1457926692s/29503206.jpg",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/29503206-ninefox-gambit",
+                  "num_pages": "384",
+                  "format": "Kindle Edition",
+                  "edition_information": "",
+                  "publisher": "Solaris",
+                  "publication_day": "14",
+                  "publication_year": "2016",
+                  "publication_month": "6",
+                  "average_rating": "3.91",
+                  "ratings_count": "4834",
+                  "description": "When Captain Kel Cheris of the hexarchate is disgraced for her unconventional tactics, Kel Command gives her a chance to redeem herself, by retaking the Fortress of Scattered Needles from the heretics. Cheris’s career isn’t the only thing at stake: if the fortress falls, the hexarchate itself might be next. <br /><br /> Cheris’s best hope is to ally with the undead tactician Shuos Jedao. The good news is that Jedao has never lost a battle, and he may be the only one who can figure out how to successfully besiege the fortress. The bad news is that Jedao went mad in his first life and massacred two armies, one of them his own. <br /><br /> As the siege wears on, Cheris must decide how far she can trust Jedao–because she might be his next victim.",
+                  "authors": {
+                     "author": {
+                        "id": "3001246",
+                        "name": "Yoon Ha Lee",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1383757366p5/3001246.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1383757366p2/3001246.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/3001246.Yoon_Ha_Lee",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "3.85",
+                        "ratings_count": "13756",
+                        "text_reviews_count": "2440"
+                     }
+                  },
+                  "published": "2016",
+                  "work": {
+                     "id": "46065520"
+                  }
+               },
+               "rating": "0",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "to-read",
+                     "_exclusive": "true",
+                     "_review_shelf_id": "1765704350",
+                     "_sortable": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "",
+               "read_at": "",
+               "date_added": "Sun Sep 03 12:12:26 -0700 2017",
+               "date_updated": "Mon Sep 04 17:39:53 -0700 2017",
+               "read_count": "0",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2112638204",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2112638204",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2112598261",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "34928122",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": "0553448129",
+                  "isbn13": "9780553448122",
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "184",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Artemis",
+                  "title_without_series": "Artemis",
+                  "image_url": "https://images.gr-assets.com/books/1494273579m/34928122.jpg",
+                  "small_image_url": "https://images.gr-assets.com/books/1494273579s/34928122.jpg",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/34928122-artemis",
+                  "num_pages": "384",
+                  "format": "Hardcover",
+                  "edition_information": "",
+                  "publisher": "Crown Publishing Group (NY)",
+                  "publication_day": "14",
+                  "publication_year": "2017",
+                  "publication_month": "11",
+                  "average_rating": "3.95",
+                  "ratings_count": "723",
+                  "description": "Jazz Bashara is a criminal.<br /><br />Well, sort of. Life on Artemis, the first and only city on the moon, is tough if you're not a rich tourist or an eccentric billionaire. So smuggling in the occasional harmless bit of contraband barely counts, right? Not when you've got debts to pay and your job as a porter barely covers the rent.<br /><br />Everything changes when Jazz sees the chance to commit the perfect crime, with a reward too lucrative to turn down. But pulling off the impossible is just the start of her problems, as she learns that she's stepped square into a conspiracy for control of Artemis itself—and that now, her only chance at survival lies in a gambit even riskier than the first.",
+                  "authors": {
+                     "author": {
+                        "id": "6540057",
+                        "name": "Andy Weir",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1382592903p5/6540057.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1382592903p2/6540057.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "4.38",
+                        "ratings_count": "553381",
+                        "text_reviews_count": "64959"
+                     }
+                  },
+                  "published": "2017",
+                  "work": {
+                     "id": "56402016"
+                  }
+               },
+               "rating": "0",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "to-read",
+                     "_exclusive": "true",
+                     "_review_shelf_id": "1764334007",
+                     "_sortable": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "",
+               "read_at": "",
+               "date_added": "Sun Sep 03 11:29:12 -0700 2017",
+               "date_updated": "Sun Sep 03 11:29:13 -0700 2017",
+               "read_count": "0",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2112598261",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2112598261",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2103693693",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "25563522",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "160",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Children of Time",
+                  "title_without_series": "Children of Time",
+                  "image_url": "https://images.gr-assets.com/books/1432028033m/25563522.jpg",
+                  "small_image_url": "https://images.gr-assets.com/books/1432028033s/25563522.jpg",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/25563522-children-of-time",
+                  "num_pages": "480",
+                  "format": "Kindle Edition",
+                  "edition_information": "",
+                  "publisher": "Tor Books",
+                  "publication_day": "4",
+                  "publication_year": "2015",
+                  "publication_month": "6",
+                  "average_rating": "4.29",
+                  "ratings_count": "9198",
+                  "description": "A race for survival among the stars... Humanity's last survivors escaped earth's ruins to find a new home. But when they find it, can their desperation overcome it's dangers?<br /><br />WHO WILL INHERIT THIS NEW EARTH?<br /><br />The last remnants of the human race left a dying Earth, desperate to find a new home among the stars. Following in the footsteps of their ancestors, they discover the greatest treasure of the past age - a world terraformed and prepared for human life.<br /><br />But all is not right in this new Eden. In the long years since the planet was abandoned, the work of its architects has borne disastrous fruit. The planet is not waiting for them, pristine and unoccupied. New masters have turned it from a refuge into mankind's worst nightmare.<br /><br />Now two civilizations are on a collision course, both testing the boundaries of what they will do to survive. As the fate of humanity hangs in the balance, who are the true heirs of this new Earth?",
+                  "authors": {
+                     "author": {
+                        "id": "1445909",
+                        "name": "Adrian Tchaikovsky",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1282303363p5/1445909.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1282303363p2/1445909.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/1445909.Adrian_Tchaikovsky",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "4.00",
+                        "ratings_count": "33501",
+                        "text_reviews_count": "2518"
+                     }
+                  },
+                  "published": "2015",
+                  "work": {
+                     "id": "45276208"
+                  }
+               },
+               "rating": "5",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Fri Aug 25 11:17:41 -0700 2017",
+               "read_at": "Sun Sep 03 11:36:54 -0700 2017",
+               "date_added": "Fri Aug 25 11:17:41 -0700 2017",
+               "date_updated": "Sun Sep 03 11:36:54 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2103693693",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2103693693",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2096091382",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "35506021",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "386",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "All These Worlds (Bobiverse, #3)",
+                  "title_without_series": "All These Worlds",
+                  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/35506021-all-these-worlds",
+                  "num_pages": "",
+                  "format": "",
+                  "edition_information": "",
+                  "publisher": "",
+                  "publication_day": "",
+                  "publication_year": "",
+                  "publication_month": "",
+                  "average_rating": "4.40",
+                  "ratings_count": "4727",
+                  "description": "Being a sentient spaceship really should be more fun. But after spreading out through space for almost a century, Bob and his clones just can't stay out of trouble. <br /><br />They've created enough colonies so humanity shouldn't go extinct. But political squabbles have a bad habit of dying hard, and the Brazilian probes are still trying to take out the competition. And the Bobs have picked a fight with an older, more powerful species with a large appetite and a short temper. <br /><br />Still stinging from getting their collective butts kicked in their first encounter with the Others, the Bobs now face the prospect of a decisive final battle to defend Earth and its colonies. But the Bobs are less disciplined than a herd of cats, and some of the younger copies are more concerned with their own local problems than defeating the Others. <br /><br />Yet salvation may come from an unlikely source. A couple of eighth-generation Bobs have found something out in deep space. All it will take to save the Earth and perhaps all of humanity is for them to get it to Sol — unless the Others arrive first.",
+                  "authors": {
+                     "author": {
+                        "id": "12130438",
+                        "name": "Dennis E. Taylor",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "4.35",
+                        "ratings_count": "28622",
+                        "text_reviews_count": "2625"
+                     }
+                  },
+                  "published": "",
+                  "work": {
+                     "id": "54144690"
+                  }
+               },
+               "rating": "5",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Thu Aug 17 20:32:25 -0700 2017",
+               "read_at": "Thu Aug 24 13:33:47 -0700 2017",
+               "date_added": "Thu Aug 17 20:32:25 -0700 2017",
+               "date_updated": "Thu Aug 24 13:33:47 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2096091382",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2096091382",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2091381483",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "34037955",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "94",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Executed 2 (Extracted #2)",
+                  "title_without_series": "Executed 2",
+                  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/34037955-executed-2",
+                  "num_pages": "398",
+                  "format": "",
+                  "edition_information": "",
+                  "publisher": "",
+                  "publication_day": "",
+                  "publication_year": "",
+                  "publication_month": "",
+                  "average_rating": "4.46",
+                  "ratings_count": "2000",
+                  "description": "<p>The team of heroes extracted from their timelines to stop the impending apocalypse didn’t think they needed a leader.</p><p>But they’ve got one anyway.</p><p>With their mission in tatters, Miri has been called in to steady the ship. And to focus them on their assignment: preventing the end of the world.</p><p>The problem is, the world doesn’t know it’s in danger. With governments pursuing them relentlessly, attempting to steal the time-travel device to use for their own ends, the heroes are on the run—fighting for survival in a world they’re supposed to save.</p><p>Meanwhile, Miri has motives of her own. And when the existence of a second device is discovered, the team’s mission and their lives are in mortal danger…</p>",
+                  "authors": {
+                     "author": {
+                        "id": "6447537",
+                        "name": "R.R. Haywood",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1374232710p5/6447537.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1374232710p2/6447537.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/6447537.R_R_Haywood",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "4.24",
+                        "ratings_count": "12912",
+                        "text_reviews_count": "878"
+                     }
+                  },
+                  "published": "",
+                  "work": {
+                     "id": "54831121"
+                  }
+               },
+               "rating": "5",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Sun Aug 13 09:57:11 -0700 2017",
+               "read_at": "Thu Aug 17 19:52:59 -0700 2017",
+               "date_added": "Sun Aug 13 09:57:11 -0700 2017",
+               "date_updated": "Thu Aug 17 19:55:52 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2091381483",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2091381483",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2063589848",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "34670700",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "21",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Trouble on Paradise (Expeditionary Force, #3.5)",
+                  "title_without_series": "Trouble on Paradise",
+                  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/34670700-trouble-on-paradise",
+                  "num_pages": "",
+                  "format": "",
+                  "edition_information": "",
+                  "publisher": "Amazon Digital Services",
+                  "publication_day": "",
+                  "publication_year": "",
+                  "publication_month": "",
+                  "average_rating": "4.23",
+                  "ratings_count": "539",
+                  "description": "",
+                  "authors": {
+                     "author": {
+                        "id": "14851776",
+                        "name": "Craig Alanson",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/14851776.Craig_Alanson",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "4.23",
+                        "ratings_count": "11425",
+                        "text_reviews_count": "709"
+                     }
+                  },
+                  "published": "",
+                  "work": {
+                     "id": "55840189"
+                  }
+               },
+               "rating": "4",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Mon Jul 17 17:20:04 -0700 2017",
+               "read_at": "Fri Jul 21 06:37:59 -0700 2017",
+               "date_added": "Mon Jul 17 17:20:04 -0700 2017",
+               "date_updated": "Fri Jul 21 06:37:59 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2063589848",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2063589848",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2063589558",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "35224512",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "34",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Black Ops (Expeditionary Force, #4)",
+                  "title_without_series": "Black Ops",
+                  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/35224512-black-ops",
+                  "num_pages": "",
+                  "format": "",
+                  "edition_information": "",
+                  "publisher": "",
+                  "publication_day": "",
+                  "publication_year": "",
+                  "publication_month": "",
+                  "average_rating": "4.34",
+                  "ratings_count": "769",
+                  "description": "The elite crew of the pirate ship UNS Flying Dutchman had a simple mission: determining whether the Thuranin are sending another starship to Earth. Along the way, they became sidetracked by securing a future for the UNEF troops on the planet Paradise. When asked whether Earth was now safe, their ancient alien AI responded 'Not so much'... now they have to deal with the consequences.",
+                  "authors": {
+                     "author": {
+                        "id": "14851776",
+                        "name": "Craig Alanson",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/14851776.Craig_Alanson",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "4.23",
+                        "ratings_count": "11425",
+                        "text_reviews_count": "709"
+                     }
+                  },
+                  "published": "",
+                  "work": {
+                     "id": "56568343"
+                  }
+               },
+               "rating": "3",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Mon Jul 17 17:19:41 -0700 2017",
+               "read_at": "Sun Aug 13 08:24:41 -0700 2017",
+               "date_added": "Mon Jul 17 17:19:41 -0700 2017",
+               "date_updated": "Sun Aug 13 08:24:41 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2063589558",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2063589558",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2049604903",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "30342581",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "147",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "SpecOps (Expeditionary, #2)",
+                  "title_without_series": "SpecOps",
+                  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/30342581-specops",
+                  "num_pages": "",
+                  "format": "",
+                  "edition_information": "",
+                  "publisher": "",
+                  "publication_day": "",
+                  "publication_year": "",
+                  "publication_month": "",
+                  "average_rating": "4.19",
+                  "ratings_count": "3102",
+                  "description": "",
+                  "authors": {
+                     "author": {
+                        "id": "14851776",
+                        "name": "Craig Alanson",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/14851776.Craig_Alanson",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "4.23",
+                        "ratings_count": "11425",
+                        "text_reviews_count": "709"
+                     }
+                  },
+                  "published": "",
+                  "work": {
+                     "id": "50843478"
+                  }
+               },
+               "rating": "3",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Tue Jul 04 18:41:30 -0700 2017",
+               "read_at": "Sat Jul 29 07:42:16 -0700 2017",
+               "date_added": "Tue Jul 04 18:41:30 -0700 2017",
+               "date_updated": "Sat Jul 29 07:42:16 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2049604903",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2049604903",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2037016794",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "28525188",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "343",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Columbus Day (Expeditionary Force, #1)",
+                  "title_without_series": "Columbus Day",
+                  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/28525188-columbus-day",
+                  "num_pages": "",
+                  "format": "",
+                  "edition_information": "",
+                  "publisher": "",
+                  "publication_day": "",
+                  "publication_year": "",
+                  "publication_month": "",
+                  "average_rating": "4.24",
+                  "ratings_count": "4103",
+                  "description": "We were fighting on the wrong side, of a war we couldn't win. And that was the good news. <br />The Ruhar hit us on Columbus Day. There we were, innocently drifting along the cosmos on our little blue marble, like the native Americans in 1492. Over the horizon come ships of a technologically advanced, aggressive culture, and BAM! There go the good old days, when humans only got killed by each other. So, Columbus Day. It fits. <br />When the morning sky twinkled again, this time with Kristang starships jumping in to hammer the Ruhar, we thought we were saved. The UN Expeditionary Force hitched a ride on Kristang ships to fight the Ruhar, wherever our new allies thought we could be useful. So, I went from fighting with the US Army in Nigeria, to fighting in space. It was lies, all of it. We shouldn't even be fighting the Ruhar, they aren't our enemy, our allies are. <br />I'd better start at the beginning....",
+                  "authors": {
+                     "author": {
+                        "id": "14851776",
+                        "name": "Craig Alanson",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/14851776.Craig_Alanson",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "4.23",
+                        "ratings_count": "11425",
+                        "text_reviews_count": "709"
+                     }
+                  },
+                  "published": "",
+                  "work": {
+                     "id": "48683561"
+                  }
+               },
+               "rating": "3",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Thu Jun 22 08:31:19 -0700 2017",
+               "read_at": "Sat Jul 29 07:41:45 -0700 2017",
+               "date_added": "Thu Jun 22 08:31:19 -0700 2017",
+               "date_updated": "Sat Jul 29 07:41:45 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2037016794",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2037016794",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2036884451",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "15808659",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": "0451417704",
+                  "isbn13": "9780451417701",
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "91",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Kill Decision",
+                  "title_without_series": "Kill Decision",
+                  "image_url": "https://images.gr-assets.com/books/1365395383m/15808659.jpg",
+                  "small_image_url": "https://images.gr-assets.com/books/1365395383s/15808659.jpg",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/15808659-kill-decision",
+                  "num_pages": "",
+                  "format": "Mass Market Paperback",
+                  "edition_information": "",
+                  "publisher": "",
+                  "publication_day": "",
+                  "publication_year": "",
+                  "publication_month": "",
+                  "average_rating": "3.95",
+                  "ratings_count": "8668",
+                  "description": "<b>The shocking techno-thriller that cements Daniel Suarez’s status as the heir to Michael Crichton and Tom Clancy—a terrifying, breathtaking, and all-too-plausible vision of the world’s near future</b>.<br /><br /> Unmanned weaponized drones already exist—they’re widely used by America in our war efforts in the Middle East. In <i>Kill Decision</i>, bestselling author Daniel Suarez takes that fact and the real science behind it one step further, with frightening results.<br /><br /> Linda McKinney is a myrmecologist, a scientist who studies the social structure of ants. Her academic career has left her entirely unprepared for the day her sophisticated research is conscripted by unknown forces to help run an unmanned—and thanks to her research, automated—drone army. Odin is the secretive Special Ops soldier with a unique insight into the faceless enemy who has begun to attack the American homeland with drones programmed to seek, identify, and execute targets without human intervention.<br /><br /> Together, McKinney and Odin must slow this advance long enough for the world to recognize its destructive power, because for thousands of years the “kill decision” during battle has remained in the hands of humans—and off-loading that responsibility to machines will bring unintended, possibly irreversible, consequences. But as forces even McKinney and Odin don’t understand begin to gather, and death rains down from above, it may already be too late to save humankind from destruction at the hands of our own technology.",
+                  "authors": {
+                     "author": {
+                        "id": "1956402",
+                        "name": "Daniel Suarez",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1265394868p5/1956402.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1265394868p2/1956402.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/1956402.Daniel_Suarez",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "4.12",
+                        "ratings_count": "74349",
+                        "text_reviews_count": "6173"
+                     }
+                  },
+                  "published": "",
+                  "work": {
+                     "id": "19106895"
+                  }
+               },
+               "rating": "4",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "",
+               "read_at": "",
+               "date_added": "Thu Jun 22 05:31:56 -0700 2017",
+               "date_updated": "Thu Jun 22 05:32:04 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2036884451",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2036884451",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2025397222",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "26720949",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": "0190469412",
+                  "isbn13": "9780190469412",
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "171",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters",
+                  "title_without_series": "The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters",
+                  "image_url": "https://images.gr-assets.com/books/1465583375m/26720949.jpg",
+                  "small_image_url": "https://images.gr-assets.com/books/1465583375s/26720949.jpg",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/26720949-the-death-of-expertise",
+                  "num_pages": "240",
+                  "format": "Hardcover",
+                  "edition_information": "",
+                  "publisher": "Oxford University Press, USA",
+                  "publication_day": "1",
+                  "publication_year": "2017",
+                  "publication_month": "3",
+                  "average_rating": "3.94",
+                  "ratings_count": "1007",
+                  "description": "The rise of the internet and other technology has made information more easily-accessible than ever before. While this has had the positive effect of equalizing access to knowledge, it also has lowered the bar on what depth of knowledge is required to consider oneself an \"expert.\" A cult of anti-expertise sentiment has coincided with anti-intellectualism, resulting in massively viral yet poorly informed debates ranging from the anti-vaccination movement to attacks on GMOs. This surge in intellectual egalitarianism has altered the landscape of debates-all voices are equal, and \"fact\" is a subjective term. Browsing WebMD puts one on equal footing with doctors, and Wikipedia allows all to be foreign policy experts, scientists, and more. <br />As Tom Nichols shows in The Death of Expertise, there are a number of reasons why this has occurred-ranging from easy access to Internet search engines to a customer satisfaction model within higher education. The product of these interrelated trends, Nichols argues, is a pervasive distrust of expertise among the public coinciding with an unfounded belief among non-experts that their opinions should have equal standing with those of the experts. The experts are not always right, of course, and Nichols discusses expert failure. The crucial point is that bad decisions by experts can and have been effectively challenged by other well-informed experts. The issue now is that the democratization of information dissemination has created an army of ill-informed citizens who denounce expertise. <br />When challenged, non-experts resort to the false argument that the experts are often wrong. Though it may be true, but the solution is not to jettison expertise as an ideal; it is to improve our expertise. Nichols is certainly not opposed to information democratization, but rather the enlightenment people believe they achieve after superficial internet research. He shows in vivid detail the ways in which this impulse is coursing through our culture and body politic, but the larger goal is to explain the benefits that expertise and rigorous learning regimes bestow upon all societies.",
+                  "authors": {
+                     "author": {
+                        "id": "512084",
+                        "name": "Tom Nichols",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/512084.Tom_Nichols",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "3.85",
+                        "ratings_count": "829",
+                        "text_reviews_count": "181"
+                     }
+                  },
+                  "published": "2017",
+                  "work": {
+                     "id": "46750905"
+                  }
+               },
+               "rating": "0",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "currently-reading",
+                     "_exclusive": "true",
+                     "_review_shelf_id": "1679788149",
+                     "_sortable": "false"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Sat Jun 10 08:18:12 -0700 2017",
+               "read_at": "",
+               "date_added": "Sat Jun 10 08:18:12 -0700 2017",
+               "date_updated": "Sat Jun 10 08:18:12 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2025397222",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2025397222",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2011561279",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "20410192",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "256",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Annihilation (Southern Reach, #1)",
+                  "title_without_series": "Annihilation",
+                  "image_url": "https://images.gr-assets.com/books/1410065920m/20410192.jpg",
+                  "small_image_url": "https://images.gr-assets.com/books/1410065920s/20410192.jpg",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/20410192-annihilation",
+                  "num_pages": "",
+                  "format": "",
+                  "edition_information": "",
+                  "publisher": "",
+                  "publication_day": "",
+                  "publication_year": "",
+                  "publication_month": "",
+                  "average_rating": "3.63",
+                  "ratings_count": "54814",
+                  "description": "Area X has been cut off from the rest of the continent for decades. Nature has reclaimed the last vestiges of human civilization. The first expedition returned with reports of a pristine, Edenic landscape; all the members of the second expedition committed suicide; the third expedition died in a hail of gunfire as its members turned on one another; the members of the eleventh expedition returned as shadows of their former selves, and within months of their return, all had died of aggressive cancer. This is the twelfth expedition. <br />Their group is made up of four women: an anthropologist; a surveyor; a psychologist, the de facto leader; and our narrator, a biologist. Their mission is to map the terrain and collect specimens; to record all their observations, scientific and otherwise, of their surroundings and of one another; and, above all, to avoid being contaminated by Area X itself. <br />They arrive expecting the unexpected, and Area X delivers—they discover a massive topographic anomaly and life forms that surpass understanding—but it’s the surprises that came across the border with them, and the secrets the expedition members are keeping from one another, that change everything",
+                  "authors": {
+                     "author": {
+                        "id": "33919",
+                        "name": "Jeff VanderMeer",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1400594878p5/33919.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1400594878p2/33919.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/33919.Jeff_VanderMeer",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "3.69",
+                        "ratings_count": "136893",
+                        "text_reviews_count": "17091"
+                     }
+                  },
+                  "published": "",
+                  "work": {
+                     "id": "24946895"
+                  }
+               },
+               "rating": "2",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Sat May 27 00:00:00 -0700 2017",
+               "read_at": "Mon Jun 05 11:46:40 -0700 2017",
+               "date_added": "Sat May 27 03:59:44 -0700 2017",
+               "date_updated": "Mon Jun 05 11:46:40 -0700 2017",
+               "read_count": "1",
+               "body": {
+                  "__cdata": "I don't get it. there isn't enough content in the book to give any amount of F*** about what's happening.",
+                  "toString": [
+                     null
+                  ]
+               },
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2011561279",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2011561279",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2011560277",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "17607586",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "61",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Human Plus (Post-Human, #4)",
+                  "title_without_series": "Human Plus",
+                  "image_url": "https://images.gr-assets.com/books/1417816330m/17607586.jpg",
+                  "small_image_url": "https://images.gr-assets.com/books/1417816330s/17607586.jpg",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/17607586-human-plus",
+                  "num_pages": "",
+                  "format": "Kindle Edition",
+                  "edition_information": "",
+                  "publisher": "",
+                  "publication_day": "9",
+                  "publication_year": "2013",
+                  "publication_month": "3",
+                  "average_rating": "3.82",
+                  "ratings_count": "943",
+                  "description": "Age Range: 14 years and up<br /><br />The Post-Human Trilogy is done, but the Post-Human series is just heating up! Human Plus is Book 4 in the smash hit science fiction series. Not exactly a sequel, not exactly a prequel, Human Plus will defy expectations. No matter what you thought was coming next, you're in for a surprise! <br />Just one caution: when you're finished, you're going to want to share the surprises with everyone online...Please don't! Please respect future readers and let them enjoy the surprises just as much as you did!",
+                  "authors": {
+                     "author": {
+                        "id": "3162779",
+                        "name": "David  Simpson",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1405409975p5/3162779.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1405409975p2/3162779.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/3162779.David_Simpson",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "3.74",
+                        "ratings_count": "13743",
+                        "text_reviews_count": "965"
+                     }
+                  },
+                  "published": "2013",
+                  "work": {
+                     "id": "24565849"
+                  }
+               },
+               "rating": "4",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "",
+               "read_at": "Sat May 27 03:57:19 -0700 2017",
+               "date_added": "Sat May 27 03:57:19 -0700 2017",
+               "date_updated": "Sat May 27 03:57:19 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2011560277",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2011560277",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2003736322",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "7105194",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "190",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Post-Human (Post-Human, #2)",
+                  "title_without_series": "Post-Human",
+                  "image_url": "https://images.gr-assets.com/books/1417815493m/7105194.jpg",
+                  "small_image_url": "https://images.gr-assets.com/books/1417815493s/7105194.jpg",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/7105194-post-human",
+                  "num_pages": "",
+                  "format": "Kindle Edition",
+                  "edition_information": "",
+                  "publisher": "",
+                  "publication_day": "15",
+                  "publication_year": "2009",
+                  "publication_month": "4",
+                  "average_rating": "3.58",
+                  "ratings_count": "2110",
+                  "description": "The future should have been perfect. Microscopic robots known as nans could repair any damage to your body, keep you young by resetting your cellular clocks, and allow you to download upgrades like intelligence, muscle strength, and eyesight. You were supposed to be able to have anything you wanted with a simple thought, to be able to fly without the aid of a machine, to be able to live forever. But when a small group of five terraformers working on Venus return to Earth, they discover that every other human in the solar system has been gruesomely murdered. Now, James Keats and his four companions must discover what happened to the rest of humanity and fight back if they wish to avoid the same, horrifying fate. Welcome to the post-human era.",
+                  "authors": {
+                     "author": {
+                        "id": "3162779",
+                        "name": "David  Simpson",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1405409975p5/3162779.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1405409975p2/3162779.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/3162779.David_Simpson",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "3.74",
+                        "ratings_count": "13743",
+                        "text_reviews_count": "965"
+                     }
+                  },
+                  "published": "2009",
+                  "work": {
+                     "id": "7363719"
+                  }
+               },
+               "rating": "0",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Thu May 18 11:47:34 -0700 2017",
+               "read_at": "Thu May 18 15:11:58 -0700 2017",
+               "date_added": "Thu May 18 11:47:34 -0700 2017",
+               "date_updated": "Thu May 18 15:11:57 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2003736322",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2003736322",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "2002282131",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "15830541",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "196",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Sub-Human (Post-Human, #1)",
+                  "title_without_series": "Sub-Human",
+                  "image_url": "https://images.gr-assets.com/books/1417815598m/15830541.jpg",
+                  "small_image_url": "https://images.gr-assets.com/books/1417815598s/15830541.jpg",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/15830541-sub-human",
+                  "num_pages": "223",
+                  "format": "Kindle Edition",
+                  "edition_information": "",
+                  "publisher": "",
+                  "publication_day": "14",
+                  "publication_year": "2012",
+                  "publication_month": "8",
+                  "average_rating": "3.65",
+                  "ratings_count": "2296",
+                  "description": "Before he was Old-timer, he was Craig Emilson, a young doctor, sucked into military service at the outbreak of World War III. Enlisting to become a Special Forces suborbital paratrooper, Craig is selected to take part in the most important mission in American military history—a sortie into enemy territory to eliminate the world’s first strong Artificial Intelligence. The mission is only the beginning of Craig’s story, and for the story of humanity as well, as they accelerate towards a world that is post-human.",
+                  "authors": {
+                     "author": {
+                        "id": "3162779",
+                        "name": "David  Simpson",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1405409975p5/3162779.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1405409975p2/3162779.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/3162779.David_Simpson",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "3.74",
+                        "ratings_count": "13743",
+                        "text_reviews_count": "965"
+                     }
+                  },
+                  "published": "2012",
+                  "work": {
+                     "id": "21565171"
+                  }
+               },
+               "rating": "3",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Tue May 16 00:00:00 -0700 2017",
+               "read_at": "Thu May 18 11:47:19 -0700 2017",
+               "date_added": "Tue May 16 20:06:17 -0700 2017",
+               "date_updated": "Thu May 18 11:47:19 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/2002282131",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/2002282131",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "1991771603",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "31396262",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": "110198466X",
+                  "isbn13": "9781101984666",
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "262",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Change Agent",
+                  "title_without_series": "Change Agent",
+                  "image_url": "https://images.gr-assets.com/books/1470817172m/31396262.jpg",
+                  "small_image_url": "https://images.gr-assets.com/books/1470817172s/31396262.jpg",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/31396262-change-agent",
+                  "num_pages": "416",
+                  "format": "Hardcover",
+                  "edition_information": "",
+                  "publisher": "Dutton Books",
+                  "publication_day": "18",
+                  "publication_year": "2017",
+                  "publication_month": "4",
+                  "average_rating": "3.98",
+                  "ratings_count": "2296",
+                  "description": "<strong><em>New York Times</em> bestselling author Daniel Suarez delivers an exhilarating sci-fi thriller exploring a potential future where CRISPR genetic editing allows the human species to control evolution itself.<br /><br />On a crowded train platform, Interpol agent Kenneth Durand feels the sting of a needle— and his transformation begins. . . . </strong><br />  <br /> In 2045 Kenneth Durand leads Interpol’s most effective team against genetic crime, hunting down black market labs that perform \"vanity edits\" on human embryos for a price. These illegal procedures augment embryos in ways that are rapidly accelerating human evolution—preying on human-trafficking victims to experiment and advance their technology.<br />  <br /> With the worlds of genetic crime and human trafficking converging, Durand and his fellow Interpol agents discover that one figure looms behind it all: Marcus Demang Wyckes, leader of a powerful and sophisticated cartel known as the Huli jing.<br />  <br /> But the Huli jing have identified Durand, too. After being forcibly dosed with a radical new change agent, Durand wakes from a coma weeks later to find he’s been genetically transformed into someone else—his most wanted suspect: Wyckes.<br />  <br /> Now a fugitive, pursued through the genetic underworld by his former colleagues and the police, Durand is determined to restore his original DNA by locating the source of the mysterious—and highly valuable—change agent. But Durand hasn’t anticipated just how difficult locating his enemy will be. With the technology to genetically edit the living, Wyckes and his Huli jing could be anyone and everyone—and they have plans to undermine identity itself.<br />",
+                  "authors": {
+                     "author": {
+                        "id": "1956402",
+                        "name": "Daniel Suarez",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1265394868p5/1956402.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1265394868p2/1956402.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/1956402.Daniel_Suarez",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "4.12",
+                        "ratings_count": "74349",
+                        "text_reviews_count": "6173"
+                     }
+                  },
+                  "published": "2017",
+                  "work": {
+                     "id": "52090299"
+                  }
+               },
+               "rating": "4",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Fri May 05 00:00:00 -0700 2017",
+               "read_at": "Sat May 13 08:49:57 -0700 2017",
+               "date_added": "Fri May 05 10:29:22 -0700 2017",
+               "date_updated": "Sat May 13 08:49:57 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/1991771603",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/1991771603",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "1974768407",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "34153598",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": {
+                     "_nil": "true"
+                  },
+                  "isbn13": {
+                     "_nil": "true"
+                  },
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "146",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "For We Are Many (Bobiverse, #2)",
+                  "title_without_series": "For We Are Many",
+                  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/34153598-for-we-are-many",
+                  "num_pages": "",
+                  "format": "",
+                  "edition_information": "",
+                  "publisher": "",
+                  "publication_day": "",
+                  "publication_year": "",
+                  "publication_month": "",
+                  "average_rating": "4.41",
+                  "ratings_count": "7897",
+                  "description": "Bob Johansson didn't believe in an afterlife, so waking up after being killed in a car accident was a shock. To add to the surprise, he is now a sentient computer and the controlling intelligence for a Von Neumann probe. <br /><br />Bob and his copies have been spreading out from Earth for 40 years now, looking for habitable planets. But that's the only part of the plan that's still in one piece. A system-wide war has killed off 99.9% of the human race; nuclear winter is slowly making the Earth uninhabitable; a radical group wants to finish the job on the remnants of humanity; the Brazilian space probes are still out there, still trying to blow up the competition; And the Bobs have discovered a spacefaring species that sees all other life as food. <br /><br />Bob left Earth anticipating a life of exploration and blissful solitude. Instead he's become a sky god to a primitive native species, the only hope for getting humanity to a new home, and possibly the only thing that can prevent every living thing in the local sphere from ending up as dinner.",
+                  "authors": {
+                     "author": {
+                        "id": "12130438",
+                        "name": "Dennis E. Taylor",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "true",
+                           "__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "4.35",
+                        "ratings_count": "28622",
+                        "text_reviews_count": "2625"
+                     }
+                  },
+                  "published": "",
+                  "work": {
+                     "id": "54144664"
+                  }
+               },
+               "rating": "5",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "read",
+                     "_exclusive": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "Sat Apr 22 00:00:00 -0700 2017",
+               "read_at": "Sat Apr 29 21:04:14 -0700 2017",
+               "date_added": "Mon Apr 17 21:14:25 -0700 2017",
+               "date_updated": "Sat Apr 29 21:04:14 -0700 2017",
+               "read_count": "1",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/1974768407",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/1974768407",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "1919272355",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "312612",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": "0575071141",
+                  "isbn13": "9780575071148",
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "59",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "Mindbridge",
+                  "title_without_series": "Mindbridge",
+                  "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                  "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/312612.Mindbridge",
+                  "num_pages": "186",
+                  "format": "Paperback",
+                  "edition_information": "Gollancz SF Collector's Edition",
+                  "publisher": "Gollancz",
+                  "publication_day": "",
+                  "publication_year": "",
+                  "publication_month": "",
+                  "average_rating": "3.74",
+                  "ratings_count": "1788",
+                  "description": "<div><b>The discovery of a remarkable alien technology light years from Earth could have devastating consequences for humanity in this science fiction classic by the author of the Hugo and Nebula Award–winning novel <i>The Forever War</i></b><br /><br /> In the far future, the accidental scientific breakthrough known as the Levant-Meyer Translation changes everything. Suddenly people can leap instantaneously across the universe, albeit temporarily, enabling teams of Tamers to explore far-flung worlds and prepare them for possible human habitation. But one expedition doesn’t make it back alive.<br /><br /> Jacque Lefavre achieves his lifelong dream of becoming a Tamer when he joins the Agency for Extraterrestrial Development. On his first exploratory mission to a planet known as Groombridge, Lefavre and his team encounter something truly extraordinary: a small, nonsentient creature that, when joined with another of its kind, creates a telepathic “bridge.” But exploiting this psychic link could bring unanticipated perils, for it is about to bring Lefavre and his team into dangerously close contact with the L’vrai, an ancient, advanced, and hostile race of star travelers—an encounter that could prove to be the first step in humankind’s salvation . . . or its doom.<br /><br /></div>",
+                  "authors": {
+                     "author": {
+                        "id": "12476",
+                        "name": "Joe Haldeman",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1224736362p5/12476.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1224736362p2/12476.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/12476.Joe_Haldeman",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "3.97",
+                        "ratings_count": "173267",
+                        "text_reviews_count": "8813"
+                     }
+                  },
+                  "published": "",
+                  "work": {
+                     "id": "1876516"
+                  }
+               },
+               "rating": "0",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "to-read",
+                     "_exclusive": "true",
+                     "_review_shelf_id": "1575756062",
+                     "_sortable": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "",
+               "read_at": "",
+               "date_added": "Mon Feb 20 07:17:27 -0800 2017",
+               "date_updated": "Mon Feb 20 07:17:28 -0800 2017",
+               "read_count": "0",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/1919272355",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/1919272355",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            },
+            {
+               "id": "1919271035",
+               "book": {
+                  "id": {
+                     "_type": "integer",
+                     "__text": "23848027",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "isbn": "0765375516",
+                  "isbn13": "9780765375513",
+                  "text_reviews_count": {
+                     "_type": "integer",
+                     "__text": "481",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  "title": "New Moon (Luna #1)",
+                  "title_without_series": "New Moon",
+                  "image_url": "https://images.gr-assets.com/books/1437138235m/23848027.jpg",
+                  "small_image_url": "https://images.gr-assets.com/books/1437138235s/23848027.jpg",
+                  "large_image_url": "",
+                  "link": "https://www.goodreads.com/book/show/23848027-new-moon",
+                  "num_pages": "398",
+                  "format": "Hardcover",
+                  "edition_information": "",
+                  "publisher": "Tor Books",
+                  "publication_day": "22",
+                  "publication_year": "2015",
+                  "publication_month": "9",
+                  "average_rating": "3.80",
+                  "ratings_count": "3306",
+                  "description": "The Moon wants to kill you. <br /><br />Maybe it will kill you when the per diem for your allotted food, water, and air runs out, just before you hit paydirt. Maybe it will kill you when you are trapped between the reigning corporations-the Five Dragons-in a foolish gamble against a futuristic feudal society. On the Moon, you must fight for every inch you want to gain. And that is just what Adriana Corta did. <br /><br />As the leader of the Moon's newest \"dragon,\" Adriana has wrested control of the Moon's Helium-3 industry from the Mackenzie Metal corporation and fought to earn her family's new status. Now, in the twilight of her life, Adriana finds her corporation-Corta Helio-confronted by the many enemies she made during her meteoric rise. If the Corta family is to survive, Adriana's five children must defend their mother's empire from her many enemies... and each other.",
+                  "authors": {
+                     "author": {
+                        "id": "25376",
+                        "name": "Ian McDonald",
+                        "role": "",
+                        "image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1372533252p5/25376.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "small_image_url": {
+                           "_nophoto": "false",
+                           "__cdata": "https://images.gr-assets.com/authors/1372533252p2/25376.jpg",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "link": {
+                           "__cdata": "https://www.goodreads.com/author/show/25376.Ian_McDonald",
+                           "toString": [
+                              null
+                           ]
+                        },
+                        "average_rating": "3.84",
+                        "ratings_count": "33698",
+                        "text_reviews_count": "4088"
+                     }
+                  },
+                  "published": "2015",
+                  "work": {
+                     "id": "43458032"
+                  }
+               },
+               "rating": "0",
+               "votes": "0",
+               "spoiler_flag": "false",
+               "spoilers_state": "none",
+               "shelves": {
+                  "shelf": {
+                     "_name": "to-read",
+                     "_exclusive": "true",
+                     "_review_shelf_id": "1575754732",
+                     "_sortable": "true"
+                  }
+               },
+               "recommended_for": "",
+               "recommended_by": "",
+               "started_at": "",
+               "read_at": "",
+               "date_added": "Mon Feb 20 07:15:46 -0800 2017",
+               "date_updated": "Mon Feb 20 07:15:47 -0800 2017",
+               "read_count": "0",
+               "comments_count": "0",
+               "url": {
+                  "__cdata": "https://www.goodreads.com/review/show/1919271035",
+                  "toString": [
+                     null
+                  ]
+               },
+               "link": {
+                  "__cdata": "https://www.goodreads.com/review/show/1919271035",
+                  "toString": [
+                     null
+                  ]
+               },
+               "owned": "0"
+            }
+         ],
+         "_start": "1",
+         "_end": "20",
+         "_total": "404"
+      }
+   }
+}

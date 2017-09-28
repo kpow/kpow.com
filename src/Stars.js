@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import { Row, Col, Thumbnail, Button } from 'react-bootstrap';
+import StarItem from './StarItem.js';
 
 class Stars extends Component {
   constructor(props) {
@@ -28,26 +30,25 @@ class Stars extends Component {
       })
   }
 
-  render() {
 
-    if (this.state.requestFailed) return <p>Failed!</p>
-    if (!this.state.starsData) return <p>Loading...</p>
+    render() {
 
-    let title = this.state.starsData[0].title;
-    let image = `https://kpow.space/screenshots/screenshot${this.state.starsData[0].id}.jpg`;
-    let summary = this.state.starsData[0].summary;
-    let url = this.state.starsData[0].url;
+      if (this.state.requestFailed) return <p>Failed!</p>
+      if (!this.state.starsData) return <p>Loading...</p>
+      let displayItems =[this.state.starsData[27],this.state.starsData[28],this.state.starsData[29]];
 
-    return (
-      <div>
-        <h2>{title}</h2>
-        <img src={image} alt="screen" />
-        <p>{summary}</p>
-        <a href={url}>
-        <p>click</p>
-        </a>
-      </div>
-    )
+      return (
+
+        <div>
+          <row>
+            {displayItems.map((item, index) => (
+              <Col xs={6} md={4}>
+                <StarItem data={item} />
+              </Col>
+            ))}
+          </row>
+        </div>
+      )
   }
 }
 

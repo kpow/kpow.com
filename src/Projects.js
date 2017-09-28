@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import { Row, Col, Thumbnail, Button, Carousel } from 'react-bootstrap';
+
 
 class Projects extends Component {
   constructor(props) {
@@ -36,8 +38,34 @@ class Projects extends Component {
 
     return (
       <div>
-        <h2>{this.state.projectsData.data[0].dateCreated}</h2>
+      <row>
+
+          <Col xs={0} md={1}>
+
+          </Col>
+
+      <Col xs={12} md={10}>
+        <Carousel indicators={false}>
+
+        {this.state.projectsData.data.map((item, index) => (
+          <Carousel.Item>
+            <img width={1200} height={800} alt="900x500" src={item.content.image.imageUrl}/>
+            <Carousel.Caption>
+              <h3>{item.content.title}</h3>
+              <p>{item.content.blurb.markdown}</p>
+            </Carousel.Caption>
+          </Carousel.Item>
+        ))}
+
+        </Carousel>
+        </Col>
+        <Col xs={0} md={1}>
+
+        </Col>
+        </row>
       </div>
+
+
     )
   }
 }
