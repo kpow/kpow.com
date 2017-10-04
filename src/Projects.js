@@ -39,6 +39,16 @@ class Projects extends Component {
     return (
       <div>
       <row>
+      <style type="text/css">{`
+      .btn-custom {
+          background-color: purple;
+          float:right;
+          color:#fff;
+          margin:10px;
+          margin-right:100px;
+          z-index:10000000;
+      }
+      `}</style>
 
           <Col xs={0} md={1}>
 
@@ -52,7 +62,20 @@ class Projects extends Component {
             <img width={1200} height={800} alt="900x500" src={item.content.image.imageUrl}/>
             <Carousel.Caption>
               <h3>{item.content.title}</h3>
-              <p>{item.content.blurb.markdown}</p>
+              <p>{item.content.blurb.markdown}
+
+              {item.content.url ? (
+
+                <Button
+                   bsStyle="custom"
+                   href={item.content.url} >
+                   view project
+                </Button>
+              ) : (
+                <br />
+              )}
+              </p>
+
             </Carousel.Caption>
           </Carousel.Item>
         ))}

@@ -21,9 +21,8 @@ class Books extends Component {
       })
       .then(d => d.json())
       .then(d => {
-        this.setState({
-          booksData: d
-        })
+        this.setState({ booksData: d });
+        this.pushIt();
       }, () => {
         this.setState({
           requestFailed: true
@@ -31,24 +30,28 @@ class Books extends Component {
       })
   }
 
+pushIt(){
+  console.log();
+  let data = this.state.booksData.GoodreadsResponse.reviews.review;
+  this.setState({
+    displayItems: [data[0], data[1], data[2]]
+  });
+}
   render() {
 
     if (this.state.requestFailed) return <p>Failed!</p>
     if (!this.state.booksData) return <p>Loading...</p>
-    let displayItems =[this.state.booksData.GoodreadsResponse.reviews.review[0],
-                       this.state.booksData.GoodreadsResponse.reviews.review[1],
-                       this.state.booksData.GoodreadsResponse.reviews.review[2],
-                       this.state.booksData.GoodreadsResponse.reviews.review[3]];
-    console.log(displayItems[0]);
+    if (!this.state.displayItems) return <p>Loading...</p>
+
     return (
 
       <div>
         <row>
-          {displayItems.map((item, index) => (
-            <Col xs={6} md={6}>
-            <BookItem data={item} />
-            </Col>
-          ))}
+        {this.state.displayItems.map((item, index) => (
+          <Col xs={1} md={4}>
+          <BookItem data={item} />
+          </Col>
+        ))}
         </row>
       </div>
     )

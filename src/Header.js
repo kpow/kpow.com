@@ -26,14 +26,9 @@ class Header extends Component {
           <Navbar.Toggle />
         </Navbar.Header>
         <Navbar.Collapse>
-          <Nav>
-            <NavItem eventKey={1} href="#">Stars</NavItem>
-            <NavItem eventKey={2} href="#">Books</NavItem>
 
-          </Nav>
 
         </Navbar.Collapse>
-        <About />
       </Navbar>
     )
 }

@@ -35,14 +35,17 @@ class Stars extends Component {
 
       if (this.state.requestFailed) return <p>Failed!</p>
       if (!this.state.starsData) return <p>Loading...</p>
-      let displayItems =[this.state.starsData[27],this.state.starsData[28],this.state.starsData[29]];
+      let displayItems =[this.state.starsData[27],
+                         this.state.starsData[28],
+                         this.state.starsData[29]
+                       ];
 
       return (
 
         <div>
           <row>
             {displayItems.map((item, index) => (
-              <Col xs={6} md={4}>
+              <Col xs={12} md={4}>
                 <StarItem data={item} />
               </Col>
             ))}
