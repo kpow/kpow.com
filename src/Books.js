@@ -9,7 +9,10 @@ class Books extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      requestFailed: false
+      requestFailed: false,
+      currentPage:1,
+      nextButtonDisabled:false,
+      prevButtonDisabled:true
     }
   }
 
@@ -36,6 +39,35 @@ class Books extends Component {
           requestFailed: true
         })
       })
+  }
+
+  nextPage = () =>{
+    let data = this.state.booksData.GoodreadsResponse.reviews.review;
+
+    let totalItemsInView = 3;
+    let totalPages = Math.round(data.length/totalItemsInView);
+      console.log(totalPages);
+    let nextPage = this.state.currentPage+1;
+    let newSeed = nextPage*totalItemsInView;
+    if(nextPage>1){ this.setState({prevButtonDisabled: false}); }
+    if(nextPage>totalPages-2){ this.setState({nextButtonDisabled: true}); }
+    this.setState({  currentPage:nextPage,
+                     displayItems: [data[newSeed], data[newSeed+1], data[newSeed+2]]
+                   });
+  }
+  prevPage = () =>{
+    let data = this.state.booksData.GoodreadsResponse.reviews.review;
+
+    let totalItemsInView = 3;
+    let totalPages = Math.round(data.length/totalItemsInView);
+
+    let nextPage = this.state.currentPage-1;
+    let newSeed = nextPage*totalItemsInView;
+    if(nextPage<1){ this.setState({prevButtonDisabled: true}); }
+    if(nextPage<=totalPages-2){ this.setState({nextButtonDisabled: false}); }
+    this.setState({  currentPage:nextPage,
+                     displayItems: [data[newSeed], data[newSeed+1], data[newSeed+2]]
+                   });
   }
 
   render() {
@@ -65,7 +97,12 @@ class Books extends Component {
           ))}
           </Grid.Row>
         </Grid>
-
+        <Container>
+          <Button.Group compact size='medium' style={{float:'right', paddingTop:'15px', marginBottom:'15px'}}>
+            <Button onClick={this.prevPage} disabled={this.state.prevButtonDisabled} labelPosition='left' icon='left chevron' content='Prev' />
+            <Button onClick={this.nextPage} disabled={this.state.nextButtonDisabled} labelPosition='right' icon='right chevron' content='Next' />
+          </Button.Group>
+        </Container>
       </div>
     )
 }

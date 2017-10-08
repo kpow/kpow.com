@@ -9,24 +9,31 @@ class Stars extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      requestFailed: false
+      requestFailed: false,
+      currentPage:1,
+      nextButtonDisabled:false,
+      prevButtonDisabled:true
     }
   }
-
 
   componentDidMount() {
     fetch('https://kpow.space/services/stars.php?page=1')
       .then(response => {
-        if (!response.ok) {
-          throw Error("Network request failed")
-        }
+        if (!response.ok) {  throw Error("Network request failed")  }
         return response
       })
       .then(d => d.json())
       .then(d => {
-        this.setState({
-          starsData: d
-        })
+        this.setState({ starsData: d });
+
+        try {
+          let data = this.state.starsData;
+          this.setState({  displayItems: [data[0], data[1], data[2]] });
+        }
+        catch(err) {
+          this.setState({requestFailed: true});
+        }
+
       }, () => {
         this.setState({
           requestFailed: true
@@ -34,15 +41,38 @@ class Stars extends Component {
       })
   }
 
+    nextPage = () =>{
+      let data = this.state.starsData;
+
+      let totalItemsInView = 3;
+      let totalPages = Math.round(data.length/totalItemsInView);
+      let nextPage = this.state.currentPage+1;
+      let newSeed = nextPage*totalItemsInView;
+      if(nextPage>1){ this.setState({prevButtonDisabled: false}); }
+      if(nextPage>totalPages-2){ this.setState({nextButtonDisabled: true}); }
+      this.setState({  currentPage:nextPage,
+                       displayItems: [data[newSeed], data[newSeed+1], data[newSeed+2]]
+                     });
+    }
+    prevPage = () =>{
+      let data = this.state.starsData;
+
+      let totalItemsInView = 3;
+      let totalPages = Math.round(data.length/totalItemsInView);
+      let nextPage = this.state.currentPage-1;
+      let newSeed = nextPage*totalItemsInView;
+      if(nextPage<1){ this.setState({prevButtonDisabled: true}); }
+      if(nextPage<=totalPages-2){ this.setState({nextButtonDisabled: false}); }
+      this.setState({  currentPage:nextPage,
+                       displayItems: [data[newSeed], data[newSeed+1], data[newSeed+2]]
+                     });
+    }
 
     render() {
 
       if (this.state.requestFailed) return <p>Failed!</p>
       if (!this.state.starsData) return <p>Loading...</p>
-      let displayItems =[this.state.starsData[27],
-                         this.state.starsData[28],
-                         this.state.starsData[29]
-                       ];
+      if (!this.state.displayItems) return <p>Loading...</p>
 
       return (
 
@@ -58,13 +88,19 @@ class Stars extends Component {
 
           <Grid columns={3} container stackable>
             <Grid.Row>
-            {displayItems.map((item, index) => (
+            {this.state.displayItems.map((item, index) => (
               <Grid.Column>
                 <StarItem data={item} />
               </Grid.Column>
             ))}
             </Grid.Row>
           </Grid>
+          <Container>
+            <Button.Group compact size='medium' style={{float:'right', paddingTop:'15px'}}>
+              <Button onClick={this.prevPage} disabled={this.state.prevButtonDisabled} labelPosition='left' icon='left chevron' content='Prev' />
+              <Button onClick={this.nextPage} disabled={this.state.nextButtonDisabled} labelPosition='right' icon='right chevron' content='Next' />
+            </Button.Group>
+          </Container>
 
         </div>
       )

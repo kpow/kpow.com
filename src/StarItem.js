@@ -29,9 +29,7 @@ class StarItem extends Component {
         target='_new'
         meta={this.props.data.author}
         description={this.props.data.summary}
-        extra={articleTime}
-      >
-
+        extra={articleTime}>
       </Card>
       </div>
     )

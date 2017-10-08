@@ -18,7 +18,7 @@ class Footer extends Component {
 
     return (
 
-      <Segment inverted vertical style={{ padding: '5em 0em', marginTop:'3em' }}>
+      <Segment inverted vertical style={{ padding: '5em 0em', marginTop:'4.25em' }}>
         <Container>
           <Grid divided inverted stackable>
             <Grid.Row>
@@ -32,12 +32,10 @@ class Footer extends Component {
               <Grid.Column width={3}>
                 <Header inverted as='h4' content='Other Stuff' />
                 <List link inverted>
-
-
                 </List>
               </Grid.Column>
               <Grid.Column width={9}>
-                <Image src='http://graph.facebook.com/1169805863/picture' floated='left' verticalAlign='bottom'/>
+                <Image src='https://graph.facebook.com/1169805863/picture' floated='left' verticalAlign='bottom'/>
                 <Header as='h4' inverted subheader='Kevin Power' content='About Kpow' style={{ margin:0, marginBottom:'30px'}}/>
 
                 <p>Interwebz wrangler. Tech Director and Developer at <a href='https://s2content.com'>S2</a>. Voracious reader and  dad extraordinaire. Music, Travel, Poker, Pugs, and Pixels.</p>
