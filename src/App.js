@@ -1,8 +1,13 @@
 import React, { Component } from 'react';
 import { Container, Divider, Dropdown, Grid, Header, Image, List, Menu, Segment } from 'semantic-ui-react';
 import './App.css';
+import { Link, Route, Switch } from 'react-router-dom';
 
-import HomepageLayout from './HomepageLayout.js'
+import AllStarsLayout from './AllStarsLayout.js';
+import AllBooksLayout from './AllBooksLayout.js';
+import HomepageLayout from './HomepageLayout.js';
+import SiteHeader from './SiteHeader.js';
+import Footer from './Footer.js';
 
 class App extends Component {
   render() {
@@ -10,7 +15,13 @@ class App extends Component {
     return (
 
       <div>
-        <HomepageLayout />
+        <SiteHeader />
+        <Switch>
+          <Route exact path='/' component={HomepageLayout}/>
+          <Route exact path='/allstars' component={AllStarsLayout}/>
+          <Route exact path='/allbooks' component={AllBooksLayout}/>
+        </Switch>
+        <Footer />
       </div>
 
     );

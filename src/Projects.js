@@ -51,31 +51,34 @@ class Projects extends Component {
 
     return (
       <div>
-      <Container>
-      <Header as='h1' dividing inverted
-       style={{ paddingTop: '1em' }}
-       content = 'k-projects'
-       subheader="a few of the projects I've worked on"
-        />
+      <Segment inverted vertical style={{ minHeight: 700 }}>
+        <Container>
 
-       <Slider {...settings}>
-       {this.state.projectsData.data.map((item, index) => (
-           <div>
-           {item.content.url ? (
-             <Button primary href={item.content.url} target='_new' className='project-button'>
-                view project
-             </Button>
-           ) : ( <br /> )}
-             <Image src={item.content.image.imageUrl} style={{height:400}} centered/>
-             <Container text className='project-caption'>
-               <h3>{item.content.title}</h3>
-               <p>{item.content.blurb.markdown}</p>
-               </Container>
-           </div>
-         ))}
-        </Slider>
+        <Header as='h1' dividing inverted
+         style={{ paddingTop: '2em' }}
+         content = 'k-projects'
+         subheader="a few of the projects I've worked on"
+          />
 
-      </Container>
+         <Slider {...settings}>
+         {this.state.projectsData.data.map((item, index) => (
+             <div style={{width:"600px"}}>
+             {item.content.url ? (
+               <Button primary href={item.content.url} target='_new' className='project-button'>
+                  view project
+               </Button>
+             ) : ( <br /> )}
+               <Image src={item.content.image.imageUrl} style={{height:400}} centered/>
+               <Container text className='project-caption'>
+                 <h3>{item.content.title}</h3>
+                 <p>{item.content.blurb.markdown}</p>
+                 </Container>
+             </div>
+           ))}
+          </Slider>
+
+        </Container>
+      </Segment>
       </div>
 
 

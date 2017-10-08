@@ -9,7 +9,7 @@ import SiteHeader from './SiteHeader.js'
 
 
 
-export default class HomepageLayout extends Component {
+export default class AllBooksLayout extends Component {
 
   render() {
 
@@ -17,9 +17,8 @@ export default class HomepageLayout extends Component {
       <div style={{marginTop:'75px'}}>
 
 
-        <Stars totalItemsInView={3}/>
+        <Stars totalItemsInView={21}/>
 
-        <Books totalItemsInView={3}/>
 
       </div>
     )

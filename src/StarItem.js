@@ -22,7 +22,7 @@ class StarItem extends Component {
     return (
       <div>
       <Card as='a'
-        style={{minHeight:'375px', maxHeight:'375px'}}
+        style={{minHeight:'375px', maxHeight:'375px', marginBottom:'20px'}}
         image={image1}
         header={this.props.data.title}
         href={this.props.data.url}

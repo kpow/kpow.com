@@ -12,7 +12,9 @@ class Books extends Component {
       requestFailed: false,
       currentPage:1,
       nextButtonDisabled:false,
-      prevButtonDisabled:true
+      prevButtonDisabled:true,
+      totalItemsInView:3,
+      totalItemsInView:props.totalItemsInView
     }
   }
 
@@ -24,11 +26,14 @@ class Books extends Component {
       })
       .then(d => d.json())
       .then(d => {
-        this.setState({ booksData: d });
+        this.setState({ booksData: d.GoodreadsResponse.reviews.review });
 
         try {
-          let data = this.state.booksData.GoodreadsResponse.reviews.review;
-          this.setState({  displayItems: [data[0], data[1], data[2]] });
+          let toDisplayItems = [];
+          for(let i=1; i<=this.state.totalItemsInView; i++){
+            toDisplayItems.push(this.state.booksData[i]);
+          }
+          this.setState({  displayItems:toDisplayItems });
         }
         catch(err) {
           this.setState({requestFailed: true});
@@ -42,32 +47,34 @@ class Books extends Component {
   }
 
   nextPage = () =>{
-    let data = this.state.booksData.GoodreadsResponse.reviews.review;
+    let data = this.state.booksData;
 
-    let totalItemsInView = 3;
-    let totalPages = Math.round(data.length/totalItemsInView);
-      console.log(totalPages);
+    let totalPages = Math.floor(data.length/this.state.totalItemsInView);
     let nextPage = this.state.currentPage+1;
-    let newSeed = nextPage*totalItemsInView;
+    let newSeed = nextPage*this.state.totalItemsInView;
+    let newSeedOffset = (this.state.totalItemsInView-1)+newSeed;
+    let toDisplayItems = [];
     if(nextPage>1){ this.setState({prevButtonDisabled: false}); }
     if(nextPage>totalPages-2){ this.setState({nextButtonDisabled: true}); }
-    this.setState({  currentPage:nextPage,
-                     displayItems: [data[newSeed], data[newSeed+1], data[newSeed+2]]
-                   });
+
+    for(let i=newSeed; i<=newSeedOffset; i++){ toDisplayItems.push(data[i]); }
+
+    this.setState({ currentPage:nextPage, displayItems: toDisplayItems });
   }
   prevPage = () =>{
-    let data = this.state.booksData.GoodreadsResponse.reviews.review;
+     let data = this.state.booksData;
 
-    let totalItemsInView = 3;
-    let totalPages = Math.round(data.length/totalItemsInView);
+     let totalPages = Math.floor(data.length/this.state.totalItemsInView);
+     let nextPage = this.state.currentPage-1;
+     let newSeed = nextPage*this.state.totalItemsInView;
+     let newSeedOffset = (this.state.totalItemsInView-1)+newSeed;
+     let toDisplayItems = [];
+     if(nextPage<1){ this.setState({prevButtonDisabled: true}); }
+     if(nextPage<=totalPages-2){ this.setState({nextButtonDisabled: false}); }
 
-    let nextPage = this.state.currentPage-1;
-    let newSeed = nextPage*totalItemsInView;
-    if(nextPage<1){ this.setState({prevButtonDisabled: true}); }
-    if(nextPage<=totalPages-2){ this.setState({nextButtonDisabled: false}); }
-    this.setState({  currentPage:nextPage,
-                     displayItems: [data[newSeed], data[newSeed+1], data[newSeed+2]]
-                   });
+     for(let i=newSeed; i<=newSeedOffset; i++){ toDisplayItems.push(data[i]); }
+
+     this.setState({ currentPage:nextPage, displayItems: toDisplayItems });
   }
 
   render() {
