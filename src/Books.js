@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import { Row, Col, Thumbnail, Button, Carousel } from 'react-bootstrap';
+import {
+  Button, Divider, Container, Grid, Header, Icon, Image, Item, Label, Menu, Segment, Step, Table,
+} from 'semantic-ui-react'
 import BookItem from './BookItem.js';
 
 
@@ -14,15 +16,21 @@ class Books extends Component {
   componentDidMount() {
     fetch('/static_data/books1.json')
       .then(response => {
-        if (!response.ok) {
-          throw Error("Network request failed")
-        }
+        if (!response.ok) {  throw Error("Network request failed")  }
         return response
       })
       .then(d => d.json())
       .then(d => {
         this.setState({ booksData: d });
-        this.pushIt();
+
+        try {
+          let data = this.state.booksData.GoodreadsResponse.reviews.review;
+          this.setState({  displayItems: [data[0], data[1], data[2]] });
+        }
+        catch(err) {
+          this.setState({requestFailed: true});
+        }
+
       }, () => {
         this.setState({
           requestFailed: true
@@ -30,13 +38,6 @@ class Books extends Component {
       })
   }
 
-pushIt(){
-  console.log();
-  let data = this.state.booksData.GoodreadsResponse.reviews.review;
-  this.setState({
-    displayItems: [data[0], data[1], data[2]]
-  });
-}
   render() {
 
     if (this.state.requestFailed) return <p>Failed!</p>
@@ -46,13 +47,25 @@ pushIt(){
     return (
 
       <div>
-        <row>
-        {this.state.displayItems.map((item, index) => (
-          <Col xs={1} md={4}>
-          <BookItem data={item} />
-          </Col>
-        ))}
-        </row>
+
+        <Container>
+          <Header as='h1' dividing
+           style={{ marginBottom: '1em', marginTop:'1.25em' }}
+           content = 'book feed'
+           subheader="what I'm reading courtesy of goodreads"
+           />
+        </Container>
+
+        <Grid columns={3} container stackable>
+          <Grid.Row>
+          {this.state.displayItems.map((item, index) => (
+            <Grid.Column>
+              <BookItem data={item} />
+            </Grid.Column>
+          ))}
+          </Grid.Row>
+        </Grid>
+
       </div>
     )
 }

@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import { Navbar, Jumbotron,Thumbnail, Button, Grid, Nav, NavItem, Carousel, Row, Col } from 'react-bootstrap';
-
+import {  Button, Divider, Container, Grid, Card, Header, Icon, Image, Item, Label, Menu, Segment, Step, Table } from 'semantic-ui-react'
 
 class BookItem extends Component {
   constructor(props) {
@@ -13,23 +12,26 @@ class BookItem extends Component {
   }
 
   render() {
-    console.log(this.props.data.book.title);
     let theBook = this.props.data.book;
     return (
       <div>
-      <Thumbnail src={theBook.image_url} alt="242x200" className="thumbnailHeight">
-        <h3>{theBook.title_without_series}</h3>
-        <p className="book-description">{theBook.description}</p>
-        <p>
-          <Button
-             bsStyle="primary"
-             href={theBook.link} >
-             check it out
-          </Button>&nbsp;
-        </p>
-      </Thumbnail>
+
+        <Card as='a' href={theBook.link} target='_new' style={{minHeight:'470px', maxHeight:'470px'}}>
+         <Image src={theBook.image_url} style={{height:200}} centered/>
+         <Card.Content>
+           <Card.Header>{theBook.title_without_series}</Card.Header>
+           <Card.Meta>{theBook.authors.author.name}</Card.Meta>
+           <Card.Description
+                style={{maxHeight:'150px', minHeight:'150px', overflow:'hidden'}}
+                dangerouslySetInnerHTML={{ __html: theBook.description }} />
+         </Card.Content>
+         <Card.Content extra>
+           Avg. Rating: {theBook.average_rating} | Total Ratings: {theBook.ratings_count}
+         </Card.Content>
+       </Card>
 
       </div>
+
     )
   }
 }

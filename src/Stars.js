@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
-import { Row, Col, Thumbnail, Button } from 'react-bootstrap';
+import {
+  Button, Divider, Container, Grid, Header, Icon, Image, Item, Label, Menu, Segment, Step, Table,
+} from 'semantic-ui-react'
 import StarItem from './StarItem.js';
+
 
 class Stars extends Component {
   constructor(props) {
@@ -9,6 +12,7 @@ class Stars extends Component {
       requestFailed: false
     }
   }
+
 
   componentDidMount() {
     fetch('https://kpow.space/services/stars.php?page=1')
@@ -43,13 +47,25 @@ class Stars extends Component {
       return (
 
         <div>
-          <row>
+
+          <Container>
+            <Header as='h1' dividing
+             style={{ marginBottom: '1em', marginTop:'1.25em' }}
+             content = 'star feed'
+             subheader="articles in my RSS feed that get a star :)"
+             />
+          </Container>
+
+          <Grid columns={3} container stackable>
+            <Grid.Row>
             {displayItems.map((item, index) => (
-              <Col xs={12} md={4}>
+              <Grid.Column>
                 <StarItem data={item} />
-              </Col>
+              </Grid.Column>
             ))}
-          </row>
+            </Grid.Row>
+          </Grid>
+
         </div>
       )
   }

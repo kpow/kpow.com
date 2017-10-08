@@ -1,5 +1,10 @@
 import React, { Component } from 'react';
-import { Row, Col, Thumbnail, Button, Carousel } from 'react-bootstrap';
+
+import {
+  Button,Container,Divider,Grid,Header,Icon,Image,List,Menu,Segment,Visibility,Card,
+} from 'semantic-ui-react';
+
+import Slider from 'react-slick';
 
 
 class Projects extends Component {
@@ -33,59 +38,44 @@ class Projects extends Component {
   render() {
 
     if (this.state.requestFailed) return <p>Failed!</p>
-
     if (!this.state.projectsData) return <p>Loading...</p>
+
+    const settings = {
+      dots: false,
+      infinite: true,
+      speed: 500,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      lazyLoad:true
+    };
 
     return (
       <div>
-      <row>
-      <style type="text/css">{`
-      .btn-custom {
-          background-color: purple;
-          float:right;
-          color:#fff;
-          margin:10px;
-          margin-right:100px;
-          z-index:10000000;
-      }
-      `}</style>
+      <Container>
+      <Header as='h1' dividing inverted
+       style={{ paddingTop: '1em' }}
+       content = 'k-projects'
+       subheader="a few of the projects I've worked on"
+        />
 
-          <Col xs={0} md={1}>
+       <Slider {...settings}>
+       {this.state.projectsData.data.map((item, index) => (
+           <div>
+           {item.content.url ? (
+             <Button primary href={item.content.url} target='_new' className='project-button'>
+                view project
+             </Button>
+           ) : ( <br /> )}
+             <Image src={item.content.image.imageUrl} style={{height:400}} centered/>
+             <Container text className='project-caption'>
+               <h3>{item.content.title}</h3>
+               <p>{item.content.blurb.markdown}</p>
+               </Container>
+           </div>
+         ))}
+        </Slider>
 
-          </Col>
-
-      <Col xs={12} md={10}>
-        <Carousel indicators={false}>
-
-        {this.state.projectsData.data.map((item, index) => (
-          <Carousel.Item>
-            <img width={1200} height={800} alt="900x500" src={item.content.image.imageUrl}/>
-            <Carousel.Caption>
-              <h3>{item.content.title}</h3>
-              <p>{item.content.blurb.markdown}
-
-              {item.content.url ? (
-
-                <Button
-                   bsStyle="custom"
-                   href={item.content.url} >
-                   view project
-                </Button>
-              ) : (
-                <br />
-              )}
-              </p>
-
-            </Carousel.Caption>
-          </Carousel.Item>
-        ))}
-
-        </Carousel>
-        </Col>
-        <Col xs={0} md={1}>
-
-        </Col>
-        </row>
+      </Container>
       </div>
 
 
