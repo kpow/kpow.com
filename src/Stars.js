@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import ReactDOM from 'react-dom';
+
 import {
   Button, Divider, Container, Grid, Header, Icon, Image, Item, Label, Menu, Segment, Step, Table,
 } from 'semantic-ui-react'
@@ -16,6 +18,8 @@ class Stars extends Component {
       totalItemsInView:props.totalItemsInView
     }
   }
+
+  componentDidUpdate = () => {  }
 
   componentDidMount() {
     fetch('https://kpow.space/services/stars.php?page=1')
@@ -61,6 +65,7 @@ class Stars extends Component {
       for(let i=newSeed; i<=newSeedOffset; i++){ toDisplayItems.push(data[i]); }
 
       this.setState({ currentPage:nextPage, displayItems: toDisplayItems });
+      ReactDOM.findDOMNode(this).scrollIntoView();
     }
     prevPage = () =>{
        let data = this.state.starsData;
@@ -76,6 +81,7 @@ class Stars extends Component {
        for(let i=newSeed; i<=newSeedOffset; i++){ toDisplayItems.push(data[i]); }
 
        this.setState({ currentPage:nextPage, displayItems: toDisplayItems });
+       ReactDOM.findDOMNode(this).scrollIntoView();
     }
 
     render() {

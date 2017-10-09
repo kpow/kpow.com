@@ -14,8 +14,7 @@ export default class HomepageLayout extends Component {
   render() {
 
     return (
-      <div style={{marginTop:'75px'}}>
-
+      <div style={{marginTop:'25px'}}>
 
         <Stars totalItemsInView={3}/>
 

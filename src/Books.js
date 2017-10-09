@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import ReactDOM from 'react-dom';
+
 import {
   Button, Divider, Container, Grid, Header, Icon, Image, Item, Label, Menu, Segment, Step, Table,
 } from 'semantic-ui-react'
@@ -19,32 +21,32 @@ class Books extends Component {
   }
 
   componentDidMount() {
-    fetch('/static_data/books1.json')
-      .then(response => {
-        if (!response.ok) {  throw Error("Network request failed")  }
-        return response
-      })
-      .then(d => d.json())
-      .then(d => {
-        this.setState({ booksData: d.GoodreadsResponse.reviews.review });
+     fetch('/static_data/goodreads100_optimized.json')
+       .then(response => {
+         if (!response.ok) {  throw Error("Network request failed")  }
+         return response
+       })
+       .then(d => d.json())
+       .then(d => {
+         this.setState({ booksData: d.reviews.review });
 
-        try {
-          let toDisplayItems = [];
-          for(let i=1; i<=this.state.totalItemsInView; i++){
-            toDisplayItems.push(this.state.booksData[i]);
-          }
-          this.setState({  displayItems:toDisplayItems });
-        }
-        catch(err) {
-          this.setState({requestFailed: true});
-        }
+         try {
+           let toDisplayItems = [];
+           for(let i=1; i<=this.state.totalItemsInView; i++){
+             toDisplayItems.push(this.state.booksData[i]);
+           }
+           this.setState({  displayItems:toDisplayItems });
+         }
+         catch(err) {
+           this.setState({requestFailed: true});
+         }
 
-      }, () => {
-        this.setState({
-          requestFailed: true
-        })
-      })
-  }
+       }, () => {
+         this.setState({
+           requestFailed: true
+         })
+       })
+   }
 
   nextPage = () =>{
     let data = this.state.booksData;
@@ -60,6 +62,7 @@ class Books extends Component {
     for(let i=newSeed; i<=newSeedOffset; i++){ toDisplayItems.push(data[i]); }
 
     this.setState({ currentPage:nextPage, displayItems: toDisplayItems });
+    ReactDOM.findDOMNode(this).scrollIntoView();
   }
   prevPage = () =>{
      let data = this.state.booksData;
@@ -75,6 +78,7 @@ class Books extends Component {
      for(let i=newSeed; i<=newSeedOffset; i++){ toDisplayItems.push(data[i]); }
 
      this.setState({ currentPage:nextPage, displayItems: toDisplayItems });
+     ReactDOM.findDOMNode(this).scrollIntoView();
   }
 
   render() {

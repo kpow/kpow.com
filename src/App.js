@@ -7,6 +7,7 @@ import AllStarsLayout from './AllStarsLayout.js';
 import AllBooksLayout from './AllBooksLayout.js';
 import HomepageLayout from './HomepageLayout.js';
 import SiteHeader from './SiteHeader.js';
+import Resume from './Resume.js'
 import Footer from './Footer.js';
 
 class App extends Component {
@@ -20,6 +21,7 @@ class App extends Component {
           <Route exact path='/' component={HomepageLayout}/>
           <Route exact path='/allstars' component={AllStarsLayout}/>
           <Route exact path='/allbooks' component={AllBooksLayout}/>
+          <Route exact path='/resume' component={Resume}/>
         </Switch>
         <Footer />
       </div>

@@ -55,7 +55,7 @@ class Projects extends Component {
         <Container>
 
         <Header as='h1' dividing inverted
-         style={{ paddingTop: '2em' }}
+         style={{ paddingTop: '1em' }}
          content = 'k-projects'
          subheader="a few of the projects I've worked on"
           />

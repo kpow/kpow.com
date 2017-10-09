@@ -26,7 +26,7 @@ class SiteHeader extends Component {
         <Menu.Item  as={Link} to='/allstars'>allstars</Menu.Item>
         <Menu.Item  as={Link} to='/allbooks'>allbooks</Menu.Item>
 
-        <Menu.Item as='a'href='https://www.visualcv.com/kevin-power' target='_new'>resume</Menu.Item>
+        <Menu.Item as={Link} to='/resume'>resume</Menu.Item>
         <Menu.Item position='right' style={{padding:'5px'}}>
           <h1 className="site-logo">kpow.com</h1>
         </Menu.Item>
