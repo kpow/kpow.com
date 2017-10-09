@@ -15,7 +15,7 @@ export default class HomepageLayout extends Component {
 
     return (
       <div style={{marginTop:'25px'}}>
-
+        <Projects />
         <Stars totalItemsInView={3}/>
 
         <Books totalItemsInView={3}/>
