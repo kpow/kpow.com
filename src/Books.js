@@ -84,8 +84,8 @@ class Books extends Component {
   render() {
 
     if (this.state.requestFailed) return <p>Failed!</p>
-    if (!this.state.booksData) return <p>Loading...</p>
-    if (!this.state.displayItems) return <p>Loading...</p>
+    if (!this.state.booksData) return <Container text><h1>Loading...</h1></Container>
+    if (!this.state.displayItems) return <Container text><h1>Loading...</h1></Container>
 
     return (
 
@@ -108,12 +108,14 @@ class Books extends Component {
           ))}
           </Grid.Row>
         </Grid>
+
         <Container>
           <Button.Group compact size='medium' style={{float:'right', paddingTop:'15px', marginBottom:'15px'}}>
             <Button onClick={this.prevPage} disabled={this.state.prevButtonDisabled} labelPosition='left' icon='left chevron' content='Prev' />
             <Button onClick={this.nextPage} disabled={this.state.nextButtonDisabled} labelPosition='right' icon='right chevron' content='Next' />
           </Button.Group>
         </Container>
+
       </div>
     )
 }

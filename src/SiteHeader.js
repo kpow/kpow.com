@@ -22,13 +22,12 @@ class SiteHeader extends Component {
       <Container>
       <Menu fixed='top' size='large' inverted>
         <Container>
-        <Menu.Item  as={Link} to='/'>home</Menu.Item>
         <Menu.Item  as={Link} to='/allstars'>allstars</Menu.Item>
         <Menu.Item  as={Link} to='/allbooks'>allbooks</Menu.Item>
 
         <Menu.Item as={Link} to='/resume'>resume</Menu.Item>
         <Menu.Item position='right' style={{padding:'5px'}}>
-          <h1 className="site-logo">kpow.com</h1>
+          <Link to='/'><h1 className="site-logo">kpow</h1></Link>
         </Menu.Item>
         </Container>
       </Menu>
