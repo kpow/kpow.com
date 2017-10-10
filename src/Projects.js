@@ -46,33 +46,45 @@ class Projects extends Component {
       speed: 500,
       slidesToShow: 1,
       slidesToScroll: 1,
-      lazyLoad:true
+      lazyLoad:true,
+      adaptiveHeight:false
     };
 
     return (
       <div>
-      <Segment inverted vertical style={{ minHeight: 700 }}>
+      <Segment inverted vertical style={{margin:'8px'}}>
         <Container>
 
         <Header as='h1' dividing inverted
          style={{ paddingTop: '1em' }}
-         content = 'k-projects'
+         content = 'projects'
          subheader="a few of the projects I've worked on"
           />
 
          <Slider {...settings}>
          {this.state.projectsData.data.map((item, index) => (
              <div style={{width:"600px"}}>
-             {item.content.url ? (
-               <Button primary href={item.content.url} target='_new' className='project-button'>
-                  view project
-               </Button>
-             ) : ( <br /> )}
-               <Image src={item.content.image.imageUrl} style={{height:400}} centered/>
-               <Container text className='project-caption'>
-                 <h3>{item.content.title}</h3>
-                 <p>{item.content.blurb.markdown}</p>
-                 </Container>
+
+               <Image src={item.content.image.imageUrl} style={{height:'auto'}} centered/>
+
+                 <Grid columns={2} container stackable >
+                   <Grid.Row>
+                     <Grid.Column width={13}>
+                       <Container className='project-caption'>
+                       <h3>{item.content.title}</h3>
+                       <p>{item.content.blurb.markdown}</p>
+                       </Container>
+                     </Grid.Column>
+                     <Grid.Column width={3} verticalAlign='middle' textAlign='center'>
+                       {item.content.url ? (
+                         <Button primary href={item.content.url} target='_new' className='project-button'>
+                            view project
+                         </Button>
+                       ) : ( <br /> )}
+                     </Grid.Column>
+                   </Grid.Row>
+                 </Grid>
+
              </div>
            ))}
           </Slider>

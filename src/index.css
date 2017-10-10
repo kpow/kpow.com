@@ -8,8 +8,7 @@ font-size: 2.25em;
 }
 
 .ui.button.project-button{
-  position: absolute;
+  position: relative;
   z-index: 100;
-  top:344px;
-  margin-left: 690px;
+  margin: auto;
 }

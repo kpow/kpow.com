@@ -3,7 +3,6 @@ import {
   Button,Container,Divider,Grid,Header,Icon,Image,List,Menu,Segment,Visibility,Card,
 } from 'semantic-ui-react';
 import { Link, Route, Switch } from 'react-router-dom';
-import AllStarsLayout from './AllStarsLayout.js';
 
 class SiteHeader extends Component {
   constructor(props) {
@@ -19,19 +18,19 @@ class SiteHeader extends Component {
 
     return (
 
-      <Container>
-      <Menu fixed='top' size='large' inverted>
+      <div>
+      <Menu fixed='top' size='large' inverted compact>
         <Container>
-        <Menu.Item  as={Link} to='/allstars'>allstars</Menu.Item>
-        <Menu.Item  as={Link} to='/allbooks'>allbooks</Menu.Item>
-
-        <Menu.Item as={Link} to='/resume'>resume</Menu.Item>
-        <Menu.Item position='right' style={{padding:'5px'}}>
-          <Link to='/'><h1 className="site-logo">kpow</h1></Link>
+        <Menu.Item style={{padding:'10px', paddingRight:'15px'}} as={Link} to='/'>
+          <h1 className="site-logo">kpow</h1>
         </Menu.Item>
+        <Menu.Item position='right' as={Link} to='/allstars'>allstars</Menu.Item>
+        <Menu.Item  as={Link} to='/allbooks'>allbooks</Menu.Item>
+        <Menu.Item as={Link} to='/resume'>resume</Menu.Item>
+
         </Container>
       </Menu>
-      </Container>
+      </div>
 
     )
 }
