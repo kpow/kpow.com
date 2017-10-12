@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "classnames": "^2.2.5",
     "moment": "^2.18.1",
     "react": "^15.6.1",
     "react-bootstrap": "^0.31.3",
@@ -16,6 +17,7 @@
     "react-slick": "^0.15.4",
     "semantic-ui-react": "^0.74.2",
     "slick-carousel": "^1.8.1",
+    "whatwg-fetch": "^2.0.3",
     "xml2json": "^0.11.0"
   },
   "scripts": {

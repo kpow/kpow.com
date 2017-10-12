@@ -16,7 +16,7 @@ class BookItem extends Component {
     return (
       <div>
 
-        <Card as='a' href={theBook.link} target='_new' style={{minHeight:'470px', maxHeight:'470px', marginBottom:'20px'}}>
+        <Card fluid as='a' href={theBook.link} target='_new' style={{minHeight:'470px', maxHeight:'470px', marginBottom:'20px'}}>
          <Image src={theBook.image_url} style={{height:200}} centered/>
          <Card.Content>
            <Card.Header>{theBook.title_without_series}</Card.Header>

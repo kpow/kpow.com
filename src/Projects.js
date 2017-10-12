@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import 'whatwg-fetch';
 
 import {
   Button,Container,Divider,Grid,Header,Icon,Image,List,Menu,Segment,Visibility,Card,
@@ -65,7 +66,7 @@ class Projects extends Component {
          {this.state.projectsData.data.map((item, index) => (
              <div style={{width:"600px"}}>
 
-               <Image src={item.content.image.imageUrl} style={{height:'auto'}} centered/>
+               <Image src={item.content.image.imageUrl} centered/>
 
                  <Grid columns={2} container stackable >
                    <Grid.Row>

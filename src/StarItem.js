@@ -21,7 +21,7 @@ class StarItem extends Component {
 
     return (
       <div>
-      <Card as='a'
+      <Card fluid as='a'
         style={{minHeight:'375px', maxHeight:'375px', marginBottom:'20px'}}
         image={image1}
         header={this.props.data.title}

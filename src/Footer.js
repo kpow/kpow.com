@@ -30,11 +30,20 @@ class Footer extends Component {
                 </List>
               </Grid.Column>
               <Grid.Column width={3}>
-                <Header inverted as='h4' content='Other Stuff' />
+                <Header inverted as='h4' content='Built with' />
                 <List link inverted>
+                <List.Item>
+                  This site is a built with JAM stack principles. The site is built with React.js with PHP proxies and served by Apache. Built with data from a gaggle of APIs. It has CI through Git hooks with CodeShip
+                </List.Item>
                 </List>
               </Grid.Column>
-              <Grid.Column width={9}>
+              <Grid.Column width={3}>
+                <Header inverted as='h4' content='APIs used' />
+                <List link inverted>
+                <List.Item></List.Item>
+                </List>
+              </Grid.Column>
+              <Grid.Column width={7}>
                 <Image src='https://graph.facebook.com/1169805863/picture' floated='left' verticalAlign='bottom'/>
                 <Header as='h4' inverted subheader='Kevin Power' content='About Kpow' style={{ margin:0, marginBottom:'30px'}}/>
 

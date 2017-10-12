@@ -21,7 +21,7 @@ class SiteHeader extends Component {
       <div>
       <Menu fixed='top' size='large' inverted compact>
         <Container>
-        <Menu.Item style={{padding:'10px', paddingRight:'15px'}} as={Link} to='/'>
+        <Menu.Item style={{padding:'10px', paddingRight:'15px', paddingLeft:'0'}} as={Link} to='/'>
           <h1 className="site-logo">kpow</h1>
         </Menu.Item>
         <Menu.Item position='right' as={Link} to='/allstars'>allstars</Menu.Item>

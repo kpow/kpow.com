@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
+import 'whatwg-fetch';
 
 import { Button, Divider, Container, Grid, Header, Icon, Image, Item, Label, Menu, Segment, Step, Table} from 'semantic-ui-react'
 import StarItem from './StarItem.js';
@@ -13,7 +14,7 @@ class Stars extends Component {
       currentPage:1,
       nextButtonDisabled:false,
       prevButtonDisabled:true,
-      totalItemsInView:props.totalItemsInView
+      totalItemsInView:props.totalItemsInView || 3
     }
   }
 
@@ -84,7 +85,7 @@ class Stars extends Component {
 
     render() {
 
-      if (this.state.requestFailed) return <p>Failed!</p>
+      if (this.state.requestFailed) return <Container text><h1>Failed!</h1></Container>
       if (!this.state.starsData) return <Container text><h1>Loading...</h1></Container>
       if (!this.state.displayItems) return <Container text><h1>Loading...</h1></Container>
 
