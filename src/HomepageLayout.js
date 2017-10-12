@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import {Button,Container,Divider,Grid,Header,Icon,Image,List,Menu,Segment,Visibility,Card,} from 'semantic-ui-react'
+import {Button,Container,Divider,Grid,Header,Responsive, Icon,Image,List,Menu,Segment,Visibility,Card,} from 'semantic-ui-react'
 
 import Footer from './Footer.js';
 import Projects from './Projects.js';
@@ -18,9 +18,23 @@ export default class HomepageLayout extends Component {
     return (
       <div style={{marginTop:'25px'}}>
         <Projects />
-        <Stars totalItemsInView={3}/>
-        <InstagramFeed totalItemsInView={4}/>
-        <Books totalItemsInView={3}/>
+
+        <Responsive as={Segment} {...Responsive.onlyMobile}>
+          <Stars totalItemsInView={1}/>
+          <InstagramFeed totalItemsInView={1}/>
+          <Books totalItemsInView={1}/>
+        </Responsive>
+        <Responsive as={Segment} {...Responsive.onlyTablet}>
+          <Stars totalItemsInView={3}/>
+          <InstagramFeed totalItemsInView={4}/>
+          <Books totalItemsInView={3}/>
+        </Responsive>
+        <Responsive as={Segment} {...Responsive.onlyComputer}>
+            <Stars totalItemsInView={3}/>
+            <InstagramFeed totalItemsInView={4}/>
+            <Books totalItemsInView={3}/>
+        </Responsive>
+
 
 
       </div>

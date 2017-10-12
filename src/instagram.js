@@ -84,29 +84,14 @@ export class InstagramFeed extends Component {
      this.setState({ currentPage:nextPage, displayItems: toDisplayItems });
   }
 
-  handleOpen = (whichOne) => {
-    console.log(whichOne);
-    this.setState({ modalOpen: true, currentVideo:whichOne});
-  }
-
- handleClose = () => this.setState({ modalOpen: false });
+  handleOpen = (whichOne) => this.setState({ modalOpen: true, currentVideo:whichOne});
+  handleClose = () => this.setState({ modalOpen: false });
 
   render() {
 
     if (this.state.requestFailed) return <Container text><h1>Failed!</h1></Container>
     if (!this.state.data) return <Container text><h1>Loading...</h1></Container>
     if (!this.state.displayItems) return <Container text><h1>Loading...</h1></Container>
-
-    const slickSettings = {
-      arrows: true,
-      dots: false,
-      infinite: true,
-      speed: 800,
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      adaptiveHeight: false,
-      autoplay: false
-    };
 
     return (
       <div>
@@ -122,7 +107,7 @@ export class InstagramFeed extends Component {
           <Grid.Row>
           {this.state.displayItems.map((obj, i) => (
             <Grid.Column>
-            <Card style={{ marginBottom:'20px'}}>
+            <Card fluid style={{ marginBottom:'20px'}}>
              <Image src={obj.images.standard_resolution.url} centered/>
              <Card.Content>
               <Card.Header>{obj.caption.text}</Card.Header>
@@ -131,11 +116,10 @@ export class InstagramFeed extends Component {
              </Card.Content>
              <Card.Content extra>
 
-             <Modal basic
+             <Modal basic size='small'
                trigger={<Button size='mini' compact onClick={()=>{this.handleOpen(obj.videos.standard_resolution.url);}}>watch video</Button>}
                open={this.state.modalOpen}
-               onClose={this.handleClose}
-               size='small'>
+               onClose={this.handleClose}>
 
                <Modal.Content>
                <ReactPlayer url={this.state.currentVideo} controls playing/>
@@ -146,7 +130,7 @@ export class InstagramFeed extends Component {
                    <Icon name='close' /> close
                  </Button>
                </Modal.Actions>
-               
+
              </Modal>
 
              </Card.Content>
