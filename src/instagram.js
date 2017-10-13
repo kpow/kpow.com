@@ -122,7 +122,7 @@ export class InstagramFeed extends Component {
                onClose={this.handleClose}>
 
                <Modal.Content>
-               <ReactPlayer url={this.state.currentVideo} controls playing/>
+               <ReactPlayer url={this.state.currentVideo} width='100%' controls playing/>
                </Modal.Content>
 
                <Modal.Actions>

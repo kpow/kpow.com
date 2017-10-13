@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import {  Button, Divider, Container, Grid, Card, Header, Icon, Image, Item, Label, Menu, Segment, Step, Table } from 'semantic-ui-react'
+import {  Button, Divider, Container, Grid, Card, Header,Rating, Icon, Image, Item, Label, Menu, Segment, Step, Table } from 'semantic-ui-react'
 
 class BookItem extends Component {
   constructor(props) {
     super(props)
-    this.state = { }
+    this.state = {};
   }
 
   componentDidMount() {
@@ -13,6 +13,7 @@ class BookItem extends Component {
 
   render() {
     let theBook = this.props.data.book;
+    let theRating = this.props.data.rating;
     return (
       <div>
 
@@ -26,10 +27,14 @@ class BookItem extends Component {
                 dangerouslySetInnerHTML={{ __html: theBook.description }} />
          </Card.Content>
          <Card.Content extra>
-           Avg. Rating: {theBook.average_rating} | Total Ratings: {theBook.ratings_count}
+         {theRating>0 ? (
+           <span>I give it <strong>{theRating}</strong> stars</span>
+         ) : (<span>{this.props.data.shelves.shelf[0]._name}</span> )}
+
+         <span style={{float:'right'}}>avg. rating: <strong>{theBook.average_rating}</strong> stars</span>
+
          </Card.Content>
        </Card>
-
       </div>
 
     )
