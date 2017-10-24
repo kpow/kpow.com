@@ -40,7 +40,12 @@ class Footer extends Component {
               <Grid.Column width={3}>
                 <Header inverted as='h4' content='APIs used' />
                 <List link inverted>
-                <List.Item></List.Item>
+                <List.Item as='a' href='https://elemeno.io'>elemeno.io</List.Item>
+                <List.Item as='a' href='https://feedbin.com/'>Feedbin</List.Item>
+                <List.Item as='a' href='https://www.goodreads.com/'>GoodReads</List.Item>
+                <List.Item as='a' href='https://instagram.com'>Instagram</List.Item>
+                <List.Item as='a' href='https://developer.marvel.com/'>Marvel Comics</List.Item>
+                <List.Item as='a' href='https://api.phish.net/'>Phish.net</List.Item>
                 </List>
               </Grid.Column>
               <Grid.Column width={7}>
