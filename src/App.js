@@ -6,7 +6,7 @@ import { Link, Route, Switch } from 'react-router-dom';
 
 
 import {AllStarsLayoutContainer} from './AllStarsLayout.js';
-import AllBooksLayout from './AllBooksLayout.js';
+import {AllBooksLayoutContainer} from './AllBooksLayout.js';
 import {HomepageLayoutContainer} from './HomepageLayout.js';
 import SiteHeader from './SiteHeader.js';
 import Resume from './Resume.js'
@@ -22,7 +22,7 @@ class App extends Component {
         <Switch>
           <Route exact path='/' component={HomepageLayoutContainer}/>
           <Route exact path='/allstars' component={AllStarsLayoutContainer}/>
-          <Route exact path='/allbooks' component={AllBooksLayout}/>
+          <Route exact path='/allbooks' component={AllBooksLayoutContainer}/>
           <Route exact path='/resume' component={Resume}/>
         </Switch>
         <Footer />
