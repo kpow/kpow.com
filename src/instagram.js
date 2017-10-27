@@ -111,7 +111,7 @@ export class InstagramFeed extends Component {
                onClose={this.handleClose}>
 
                <Modal.Content>
-               <Player src={this.state.currentVideo} autoPlay>
+               <Player src={this.state.currentVideo}>
                 <BigPlayButton position="center" />
               </Player>
                </Modal.Content>
