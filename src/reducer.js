@@ -2,7 +2,6 @@
 import {Map, List, fromJS} from 'immutable';
 
 function setState(state, newState) {
-  //console.log(newState);
   return state.merge(newState);
 }
 
@@ -34,7 +33,6 @@ export default function(state = Map(), action) {
       return setProjectsData(state, action.projects);
     case 'SET_INSTAGRAMS_DATA':
       return setInstagramsData(state, action.instagrams);
-
   }
   return state;
 }

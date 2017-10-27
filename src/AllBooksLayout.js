@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import {Button,Container,Divider,Grid,Header,Icon,Image,List,Menu,Segment,Visibility,Card,} from 'semantic-ui-react'
 
 import {BooksContainer} from './Books.js';
 
@@ -16,11 +15,7 @@ export default class AllBooksLayout extends Component {
     return (
       <div style={{marginTop:'75px'}}>
 
-      {console.log(this.props.data)}
-
-      {this.props.data && (
-        <BooksContainer totalItemsInView={9}/>
-      )}
+      {this.props.data && ( <BooksContainer totalItemsInView={9}/> )}
 
       </div>
     )

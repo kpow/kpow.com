@@ -1,5 +1,3 @@
-
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 
@@ -27,21 +25,23 @@ const store = createStore(reducer, composeWithDevTools(
 ));
 
 function getJSON(url) {
-        var xhr = new XMLHttpRequest();
-        return new Promise((resolve, reject) => {
-            xhr.onreadystatechange = function () {
-                if (xhr.readyState === 4) {
-                    if (xhr.status === 200) {
-                        resolve(JSON.parse(xhr.responseText));
-                    } else {
-                        reject(xhr.responseText);
-                    }
+    var xhr = new XMLHttpRequest();
+    return new Promise((resolve, reject) => {
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4) {
+                if (xhr.status === 200) {
+                    resolve(JSON.parse(xhr.responseText));
+                } else {
+                    reject(xhr.responseText);
                 }
-            };
-            xhr.open('GET', url);
-            xhr.send();
-        });
-    };
+            }
+        };
+        xhr.open('GET', url);
+        xhr.send();
+    });
+};
+
+
 
 getJSON('https://kpow.space/services/projects.php').then(data => {
 
@@ -65,9 +65,6 @@ getJSON('https://kpow.space/services/projects.php').then(data => {
   });
 
 });
-
-
-
 
 
 ReactDOM.render(

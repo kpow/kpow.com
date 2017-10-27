@@ -9,7 +9,7 @@ import {ProjectsContainer} from './Projects.js';
 import {StarsContainer} from './Stars.js';
 import {BooksContainer} from './Books.js';
 import SiteHeader from './SiteHeader.js';
-import {InstagramFeedContainer} from './instagram';
+import {InstagramFeedContainer} from './InstagramFeed.js';
 
 
 export default class HomepageLayout extends Component {

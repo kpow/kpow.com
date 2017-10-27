@@ -24,7 +24,7 @@ class Projects extends Component {
   componentDidMount() { }
 
   onSlideChange = (data) =>{
-    console.log('onSlideChange');
+    console.log('onSlideChange'+data);
   }
 
   render() {
