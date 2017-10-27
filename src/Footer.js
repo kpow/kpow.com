@@ -22,14 +22,7 @@ class Footer extends Component {
         <Container>
           <Grid divided inverted stackable>
             <Grid.Row>
-              <Grid.Column width={3}>
-                <Header inverted as='h4' content='Contact' />
-                <List link inverted>
-                  <List.Item as='a' href="mailto:kpow@kpow.com">kpow@kpow.com</List.Item>
-                  <List.Item as='a' href="https://www.visualcv.com/kevin-power">resume</List.Item>
-                </List>
-              </Grid.Column>
-              <Grid.Column width={3}>
+              <Grid.Column width={4}>
                 <Header inverted as='h4' content='Built with' />
                 <List link inverted>
                 <List.Item>
@@ -37,7 +30,7 @@ class Footer extends Component {
                 </List.Item>
                 </List>
               </Grid.Column>
-              <Grid.Column width={3}>
+              <Grid.Column width={2}>
                 <Header inverted as='h4' content='APIs used' />
                 <List link inverted>
                 <List.Item as='a' href='https://elemeno.io'>elemeno.io</List.Item>
@@ -55,6 +48,13 @@ class Footer extends Component {
                 <p>Interwebz wrangler. Tech Director and Developer at <a href='https://s2content.com'>S2</a>. Voracious reader and  dad extraordinaire. Music, Travel, Poker, Pugs, and Pixels.</p>
                 <p>Beginning to form my <a href='https://en.wikipedia.org/wiki/Technological_singularity'>post-singularity</a> self with this website.</p>
 
+              </Grid.Column>
+              <Grid.Column width={3}>
+                <Header inverted as='h4' content='Contact' />
+                <List link inverted>
+                  <List.Item as='a' href="mailto:kpow@kpow.com">kpow@kpow.com</List.Item>
+                  <List.Item as='a' href="https://www.visualcv.com/kevin-power">resume</List.Item>
+                </List>
               </Grid.Column>
             </Grid.Row>
           </Grid>

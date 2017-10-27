@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import 'whatwg-fetch';
 
+import {connect} from 'react-redux';
+import * as actionCreators from './action_creators';
+
 import { Button, Divider, Container, Grid, Header, Icon, Image, Item, Label, Menu, Segment, Step, Table} from 'semantic-ui-react'
 import StarItem from './StarItem.js';
 
@@ -21,53 +24,48 @@ class Stars extends Component {
   componentDidUpdate = () => {  }
 
   componentDidMount() {
-    fetch('https://kpow.space/services/stars.php?page=1')
-      .then(response => {
-        if (!response.ok) {  throw Error("Network request failed")  }
-        return response
-      })
-      .then(d => d.json())
-      .then(d => {
-        d.reverse();
-        this.setState({ starsData: d });
-
-        try {
-          let data = this.state.starsData;
-          let toDisplayItems = [];
-          for(let i=1; i<=this.state.totalItemsInView; i++){
-            toDisplayItems.push(data[i]);
-          }
-          this.setState({  displayItems:toDisplayItems });
-        }
-        catch(err) {
-          this.setState({requestFailed: true});
-        }
-
-      }, () => {
-        this.setState({
-          requestFailed: true
-        })
-      })
+    this.getDisplayData();
   }
 
+    getDisplayData = () => {
+
+        let data = this.props.data;
+        let toDisplayItems = [];
+
+        for(let i=1; i<=this.state.totalItemsInView; i++){
+          toDisplayItems.push(data[i]);
+        }
+
+        this.setState({ displayItems: toDisplayItems });
+
+    }
+
     nextPage = () =>{
-      let data = this.state.starsData;
+      let data = this.props.data;
 
       let totalPages = Math.floor(data.length/this.state.totalItemsInView);
+
       let nextPage = this.state.currentPage+1;
+
       let newSeed = nextPage*this.state.totalItemsInView;
+
       let newSeedOffset = (this.state.totalItemsInView-1)+newSeed;
+
       let toDisplayItems = [];
+
       if(nextPage>1){ this.setState({prevButtonDisabled: false}); }
       if(nextPage>totalPages-2){ this.setState({nextButtonDisabled: true}); }
 
       for(let i=newSeed; i<=newSeedOffset; i++){ toDisplayItems.push(data[i]); }
 
       this.setState({ currentPage:nextPage, displayItems: toDisplayItems });
+
+
+
       ReactDOM.findDOMNode(this).scrollIntoView();
     }
     prevPage = () =>{
-       let data = this.state.starsData;
+       let data = this.props.data;
 
        let totalPages = Math.floor(data.length/this.state.totalItemsInView);
        let nextPage = this.state.currentPage-1;
@@ -85,8 +83,6 @@ class Stars extends Component {
 
     render() {
 
-      if (this.state.requestFailed) return <Container text><h1>Failed!</h1></Container>
-      if (!this.state.starsData) return <Container text><h1>Loading...</h1></Container>
       if (!this.state.displayItems) return <Container text><h1>Loading...</h1></Container>
 
       return (
@@ -123,4 +119,11 @@ class Stars extends Component {
   }
 }
 
-export default Stars;
+
+function mapStateToProps(state) {
+  return {
+    data: state.get('starsData'),
+  };
+}
+
+export const StarsContainer = connect(mapStateToProps,actionCreators)(Stars);

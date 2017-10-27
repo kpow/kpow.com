@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
 import 'whatwg-fetch';
+import { Player, BigPlayButton, ControlBar } from 'video-react';
+
+import {connect} from 'react-redux';
+import * as actionCreators from './action_creators';
 
 import {
   Button,Container,Divider,Grid,Header,Icon,Image,List,Menu,Segment,Visibility,Card,
@@ -9,37 +13,23 @@ import Slider from 'react-slick';
 
 
 class Projects extends Component {
-  constructor(props) {
-    super(props)
+  constructor(props, context) {
+    super(props, context)
     this.state = {
-      requestFailed: false
+      requestFailed: false,
     }
+
   }
 
-  componentDidMount() {
-    fetch('https://kpow.space/services/projects.php')
-      .then(response => {
-        if (!response.ok) {
-          throw Error("Network request failed")
-        }
-        return response
-      })
-      .then(d => d.json())
-      .then(d => {
-        this.setState({
-          projectsData: d
-        })
-      }, () => {
-        this.setState({
-          requestFailed: true
-        })
-      })
+  componentDidMount() { }
+
+  onSlideChange = (data) =>{
+    console.log('onSlideChange');
   }
 
   render() {
 
-    if (this.state.requestFailed) return <p>Failed!</p>
-    if (!this.state.projectsData) return <p>Loading...</p>
+    if (!this.props.data) return <Container text><h1>Loading...</h1></Container>
 
     const settings = {
       dots: false,
@@ -60,13 +50,22 @@ class Projects extends Component {
          style={{ paddingTop: '1em' }}
          content = 'projects'
          subheader="a few of the projects I've worked on"
-          />
+        />
 
-         <Slider {...settings}>
-         {this.state.projectsData.data.map((item, index) => (
+
+         <Slider {...settings} afterChange={this.onSlideChange}>
+
+         {this.props.data.map((item, index) => (
              <div style={{width:"600px"}}>
 
-               <Image src={item.content.image.imageUrl} centered/>
+             {item.content.video ? (
+
+                <Player src={item.content.video.fileUrl} poster={item.content.image.imageUrl} muted>
+                 <BigPlayButton position="center" />
+               </Player>
+
+             ) : ( <Image src={item.content.image.imageUrl} centered/> )}
+
 
                  <Grid columns={2} container stackable >
                    <Grid.Row>
@@ -99,4 +98,10 @@ class Projects extends Component {
   }
 }
 
-export default Projects;
+function mapStateToProps(state) {
+  return {
+    data: state.get('projectsData'),
+  };
+}
+
+export const ProjectsContainer = connect(mapStateToProps,actionCreators)(Projects);

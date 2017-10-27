@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import 'whatwg-fetch';
-import ReactPlayer from 'react-player';
+import { Player, BigPlayButton, ControlBar } from 'video-react';
+
+import {connect} from 'react-redux';
+import * as actionCreators from './action_creators';
 
 import { Button, Divider, Container, Grid, Header,Card, Icon,Modal, Image, Item, Label, Menu, Segment, Step, Table} from 'semantic-ui-react'
-const Slider = require('react-slick').default;
+
 
 export class InstagramFeed extends Component {
 
@@ -24,37 +26,26 @@ export class InstagramFeed extends Component {
 
 
   componentDidMount() {
-    fetch('https://kpow.space/services/instagram.php')
-      .then(response => {
-        if (!response.ok) {  throw Error("Network request failed")  }
-        return response
-      })
-      .then(d => d.json())
-      .then(d => {
-        this.setState({ data: d.data });
-
-        try {
-          let data = this.state.data;
-          let toDisplayItems = [];
-          for(let i=1; i<=this.state.totalItemsInView; i++){
-            toDisplayItems.push(data[i]);
-          }
-          this.setState({  displayItems:toDisplayItems });
-        }
-        catch(err) {
-          this.setState({requestFailed: true});
-        }
-
-      }, () => {
-        this.setState({
-          requestFailed: true
-        })
-      })
+    this.getDisplayData();
   }
+
+    getDisplayData = () => {
+
+        let data = this.props.data;
+        console.log(data);
+        let toDisplayItems = [];
+
+        for(let i=1; i<=this.state.totalItemsInView; i++){
+          toDisplayItems.push(data[i]);
+        }
+
+        this.setState({ displayItems: toDisplayItems });
+
+    }
 
 
   nextPage = () =>{
-    let data = this.state.data;
+    let data = this.props.data;
 
     let totalPages = Math.floor(data.length/this.state.totalItemsInView);
     let nextPage = this.state.currentPage+1;
@@ -69,7 +60,7 @@ export class InstagramFeed extends Component {
     this.setState({ currentPage:nextPage, displayItems: toDisplayItems });
   }
   prevPage = () =>{
-     let data = this.state.data;
+     let data = this.props.data;
 
      let totalPages = Math.floor(data.length/this.state.totalItemsInView);
      let nextPage = this.state.currentPage-1;
@@ -89,8 +80,6 @@ export class InstagramFeed extends Component {
 
   render() {
 
-    if (this.state.requestFailed) return <Container text><h1>Failed!</h1></Container>
-    if (!this.state.data) return <Container text><h1>Loading...</h1></Container>
     if (!this.state.displayItems) return <Container text><h1>Loading...</h1></Container>
 
     return (
@@ -116,13 +105,15 @@ export class InstagramFeed extends Component {
              </Card.Content>
              <Card.Content extra>
 
-             <Modal basic size='small'
+             <Modal basic size='large'
                trigger={<Button size='mini' compact onClick={()=>{this.handleOpen(obj.videos.standard_resolution.url);}}>watch video</Button>}
                open={this.state.modalOpen}
                onClose={this.handleClose}>
 
                <Modal.Content>
-               <ReactPlayer url={this.state.currentVideo} width='100%' controls playing/>
+               <Player src={this.state.currentVideo} autoPlay>
+                <BigPlayButton position="center" />
+              </Player>
                </Modal.Content>
 
                <Modal.Actions>
@@ -147,9 +138,15 @@ export class InstagramFeed extends Component {
           </Button.Group>
         </Container>
 
-
-
       </div>
     );
   }
 }
+
+function mapStateToProps(state) {
+  return {
+    data: state.get('instagramFeedData'),
+  };
+}
+
+export const InstagramFeedContainer = connect(mapStateToProps,actionCreators)(InstagramFeed);

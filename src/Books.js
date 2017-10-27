@@ -2,9 +2,13 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import 'whatwg-fetch';
 
+import {connect} from 'react-redux';
+import * as actionCreators from './action_creators';
+
 import {
   Button, Divider, Container, Grid, Header, Icon, Image, Item, Label, Menu, Segment, Step, Table,
-} from 'semantic-ui-react'
+} from 'semantic-ui-react';
+
 import BookItem from './BookItem.js';
 
 
@@ -16,41 +20,29 @@ class Books extends Component {
       currentPage:1,
       nextButtonDisabled:false,
       prevButtonDisabled:true,
-      totalItemsInView:3,
-      totalItemsInView:props.totalItemsInView
+      totalItemsInView:props.totalItemsInView || 3
     }
   }
 
   componentDidMount() {
-     fetch('/static_data/goodreads100_optimized.json')
-       .then(response => {
-         if (!response.ok) {  throw Error("Network request failed")  }
-         return response
-       })
-       .then(d => d.json())
-       .then(d => {
-         this.setState({ booksData: d.reviews.review });
+    this.getDisplayData();
+  }
 
-         try {
-           let toDisplayItems = [];
-           for(let i=1; i<=this.state.totalItemsInView; i++){
-             toDisplayItems.push(this.state.booksData[i]);
-           }
-           this.setState({  displayItems:toDisplayItems });
-         }
-         catch(err) {
-           this.setState({requestFailed: true});
-         }
+    getDisplayData = () => {
 
-       }, () => {
-         this.setState({
-           requestFailed: true
-         })
-       })
-   }
+        let data = this.props.data;
+        let toDisplayItems = [];
+
+        for(let i=1; i<=this.state.totalItemsInView; i++){
+          toDisplayItems.push(data[i]);
+        }
+
+        this.setState({ displayItems: toDisplayItems });
+
+    }
 
   nextPage = () =>{
-    let data = this.state.booksData;
+    let data = this.props.data;
 
     let totalPages = Math.floor(data.length/this.state.totalItemsInView);
     let nextPage = this.state.currentPage+1;
@@ -66,7 +58,7 @@ class Books extends Component {
     ReactDOM.findDOMNode(this).scrollIntoView();
   }
   prevPage = () =>{
-     let data = this.state.booksData;
+    let data = this.props.data;
 
      let totalPages = Math.floor(data.length/this.state.totalItemsInView);
      let nextPage = this.state.currentPage-1;
@@ -84,8 +76,6 @@ class Books extends Component {
 
   render() {
 
-    if (this.state.requestFailed) return <p>Failed!</p>
-    if (!this.state.booksData) return <Container text><h1>Loading...</h1></Container>
     if (!this.state.displayItems) return <Container text><h1>Loading...</h1></Container>
 
     return (
@@ -122,4 +112,10 @@ class Books extends Component {
 }
 }
 
-export default Books;
+function mapStateToProps(state) {
+  return {
+    data: state.get('booksData'),
+  };
+}
+
+export const BooksContainer = connect(mapStateToProps,actionCreators)(Books);

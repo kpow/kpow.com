@@ -1,14 +1,15 @@
 import React, { Component } from 'react'
-import {Button,Container,Divider,Grid,Header,Responsive, Icon,Image,List,Menu,Segment,Visibility,Card,} from 'semantic-ui-react'
+import {Container,Responsive, Segment} from 'semantic-ui-react'
+
+import {connect} from 'react-redux';
+import * as actionCreators from './action_creators';
 
 import Footer from './Footer.js';
-import Projects from './Projects.js';
-import Stars from './Stars.js';
-import Books from './Books.js';
+import {ProjectsContainer} from './Projects.js';
+import {StarsContainer} from './Stars.js';
+import {BooksContainer} from './Books.js';
 import SiteHeader from './SiteHeader.js';
-import {InstagramFeed} from './instagram';
-
-
+import {InstagramFeedContainer} from './instagram';
 
 
 export default class HomepageLayout extends Component {
@@ -17,27 +18,47 @@ export default class HomepageLayout extends Component {
 
     return (
       <div style={{marginTop:'25px'}}>
-        <Projects />
 
-        <Responsive as={Segment} {...Responsive.onlyMobile}>
-          <Stars totalItemsInView={1}/>
-          <InstagramFeed totalItemsInView={1}/>
-          <Books totalItemsInView={1}/>
-        </Responsive>
-        <Responsive as={Segment} {...Responsive.onlyTablet}>
-          <Stars totalItemsInView={3}/>
-          <InstagramFeed totalItemsInView={4}/>
-          <Books totalItemsInView={3}/>
-        </Responsive>
-        <Responsive as={Segment} {...Responsive.onlyComputer}>
-            <Stars totalItemsInView={3}/>
-            <InstagramFeed totalItemsInView={4}/>
-            <Books totalItemsInView={3}/>
-        </Responsive>
+        {this.props.projects ? (<ProjectsContainer />) :
+         ( <Container text><h1>Loading...</h1></Container> )}
 
-
+            <Responsive as={Segment} {...Responsive.onlyMobile}>
+                {this.props.stars ? (<StarsContainer totalItemsInView={1}/>) :
+                 ( <Container text><h1>Loading...</h1></Container> )}
+                {this.props.grams ? (<InstagramFeedContainer totalItemsInView={1}/>) :
+                 ( <Container text><h1>Loading...</h1></Container> )}
+                {this.props.books ? (<BooksContainer totalItemsInView={1}/>) :
+                 ( <Container text><h1>Loading...</h1></Container> )}
+            </Responsive>
+            <Responsive as={Segment} {...Responsive.onlyTablet}>
+                {this.props.stars ? (<StarsContainer totalItemsInView={3}/>) :
+                 ( <Container text><h1>Loading...</h1></Container> )}
+                 {this.props.grams ? (<InstagramFeedContainer totalItemsInView={4}/>) :
+                  ( <Container text><h1>Loading...</h1></Container> )}
+                {this.props.books ? (<BooksContainer totalItemsInView={3}/>) :
+                 ( <Container text><h1>Loading...</h1></Container> )}
+            </Responsive>
+            <Responsive as={Segment} {...Responsive.onlyComputer}>
+                {this.props.stars ? (<StarsContainer totalItemsInView={3}/>) :
+                 ( <Container text><h1>Loading...</h1></Container> )}
+                 {this.props.grams ? (<InstagramFeedContainer totalItemsInView={4}/>) :
+                  ( <Container text><h1>Loading...</h1></Container> )}
+                {this.props.books ? (<BooksContainer totalItemsInView={3}/>) :
+                 ( <Container text><h1>Loading...</h1></Container> )}
+            </Responsive>
 
       </div>
     )
   }
 }
+
+function mapStateToProps(state) {
+  return {
+    stars: state.get('starsData'),
+    books: state.get('booksData'),
+    grams: state.get('instagramFeedData'),
+    projects: state.get('projectsData'),
+  };
+}
+
+export const HomepageLayoutContainer = connect(mapStateToProps,actionCreators)(HomepageLayout);
