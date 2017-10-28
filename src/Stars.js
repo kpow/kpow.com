@@ -1,11 +1,8 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import 'whatwg-fetch';
 
-import {connect} from 'react-redux';
-import * as actionCreators from './action_creators';
+import {  Container, Grid, Header,} from 'semantic-ui-react';
 
-import { Button, Divider, Container, Grid, Header, Icon, Image, Item, Label, Menu, Segment, Step, Table} from 'semantic-ui-react'
 import StarItem from './StarItem.js';
 import CardNav from './CardNav.js';
 
@@ -18,7 +15,13 @@ class Stars extends Component {
     }
   }
 
-  componentDidUpdate = () => {  }
+  componentDidUpdate = () => {
+
+    if(this.state.totalItemsInView>3){
+      window.scrollTo(0,0);
+    }    
+
+  }
 
   componentDidMount() {  this.getDisplayData(); }
 
@@ -70,11 +73,4 @@ class Stars extends Component {
   }
 }
 
-
-function mapStateToProps(state) {
-  return {
-    data: state.get('starsData'),
-  };
-}
-
-export const StarsContainer = connect(mapStateToProps,actionCreators)(Stars);
+export default Stars;

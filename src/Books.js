@@ -1,12 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
-import {connect} from 'react-redux';
-import * as actionCreators from './action_creators';
-
-import {
-  Button, Divider, Container, Grid, Header, Icon, Image, Item, Label, Menu, Segment, Step, Table,
-} from 'semantic-ui-react';
+import {  Container, Grid, Header,} from 'semantic-ui-react';
 
 import CardNav from './CardNav.js';
 import BookItem from './BookItem.js';
@@ -19,10 +14,17 @@ class Books extends Component {
     }
   }
 
+  componentDidUpdate = () => {
+
+    if(this.state.totalItemsInView>3){
+      window.scrollTo(0,0);
+    }
+
+  }
+  
   componentDidMount() { this.getDisplayData(); }
 
   getDisplayData = () => {
-
       let data = this.props.data;
       let toDisplayItems = [];
 
@@ -31,7 +33,6 @@ class Books extends Component {
       }
 
       this.setState({ displayItems: toDisplayItems });
-
   }
 
   setDisplayData = (data)=>{ this.setState({ displayItems: data }); }
@@ -66,13 +67,7 @@ class Books extends Component {
 
       </div>
     )
-}
-}
-
-function mapStateToProps(state) {
-  return {
-    data: state.get('booksData'),
-  };
+  }
 }
 
-export const BooksContainer = connect(mapStateToProps,actionCreators)(Books);
+export default Books;

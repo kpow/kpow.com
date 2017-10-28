@@ -1,24 +1,14 @@
 import React, { Component } from 'react';
-import 'whatwg-fetch';
 import { Player, BigPlayButton, ControlBar } from 'video-react';
 
-import {connect} from 'react-redux';
-import * as actionCreators from './action_creators';
-
-import {
-  Button,Container,Divider,Grid,Header,Icon,Image,List,Menu,Segment,Visibility,Card,
-} from 'semantic-ui-react';
+import {Button,Container,Divider,Grid,Header,Icon,Image,List,Menu,Segment,Visibility,Card,} from 'semantic-ui-react';
 
 import Slider from 'react-slick';
-
 
 class Projects extends Component {
   constructor(props, context) {
     super(props, context)
-    this.state = {
-      requestFailed: false,
-    }
-
+    this.state = { }
   }
 
   componentDidMount() { }
@@ -51,7 +41,6 @@ class Projects extends Component {
          content = 'projects'
          subheader="a few of the projects I've worked on"
         />
-
 
          <Slider {...settings} afterChange={this.onSlideChange}>
 
@@ -98,10 +87,4 @@ class Projects extends Component {
   }
 }
 
-function mapStateToProps(state) {
-  return {
-    data: state.get('projectsData'),
-  };
-}
-
-export const ProjectsContainer = connect(mapStateToProps,actionCreators)(Projects);
+export default Projects;

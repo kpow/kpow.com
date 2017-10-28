@@ -10,9 +10,7 @@ class Footer extends Component {
     }
   }
 
-  componentDidMount() {
-
-  }
+  componentDidMount() { }
 
   render() {
 

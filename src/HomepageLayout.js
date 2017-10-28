@@ -5,11 +5,10 @@ import {connect} from 'react-redux';
 import * as actionCreators from './action_creators';
 
 import Footer from './Footer.js';
-import {ProjectsContainer} from './Projects.js';
-import {StarsContainer} from './Stars.js';
-import {BooksContainer} from './Books.js';
-import SiteHeader from './SiteHeader.js';
-import {InstagramFeedContainer} from './InstagramFeed.js';
+import Projects from './Projects.js';
+import Stars from './Stars.js';
+import Books from './Books.js';
+import InstagramFeed from './InstagramFeed.js';
 
 
 export default class HomepageLayout extends Component {
@@ -19,31 +18,23 @@ export default class HomepageLayout extends Component {
     return (
       <div style={{marginTop:'25px'}}>
 
-        {this.props.projects ? (<ProjectsContainer />) :
+        {this.props.projects ? (<Projects data={this.props.projects} />) :
          ( <Container text><h1>Loading...</h1></Container> )}
 
             <Responsive as={Segment} {...Responsive.onlyMobile}>
-                {this.props.stars ? (<StarsContainer totalItemsInView={1}/>) :
+                {this.props.stars ? (<Stars totalItemsInView={1} data={this.props.stars}/>) :
                  ( <Container text><h1>Loading...</h1></Container> )}
-                {this.props.grams ? (<InstagramFeedContainer totalItemsInView={1}/>) :
+                {this.props.grams ? (<InstagramFeed totalItemsInView={1} data={this.props.grams}/>) :
                  ( <Container text><h1>Loading...</h1></Container> )}
-                {this.props.books ? (<BooksContainer totalItemsInView={1}/>) :
-                 ( <Container text><h1>Loading...</h1></Container> )}
-            </Responsive>
-            <Responsive as={Segment} {...Responsive.onlyTablet}>
-                {this.props.stars ? (<StarsContainer totalItemsInView={3}/>) :
-                 ( <Container text><h1>Loading...</h1></Container> )}
-                 {this.props.grams ? (<InstagramFeedContainer totalItemsInView={4}/>) :
-                  ( <Container text><h1>Loading...</h1></Container> )}
-                {this.props.books ? (<BooksContainer totalItemsInView={3}/>) :
+                {this.props.books ? (<Books totalItemsInView={1} data={this.props.books}/>) :
                  ( <Container text><h1>Loading...</h1></Container> )}
             </Responsive>
             <Responsive as={Segment} {...Responsive.onlyComputer}>
-                {this.props.stars ? (<StarsContainer totalItemsInView={3}/>) :
+                {this.props.stars ? (<Stars totalItemsInView={3} data={this.props.stars}/>) :
                  ( <Container text><h1>Loading...</h1></Container> )}
-                 {this.props.grams ? (<InstagramFeedContainer totalItemsInView={4}/>) :
+                 {this.props.grams ? (<InstagramFeed totalItemsInView={4} data={this.props.grams}/>) :
                   ( <Container text><h1>Loading...</h1></Container> )}
-                {this.props.books ? (<BooksContainer totalItemsInView={3}/>) :
+                {this.props.books ? (<Books totalItemsInView={3} data={this.props.books}/>) :
                  ( <Container text><h1>Loading...</h1></Container> )}
             </Responsive>
 

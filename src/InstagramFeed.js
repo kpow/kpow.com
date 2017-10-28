@@ -2,9 +2,6 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import { Player, BigPlayButton, ControlBar } from 'video-react';
 
-import {connect} from 'react-redux';
-import * as actionCreators from './action_creators';
-
 import { Button, Divider, Container, Grid, Header,Card, Icon,Modal, Image, Item, Label, Menu, Segment, Step, Table} from 'semantic-ui-react'
 import CardNav from './CardNav.js';
 
@@ -100,10 +97,4 @@ export class InstagramFeed extends Component {
   }
 }
 
-function mapStateToProps(state) {
-  return {
-    data: state.get('instagramFeedData'),
-  };
-}
-
-export const InstagramFeedContainer = connect(mapStateToProps,actionCreators)(InstagramFeed);
+export default InstagramFeed;

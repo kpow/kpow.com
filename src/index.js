@@ -42,28 +42,20 @@ function getJSON(url) {
 };
 
 
-
 getJSON('https://kpow.space/services/projects.php').then(data => {
-
   store.dispatch(actions.setProjectsData(data.data));
+});
 
-  getJSON('https://kpow.space/services/stars.php?page=1').then(data => {
+getJSON('https://kpow.space/services/stars.php?page=1').then(data => {
+  store.dispatch(actions.setStarsData(data.reverse()));
+});
 
-    store.dispatch(actions.setStarsData(data.reverse()));
+getJSON('/static_data/goodreads100_optimized.json').then(data => {
+  store.dispatch(actions.setBooksData(data.reviews.review));
+});
 
-    getJSON('/static_data/goodreads100_optimized.json').then(data => {
-
-      store.dispatch(actions.setBooksData(data.reviews.review));
-
-      getJSON('https://kpow.space/services/instagram.php').then(data => {
-        store.dispatch(actions.setInstagramsData(data.data));
-
-      });
-
-    });
-
-  });
-
+getJSON('https://kpow.space/services/instagram.php').then(data => {
+  store.dispatch(actions.setInstagramsData(data.data));
 });
 
 
