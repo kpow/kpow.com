@@ -24,7 +24,7 @@ class Footer extends Component {
                 <Header inverted as='h4' content='Built with' />
                 <List link inverted>
                 <List.Item>
-                  This site is a built with JAM stack principles. The site is built with React.js with PHP proxies and served by Apache. Built with data from a gaggle of APIs. It has CI through Git hooks with CodeShip
+                  This site is a built with JAM stack principles, React.js, PHP proxies and served by Apache. Built with data from a gaggle of APIs. It has continous integration with CodeShip.
                 </List.Item>
                 </List>
               </Grid.Column>
