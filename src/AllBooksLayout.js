@@ -14,7 +14,7 @@ export default class AllBooksLayout extends Component {
     return (
       <div style={{marginTop:'75px'}}>
 
-      {this.props.data && ( <Books totalItemsInView={9} data={this.props.data}/> )}
+        {this.props.data && (<Books totalItemsInView={9} totalItems={403} data={this.props.data} dataSetter={this.props.bookSetter} /> )}
 
       </div>
     )
