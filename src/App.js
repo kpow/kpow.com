@@ -20,8 +20,9 @@ class App extends Component {
       <div>
         <SiteHeader />
         <Switch>
-          <Route exact path='/' component={HomepageLayoutContainer}/>
-          <Route exact path='/allstars' component={AllStarsLayoutContainer}/>
+
+          <Route exact path='/' render={()=><HomepageLayoutContainer starSetter={this.props.starSetter} bookSetter={this.props.bookSetter} />}/>
+          <Route exact path='/allstars' render={()=><AllStarsLayoutContainer starSetter={this.props.starSetter} />}/>
           <Route exact path='/allbooks' component={AllBooksLayoutContainer}/>
           <Route exact path='/resume' component={Resume}/>
         </Switch>

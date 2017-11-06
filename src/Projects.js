@@ -19,7 +19,7 @@ class Projects extends Component {
 
   render() {
 
-    if (!this.props.data) return <Container text><h1>Loading...</h1></Container>
+    //if (!this.props.data) return <Container text><h1>Loading...</h1></Container>
 
     const settings = {
       dots: false,

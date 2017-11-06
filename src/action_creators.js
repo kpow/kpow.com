@@ -6,6 +6,12 @@ export function setStarsData(stars) {
   return { type: 'SET_STARS_DATA', stars };
 }
 
+
+export function setTotalStars(starIds) {
+  return { type: 'SET_TOTAL_STARS', starIds };
+}
+
+
 export function setBooksData(books) {
   return { type: 'SET_BOOKS_DATA', books };
 }

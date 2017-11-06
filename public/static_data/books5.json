@@ -1,0 +1,2280 @@
+{
+  "review": [
+    {
+      "id": "809147039",
+      "book": {
+        "id": "2066546",
+        "isbn": "1932416900",
+        "isbn13": "9781932416909",
+        "trc": "105",
+        "title": "Arkansas",
+        "tws": "Arkansas",
+        "img": "https://images.gr-assets.com/books/1328694312m/2066546.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1328694312s/2066546.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/2066546.Arkansas",
+        "num_pages": "230",
+        "ei": "",
+        "pub": "McSweeney's",
+        "pub_day": "1",
+        "pub_year": "2008",
+        "pub_month": "3",
+        "avr_rate": "3.74",
+        "r_count": "829",
+        "desc": "<i>Arkansas</i> is a biting first novel full of wet T-shirt contests, illicit drugs, and cross-country road trips. There are the days: the dappled grounds, the aimless yardwork, the hours in the booth giving directions to families in SUVs. And then there are the nights: crisscrossing the South with illicit goods, the shifty deals in dingy trailers, the vague orders from a boss they've never met. Before Kyle and Swin can recognize how close to paradise they are in this neglected state park in southern Arkansas, the lazy peace is shattered with a shot. Night blends into day. Dead bodies. Crooked superiors. Suspicious associates. It's on-the-job training, with no time for slow learning, bad judgment, or foul luck.",
+        "authors": {
+          "author": {
+            "id": "938447",
+            "name": "John Brandon",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1278295347p5/938447.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1278295347p2/938447.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/938447.John_Brandon"
+            },
+            "avr_rate": "3.63",
+            "r_count": "4014",
+            "trc": "636"
+          }
+        },
+        "pub": "2008",
+        "work": {
+          "id": "2071773"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "587389000"
+          },
+          {
+            "id": "possible-reads",
+            "_exclusive": "false",
+            "rev_id": "587388732",
+            "_sortable": "false"
+          }
+        ]
+      },
+      "date_added": " Jan 02 14:14:52 -0800 2014",
+      "date_updated": " Jan 02 14:15:06 -0800 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/809147039"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/809147039"
+      }
+    },
+    {
+      "id": "794571291",
+      "book": {
+        "id": "12007",
+        "isbn": "185723135X",
+        "isbn13": "9781857231359",
+        "trc": "1097",
+        "title": "Use of Weapons (Culture, #3)",
+        "tws": "Use of Weapons",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/12007.Use_of_Weapons",
+        "num_pages": "411",
+        "ei": "",
+        "avr_rate": "4.18",
+        "r_count": "29839",
+        "desc": "Cheradenine is an ex-special circumstance agent who had been raised to eminence by a woman named Diziet. Skaffen-Amtiskaw, the drone, had saved her life and it believes Cheradenine to be a burnt-out case. But not even its machine intelligence can see the horrors in his past.",
+        "authors": {
+          "author": {
+            "id": "5807106",
+            "name": "Iain M. Banks",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1352410520p5/5807106.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1352410520p2/5807106.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks"
+            },
+            "avr_rate": "4.07",
+            "r_count": "278671",
+            "trc": "12399"
+          }
+        },
+        "work": {
+          "id": "1494156"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "575931270"
+          }
+        ]
+      },
+      "date_added": " Dec 19 18:39:44 -0800 2013",
+      "date_updated": " Dec 19 18:39:44 -0800 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/794571291"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/794571291"
+      }
+    },
+    {
+      "id": "776432438",
+      "book": {
+        "id": "7793307",
+        "isbn": "1934861286",
+        "isbn13": "9781934861288",
+        "trc": "579",
+        "title": "Ex-Heroes (Ex-Heroes, #1)",
+        "tws": "Ex-Heroes",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/7793307-ex-heroes",
+        "ei": "",
+        "avr_rate": "3.87",
+        "r_count": "12352",
+        "desc": "The first in a spectacularly genre-mashing adventure series that pits a small group of courageous, flawed, terrified superheroes against hordes of undead.<br /><br />Stealth. Gorgon. Regenerator. Cerberus. Zzzap. The Mighty Dragon. They were heroes, using their superhuman abilities to make Los Angeles a better place.<br /><br />Then the plague of living death spread around the globe. Now, a year later, the heroes struggle to overcome their differences and recover from their own scars as they protect the thousands of survivors huddled in their film-studio-turned-fortress, the Mount.<br /><br />But the hungry ex-humans are not the only threat the survivors face. Across the city, another group has grown and gained power.",
+        "authors": {
+          "author": {
+            "id": "3396842",
+            "name": "Peter Clines",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1314048538p5/3396842.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1314048538p2/3396842.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/3396842.Peter_Clines"
+            },
+            "avr_rate": "3.92",
+            "r_count": "73512",
+            "trc": "8085"
+          }
+        },
+        "work": {
+          "id": "10753679"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Feb 18 20:34:14 -0800 2014",
+      "read_at": "Wed Feb 26 14:07:11 -0800 2014",
+      "date_added": " Nov 29 05:08:18 -0800 2013",
+      "date_updated": "Wed Feb 26 14:07:11 -0800 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/776432438"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/776432438"
+      }
+    },
+    {
+      "id": "774928369",
+      "book": {
+        "id": "13641101",
+        "trc": "194",
+        "title": "How Green This Land, How Blue This Sea (Newsflesh Trilogy, #3.2)",
+        "tws": "How Green This Land, How Blue This Sea",
+        "img": "https://images.gr-assets.com/books/1370970646m/13641101.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1370970646s/13641101.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13641101-how-green-this-land-how-blue-this-sea",
+        "num_pages": "132",
+        "ei": "",
+        "pub": "Orbit",
+        "pub_day": "15",
+        "pub_year": "2013",
+        "pub_month": "7",
+        "avr_rate": "3.97",
+        "r_count": "1643",
+        "desc": "<b>A new Newsflesh novella from the New York Times bestselling author that brought you Feed, Mira Grant.</b><br /><br />Post-Rising Australia can be a dangerous place, especially if you're a member of the government-sponsored Australia Conservation Corps, a group of people dedicated to preserving their continent's natural wealth until a cure can be found. Between the zombie kangaroos at the fences and the zombie elephant seals turning the penguin rookery at Prince Phillip Island into a slaughterhouse, the work of an animal conservationist is truly never done--and is often done at the end of a sniper rifle.",
+        "authors": {
+          "author": {
+            "id": "3153776",
+            "name": "Mira Grant",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1380320279p5/3153776.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1380320279p2/3153776.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/3153776.Mira_Grant"
+            },
+            "avr_rate": "3.94",
+            "r_count": "120068",
+            "trc": "14504"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "19255863"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Nov 26 19:51:24 -0800 2013",
+      "read_at": "Wed Dec 04 14:46:29 -0800 2013",
+      "date_added": " Nov 26 19:51:24 -0800 2013",
+      "date_updated": "Wed Dec 04 14:46:29 -0800 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/774928369"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/774928369"
+      }
+    },
+    {
+      "id": "769132933",
+      "book": {
+        "id": "16131032",
+        "isbn": "0316129070",
+        "isbn13": "9780316129077",
+        "trc": "1793",
+        "title": "Abaddon's Gate (The Expanse, #3)",
+        "tws": "Abaddon's Gate",
+        "img": "https://images.gr-assets.com/books/1407572059m/16131032.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1407572059s/16131032.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/16131032-abaddon-s-gate",
+        "num_pages": "539",
+        "ei": "",
+        "pub": "Orbit",
+        "pub_day": "4",
+        "pub_year": "2013",
+        "pub_month": "6",
+        "avr_rate": "4.18",
+        "r_count": "41703",
+        "desc": "For generations, the solar system -- Mars, the Moon, the Asteroid Belt -- was humanity's great frontier. Until now. The alien artifact working through its program under the clouds of Venus has appeared in Uranus's orbit, where it has built a massive gate that leads to a starless dark.<br /><br />Jim Holden and the crew of the <em>Rocinante</em> are part of a vast flotilla of scientific and military ships going out to examine the artifact. But behind the scenes, a complex plot is unfolding, with the destruction of Holden at its core. As the emissaries of the human race try to find whether the gate is an opportunity or a threat, the greatest danger is the one they brought with them.",
+        "authors": {
+          "author": {
+            "id": "4192148",
+            "name": "James S.A. Corey",
+            "img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+            },
+            "sm_img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/4192148.James_S_A_Corey"
+            },
+            "avr_rate": "4.18",
+            "r_count": "283551",
+            "trc": "20226"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "17606564"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Nov 19 13:07:55 -0800 2013",
+      "read_at": " Nov 26 19:39:40 -0800 2013",
+      "date_added": " Nov 19 13:07:51 -0800 2013",
+      "date_updated": " Nov 26 19:39:40 -0800 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/769132933"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/769132933"
+      }
+    },
+    {
+      "id": "761431031",
+      "book": {
+        "id": "823062",
+        "isbn": "0812576403",
+        "isbn13": "9780812576405",
+        "trc": "209",
+        "title": "The Light of Other Days",
+        "tws": "The Light of Other Days",
+        "img": "https://images.gr-assets.com/books/1315596650m/823062.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1315596650s/823062.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/823062.The_Light_of_Other_Days",
+        "ei": "",
+        "avr_rate": "3.98",
+        "r_count": "5492",
+        "desc": "",
+        "authors": {
+          "author": {
+            "id": "7779",
+            "name": "Arthur C. Clarke",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1357191481p5/7779.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1357191481p2/7779.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/7779.Arthur_C_Clarke"
+            },
+            "avr_rate": "3.94",
+            "r_count": "842595",
+            "trc": "24041"
+          }
+        },
+        "work": {
+          "id": "924161"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "548616195"
+          }
+        ]
+      },
+      "date_added": " Nov 10 06:55:43 -0800 2013",
+      "date_updated": " Nov 10 06:55:43 -0800 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/761431031"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/761431031"
+      }
+    },
+    {
+      "id": "761428884",
+      "book": {
+        "id": "68494",
+        "isbn": "0345459407",
+        "isbn13": "9780345459404",
+        "trc": "3259",
+        "title": "Perdido Street Station (Bas-Lag, #1)",
+        "tws": "Perdido Street Station",
+        "img": "https://images.gr-assets.com/books/1393537963m/68494.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1393537963s/68494.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/68494.Perdido_Street_Station",
+        "num_pages": "623",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub": "Ballantine Del Rey",
+        "pub_day": "",
+        "pub_year": "2003",
+        "pub_month": "8",
+        "avr_rate": "3.96",
+        "r_count": "47152",
+        "desc": "Beneath the towering bleached ribs of a dead, ancient beast lies the city of New Crobuzon, where the unsavory deal is stranger to no one--not even to Isaac, a gifted and eccentric scientist who has spent a lifetime quietly carrying out his unique research. But when a half-bird, half-human creature known as the Garuda comes to him from afar, Isaac is faced with challenges he has never before encountered. Though the Garuda's request is scientifically daunting, Isaac is sparked by his own curiosity and an uncanny reverence for this curious stranger. Soon an eerie metamorphosis will occur that will permeate every fiber of New Crobuzon--and not even the Ambassador of Hell will challenge the malignant terror it evokes.",
+        "authors": {
+          "author": {
+            "id": "33918",
+            "name": "China Miéville",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1243988363p5/33918.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1243988363p2/33918.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/33918.China_Mi_ville"
+            },
+            "avr_rate": "3.85",
+            "r_count": "230593",
+            "trc": "22979"
+          }
+        },
+        "pub": "2003",
+        "work": {
+          "id": "3221410"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "548613792"
+          }
+        ]
+      },
+      "date_added": " Nov 10 06:51:59 -0800 2013",
+      "date_updated": " Nov 10 06:51:59 -0800 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/761428884"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/761428884"
+      }
+    },
+    {
+      "id": "761426973",
+      "book": {
+        "id": "12591698",
+        "isbn": "1841499900",
+        "isbn13": "9781841499901",
+        "trc": "2759",
+        "title": "Caliban's War (The Expanse, #2)",
+        "tws": "Caliban's War",
+        "img": "https://images.gr-assets.com/books/1407572377m/12591698.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1407572377s/12591698.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/12591698-caliban-s-war",
+        "num_pages": "595",
+        "ei": "",
+        "pub": "Orbit (Hachette)",
+        "pub_day": "26",
+        "pub_year": "2012",
+        "pub_month": "6",
+        "avr_rate": "4.28",
+        "r_count": "52042",
+        "desc": "We are not alone.<br /><br />On Ganymede, breadbasket of the outer planets, a Martian marine watches as her platoon is slaughtered by a monstrous supersoldier. On Earth, a high-level politician struggles to prevent interplanetary war from reigniting. And on Venus, an alien protomolecule has overrun the planet, wreaking massive, mysterious changes and threatening to spread out into the solar system.<br /><br />In the vast wilderness of space, James Holden and the crew of the Rocinante have been keeping the peace for the Outer Planets Alliance. When they agree to help a scientist search war-torn Ganymede for a missing child, the future of humanity rests on whether a single ship can prevent an alien invasion that may have already begun . . .<br /><br />Caliban's War is a breakneck science fiction adventure following the critically acclaimed Leviathan Wakes.",
+        "authors": {
+          "author": {
+            "id": "4192148",
+            "name": "James S.A. Corey",
+            "img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+            },
+            "sm_img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/4192148.James_S_A_Corey"
+            },
+            "avr_rate": "4.18",
+            "r_count": "283551",
+            "trc": "20226"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "17606541"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Nov 10 06:49:10 -0800 2013",
+      "read_at": " Nov 19 13:08:17 -0800 2013",
+      "date_added": " Nov 10 06:49:07 -0800 2013",
+      "date_updated": " Nov 19 13:08:17 -0800 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/761426973"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/761426973"
+      }
+    },
+    {
+      "id": "747951635",
+      "book": {
+        "id": "17398861",
+        "isbn": "1612183646",
+        "isbn13": "9781612183640",
+        "trc": "65",
+        "title": "Interrupt",
+        "tws": "Interrupt",
+        "img": "https://images.gr-assets.com/books/1368176398m/17398861.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1368176398s/17398861.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/17398861-interrupt",
+        "num_pages": "418",
+        "ei": "",
+        "pub": "47North",
+        "pub_day": "23",
+        "pub_year": "2013",
+        "pub_month": "7",
+        "avr_rate": "3.30",
+        "r_count": "842",
+        "desc": "In the distant past, the leader of a Neanderthal tribe confronts the end of his kind. Today, a computational biologist, a Navy pilot, and an autistic boy are drawn together by the ancient mystery that gave rise to Homo sapiens.<br /><br /><br /><br />Planes are falling from the sky. Global communications have ceased. America stands on the brink of war with China—but war is the least of humankind’s concerns. As solar storms destroy Earth’s electronics and plunge the world into another Ice Age, our civilization finds itself overrun by a powerful new species of man....<br /><br /><br /><br />“Riveting.” — Scott Sigler<br /><br /><br /><br />“Edgy and exciting.” — Bob Mayer<br /><br /><br /><br />This brilliant thriller takes listeners to an all-too-plausible tomorrow that’s as scientifically rigorous as it is wildly imaginative.",
+        "authors": {
+          "author": {
+            "id": "1840202",
+            "name": "Jeff  Carlson",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1224390661p5/1840202.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1224390661p2/1840202.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/1840202.Jeff_Carlson"
+            },
+            "avr_rate": "3.49",
+            "r_count": "7682",
+            "trc": "646"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "25028257"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": "Wed Oct 23 17:07:26 -0700 2013",
+      "date_updated": "Wed Oct 23 17:07:45 -0700 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/747951635"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/747951635"
+      }
+    },
+    {
+      "id": "731457700",
+      "book": {
+        "id": "15798788",
+        "isbn": "0857680862",
+        "isbn13": "9780857680860",
+        "trc": "60",
+        "title": "Johnny Alucard (Anno Dracula, #4)",
+        "tws": "Johnny Alucard",
+        "img": "https://images.gr-assets.com/books/1371839940m/15798788.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1371839940s/15798788.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/15798788-johnny-alucard",
+        "num_pages": "400",
+        "ei": "",
+        "pub": "Titan Books",
+        "pub_day": "17",
+        "pub_year": "2013",
+        "pub_month": "9",
+        "avr_rate": "3.75",
+        "r_count": "743",
+        "desc": "DRACULA COMES TO NEW YORK: Kim Newman returns to one of the great bestselling vampire tales of the modern era. Considered alongside <i>I Am Legend </i>and <i>Interview with theVampire</i> as one of the stand-out vampire stories of the last century - this brand-new novel is the first in over a decade from the remarkable and influential <i>Anno Dracula</i> series.<br /><br />Newman’s dark and impish tale begins with a single question: What if Dracula had survived his encounters with Bram Stoker’s Dr. John Seward and enslaved Victorian England?<br /><br />Fallen from grace and driven from the British Empire in previous instalments, Dracula seems long gone. A relic of the past. Yet, when vampire boy Johnny Alucard descends upon America, stalking the streets of New York and Hollywood, haunting the lives of the rich and famous, from Sid and Nancy to Andy Warhol, Orson Welles, and Francis Ford Coppola, sinking his fangs ever deeper into the zeitgeist of 1980s America, it seems the past might not be dead after all.",
+        "authors": {
+          "author": {
+            "id": "18879",
+            "name": "Kim Newman",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1295567489p5/18879.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1295567489p2/18879.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/18879.Kim_Newman"
+            },
+            "avr_rate": "3.95",
+            "r_count": "55552",
+            "trc": "3700"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "21521731"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "522559536"
+          }
+        ]
+      },
+      "date_added": " Sep 30 17:44:55 -0700 2013",
+      "date_updated": " Sep 30 17:44:55 -0700 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/731457700"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/731457700"
+      }
+    },
+    {
+      "id": "728149300",
+      "book": {
+        "id": "17790683",
+        "trc": "19",
+        "title": "DMQZ",
+        "tws": "DMQZ",
+        "img": "https://images.gr-assets.com/books/1365652640m/17790683.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1365652640s/17790683.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/17790683-dmqz",
+        "num_pages": "243",
+        "ei": "",
+        "pub": "via KDP",
+        "pub_day": "",
+        "pub_year": "2013",
+        "pub_month": "",
+        "avr_rate": "3.34",
+        "r_count": "132",
+        "desc": "In the wake of the global pandemic known as the \"little dormouse,\" the line between the Safe Zone and the Quarantine Zone divides New York City. The shores and waters of the East River are the \"DMQZ,\" the uninhabited area that separates uninfected Manhattan from the slowly dying borough of Brooklyn.<br /><br />Jacob Hale is a Manhattan police officer rising in the ranks of the Safe Zone military government until a bank heist gone wrong lands him on suspension and under suspicion. On a quest to clear his good name, Hale finds himself drawn into a web of conspiracy, terrorism, and revolt - and into the orbit of a mysterious woman who may be the key to it all.",
+        "authors": {
+          "author": {
+            "id": "7045142",
+            "name": "Quinn Fleming",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1380512341p5/7045142.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1380512341p2/7045142.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/7045142.Quinn_Fleming"
+            },
+            "avr_rate": "3.34",
+            "r_count": "132",
+            "trc": "20"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "24882820"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": "Wed Sep 25 00:00:00 -0700 2013",
+      "read_at": " Sep 30 00:00:00 -0700 2013",
+      "date_added": "Wed Sep 25 21:04:43 -0700 2013",
+      "date_updated": " Sep 30 17:39:44 -0700 2013",
+      "body": {
+        "url": "really it's a 3 and half star book."
+      },
+      "url": {
+        "url": "https://www.goodreads.com/review/show/728149300"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/728149300"
+      }
+    },
+    {
+      "id": "708346068",
+      "book": {
+        "id": "57891",
+        "isbn": "156931778X",
+        "isbn13": "9781569317785",
+        "trc": "2972",
+        "title": "Battle Royale",
+        "tws": "Battle Royale",
+        "img": "https://images.gr-assets.com/books/1331235272m/57891.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1331235272s/57891.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/57891.Battle_Royale",
+        "num_pages": "617",
+        "ei": "",
+        "pub": "VIZ, LLC",
+        "pub_day": "26",
+        "pub_year": "2003",
+        "pub_month": "2",
+        "avr_rate": "4.24",
+        "r_count": "41890",
+        "desc": "Koushun Takami's notorious high-octane thriller is based on an irresistible premise: a class of junior high school students is taken to a deserted island where, as part of a ruthless authoritarian program, they are provided arms and forced to kill one another until only one survivor is left standing. Criticized as violent exploitation when first published in Japan - where it then proceeded to become a runaway bestseller - Battle Royale is a Lord of the Flies for the 21st century, a potent allegory of what it means to be young and (barely) alive in a dog-eat-dog world. Made into a controversial hit movie of the same name, Battle Royale is already a contemporary Japanese pulp classic, now available for the first time in the English language.",
+        "authors": {
+          "author": {
+            "id": "32595",
+            "name": "Koushun Takami",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1309551623p5/32595.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1309551623p2/32595.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/32595.Koushun_Takami"
+            },
+            "avr_rate": "4.21",
+            "r_count": "63906",
+            "trc": "4811"
+          }
+        },
+        "pub": "2003",
+        "work": {
+          "id": "2786327"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Aug 31 14:32:40 -0700 2013",
+      "date_updated": " Aug 31 14:32:47 -0700 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/708346068"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/708346068"
+      }
+    },
+    {
+      "id": "708338105",
+      "book": {
+        "id": "13594574",
+        "isbn": "1619210711",
+        "isbn13": "9781619210714",
+        "trc": "2",
+        "title": "AZ: Anno Zombie",
+        "tws": "AZ: Anno Zombie",
+        "img": "https://images.gr-assets.com/books/1344715250m/13594574.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1344715250s/13594574.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13594574-az",
+        "num_pages": "288",
+        "ei": "",
+        "pub": "Samhain Publishing",
+        "pub_day": "4",
+        "pub_year": "2012",
+        "pub_month": "12",
+        "avr_rate": "3.90",
+        "r_count": "31",
+        "desc": "<i>It’s the dawn of a new era…the year of the zombie!</i><br /><br /> <br /><br />Fire rained from the sky over Tucson that day. A dust cloud settled over the city. And the dead rose from their graves. Tom Hollinger raced to his ex-wife’s place to make sure she and his son were safe. They weren’t. Tom was barely able to save the boy from his undead mother. Now, surrounded by a city in chaos, Tom, his son and a handful of friends are battling their way out of town, desperate to make it to safety while the army of the living dead grows in number every hour. The world no longer belongs to the living. A new era has dawned…Anno Zombie!",
+        "authors": {
+          "author": {
+            "id": "1411003",
+            "name": "Peter Mark May",
+            "img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+            },
+            "sm_img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/1411003.Peter_Mark_May"
+            },
+            "avr_rate": "4.14",
+            "r_count": "156",
+            "trc": "27"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "19182828"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Aug 31 14:19:26 -0700 2013",
+      "read_at": "Wed Sep 11 19:28:30 -0700 2013",
+      "date_added": " Aug 31 14:19:15 -0700 2013",
+      "date_updated": "Wed Sep 11 19:28:32 -0700 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/708338105"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/708338105"
+      }
+    },
+    {
+      "id": "683813969",
+      "book": {
+        "id": "16131037",
+        "isbn": "0316133728",
+        "isbn13": "9780316133722",
+        "trc": "155",
+        "title": "Skinner",
+        "tws": "Skinner",
+        "img": "https://images.gr-assets.com/books/1356459173m/16131037.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1356459173s/16131037.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/16131037-skinner",
+        "num_pages": "400",
+        "ei": "",
+        "pub": "Mulholland Books",
+        "pub_day": "9",
+        "pub_year": "2013",
+        "pub_month": "7",
+        "avr_rate": "3.51",
+        "r_count": "1069",
+        "desc": "Skinner founded his career in \"asset protection\" on fear. To touch anyone under his protection was to invite destruction. A savagely effective methodology, until Skinner's CIA handlers began to fear him as much as his enemies did and banished him to the hinterlands of the intelligence community.<br /><br />Now, an ornate and evolving cyber-terrorist attack is about to end that long exile. His asset is Jae, a roboticist with a gift for seeing the underlying systems violently shaping a new era of global guerrilla warfare.<br /><br />At the root of it all is a young boy, the innocent seed of a plot grown in the slums of Mumbai. Brought to flower, that plot will tip the balance of world power in a perilous new direction.<br /><br />A combination of Le Carre spycraft with Stephenson techno-philosophy from the novelist hailed by the <i>Washington Post</i> as \"the voice of twenty-first century crime fiction,\" SKINNER is Charlie Huston's masterpiece--a new kind of thriller for a new kind of world.",
+        "authors": {
+          "author": {
+            "id": "4861",
+            "name": "Charlie Huston",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1371253299p5/4861.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1371253299p2/4861.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/4861.Charlie_Huston"
+            },
+            "avr_rate": "3.90",
+            "r_count": "46850",
+            "trc": "3518"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "21956571"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Aug 02 06:02:35 -0700 2013",
+      "read_at": " Aug 31 14:18:52 -0700 2013",
+      "date_added": " Aug 02 04:11:13 -0700 2013",
+      "date_updated": " Aug 31 14:18:52 -0700 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/683813969"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/683813969"
+      }
+    },
+    {
+      "id": "681609751",
+      "book": {
+        "id": "15811102",
+        "isbn": "0974320668",
+        "isbn13": "9780974320663",
+        "trc": "122",
+        "title": "Cryonic",
+        "tws": "Cryonic",
+        "img": "https://images.gr-assets.com/books/1368812630m/15811102.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1368812630s/15811102.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/15811102-cryonic",
+        "num_pages": "261",
+        "ei": "",
+        "pub": "Bruyere",
+        "pub_day": "18",
+        "pub_year": "2013",
+        "pub_month": "6",
+        "avr_rate": "3.17",
+        "r_count": "598",
+        "desc": "<b>\"Sometimes you're better off dead. . . .\"</b><br /><br />When Royce Bruyere chose to be cryogenically frozen upon death, he figured coming back to life would be exciting. Neat. Bonus time. The world he awakes to is nothing of the sort.<br /><br />A Chinese invasion has crippled the United States, dividing the country in a decade-long stalemate along the Mississippi. Royce's successful reanimation is unprecedented, making him the Chinese regime's most prized possession--but not for long. Eager to control life and death, the Chinese reanimate other \"cryonics,\" until something goes horribly wrong.<br /><br />Royce travels through a future wrought with violence and despair, only to discover the cure for the disease lies within him. It's a race against time as he flees the Chinese and the bloodthirsty victims of a terrifying epidemic in the hope of saving the country from apocalypse and creating a life worth living.",
+        "authors": {
+          "author": {
+            "id": "15463",
+            "name": "Travis Bradberry",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1373410300p5/15463.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1373410300p2/15463.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/15463.Travis_Bradberry"
+            },
+            "avr_rate": "3.81",
+            "r_count": "60141",
+            "trc": "954"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "21536277"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Jul 30 15:47:57 -0700 2013",
+      "read_at": " Aug 30 19:13:24 -0700 2013",
+      "date_added": " Jul 30 15:47:52 -0700 2013",
+      "date_updated": " Aug 30 19:13:24 -0700 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/681609751"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/681609751"
+      }
+    },
+    {
+      "id": "674238783",
+      "book": {
+        "id": "8855321",
+        "isbn": "1841499889",
+        "isbn13": "9781841499888",
+        "trc": "5798",
+        "title": "Leviathan Wakes (The Expanse, #1)",
+        "tws": "Leviathan Wakes",
+        "img": "https://images.gr-assets.com/books/1411013134m/8855321.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1411013134s/8855321.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/8855321-leviathan-wakes",
+        "num_pages": "561",
+        "ei": "",
+        "pub": "Orbit",
+        "pub_day": "2",
+        "pub_year": "2011",
+        "pub_month": "6",
+        "avr_rate": "4.20",
+        "r_count": "87184",
+        "desc": "Humanity has colonized the solar system - Mars, the Moon, the Asteroid Belt and beyond - but the stars are still out of our reach.<br /><br />Jim Holden is XO of an ice miner making runs from the rings of Saturn to the mining stations of the Belt. When he and his crew stumble upon a derelict ship, the <i>Scopuli</i>, they find themselves in possession of a secret they never wanted. A secret that someone is willing to kill for - and kill on a scale unfathomable to Jim and his crew. War is brewing in the system unless he can find out who left the ship and why.<br /><br />Detective Miller is looking for a girl. One girl in a system of billions, but her parents have money and money talks. When the trail leads him to the <i>Scopuli</i> and rebel sympathizer Holden, he realizes that this girl may be the key to everything.<br /><br />Holden and Miller must thread the needle between the Earth government, the Outer Planet revolutionaries, and secretive corporations - and the odds are against them. But out in the Belt, the rules are different, and one small ship can change the fate of the universe.",
+        "authors": {
+          "author": {
+            "id": "4192148",
+            "name": "James S.A. Corey",
+            "img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+            },
+            "sm_img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/4192148.James_S_A_Corey"
+            },
+            "avr_rate": "4.18",
+            "r_count": "283551",
+            "trc": "20226"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "13730452"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": "Wed Oct 23 17:35:02 -0700 2013",
+      "read_at": " Nov 10 06:48:50 -0800 2013",
+      "date_added": " Jul 22 10:36:51 -0700 2013",
+      "date_updated": " Nov 10 06:48:50 -0800 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/674238783"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/674238783"
+      }
+    },
+    {
+      "id": "663398209",
+      "book": {
+        "id": "16085506",
+        "isbn": "0770436315",
+        "isbn13": "9780770436315",
+        "trc": "466",
+        "title": "Fiend",
+        "tws": "Fiend",
+        "img": "https://images.gr-assets.com/books/1373996106m/16085506.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1373996106s/16085506.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/16085506-fiend",
+        "num_pages": "295",
+        "ei": "",
+        "pub": "Crown",
+        "pub_day": "9",
+        "pub_year": "2013",
+        "pub_month": "7",
+        "avr_rate": "3.54",
+        "r_count": "2566",
+        "desc": "<b>There’s more than one kind of monster.<br /></b><br />   When Chase Daniels first sees the little girl in umbrella socks tearing open the Rottweiler, he's not too concerned. As a longtime meth addict, he’s no stranger to horrifying, drug-fueled hallucinations.  <br />   But as he and his fellow junkies soon discover, the little girl is no illusion. The end of the world really has arrived. <br />   The funny thing is, Chase’s life was over long before the apocalypse got here, his existence already reduced to a stinking basement apartment and a filthy mattress and an endless grind of buying and selling and using. He’s lied and cheated and stolen and broken his parents’ hearts a thousand times. And he threw away his only shot at sobriety a long time ago, when he chose the embrace of the drug over the woman he still loves. <br />   And if your life’s already shattered beyond any normal hopes of redemption…well, maybe the end of the world is an <i>opportunity. </i>Maybe it’s a last chance for Chase to hit restart and become the man he once dreamed of being. Soon he’s fighting to reconnect with his lost love and dreaming of becoming her hero among civilization’s ruins. <br />   But is salvation just another pipe dream? <br />   Propelled by a blistering first-person voice and featuring a powerfully compelling antihero, <i>Fiend</i> is at once a riveting portrait of addiction, a pitch-black love story, and a meditation on hope, redemption, and delusion—not to mention one hell of a zombie novel.",
+        "authors": {
+          "author": {
+            "id": "4321643",
+            "name": "Peter Stenson",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1357266574p5/4321643.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1357266574p2/4321643.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/4321643.Peter_Stenson"
+            },
+            "avr_rate": "3.56",
+            "r_count": "2791",
+            "trc": "549"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "21887279"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Jul 23 00:00:00 -0700 2013",
+      "read_at": " Jul 29 00:00:00 -0700 2013",
+      "date_added": " Jul 09 17:30:29 -0700 2013",
+      "date_updated": " Jul 29 17:58:16 -0700 2013",
+      "body": "really a 3.5 half.",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/663398209"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/663398209"
+      }
+    },
+    {
+      "id": "611411605",
+      "book": {
+        "id": "17162149",
+        "isbn": "0857662961",
+        "isbn13": "9780857662965",
+        "trc": "370",
+        "title": "Crux (Nexus, #2)",
+        "tws": "Crux",
+        "img": "https://images.gr-assets.com/books/1372046050m/17162149.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1372046050s/17162149.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/17162149-crux",
+        "num_pages": "512",
+        "ei": "",
+        "pub": "Angry Robot",
+        "pub_day": "27",
+        "pub_year": "2013",
+        "pub_month": "8",
+        "avr_rate": "4.12",
+        "r_count": "7039",
+        "desc": "<b>Finalist for the 2014 Prometheus Award.<br /></b><br />Six months have passed since the release of Nexus 5.  The world is a different, more dangerous place. <br />  <br />In the United States, the terrorists – or freedom fighters – of the Post-Human Liberation Front use Nexus to turn men and women into human time bombs aimed at the President and his allies. In Washington DC, a government scientist, secretly addicted to Nexus, uncovers more than he wants to know about the forces behind the assassinations, and finds himself in a maze with no way out. <br /><br />In Thailand, Samantha Cataranes has found peace and contentment with a group of children born with Nexus in their brains. But when forces threaten to tear her new family apart, Sam will stop at absolutely nothing to protect the ones she holds dear. <br />  <br />In Vietnam, Kade and Feng are on the run from bounty hunters seeking the price on Kade’s head, from the CIA, and from forces that want to use the back door Kade has built into Nexus 5.  Kade knows he must stop the terrorists misusing Nexus before they ignite a global war between human and posthuman. But to do so, he’ll need to stay alive and ahead of his pursuers. <br />  <br />And in Shanghai, a posthuman child named Ling Shu will go to dangerous and explosive lengths to free her uploaded mother from the grip of Chinese authorities. <br />  <br />The first blows in the war between human and posthuman have been struck.  The world will never be the same. <br /><br /><i>\n  <b>File Under</b>\n</i><b>:</b> <b>Science Fiction</b> [ Stage 2 | Terrorist or Freedom Fighter? | Mind Games | Upgrading… ]",
+        "authors": {
+          "author": {
+            "id": "160069",
+            "name": "Ramez Naam",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1353488211p5/160069.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1353488211p2/160069.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/160069.Ramez_Naam"
+            },
+            "avr_rate": "4.08",
+            "r_count": "26222",
+            "trc": "2514"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "21757503"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Sep 13 04:06:49 -0700 2013",
+      "read_at": " Sep 22 19:18:50 -0700 2013",
+      "date_added": " May 09 16:36:18 -0700 2013",
+      "date_updated": " Jul 20 03:30:58 -0700 2017",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/611411605"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/611411605"
+      }
+    },
+    {
+      "id": "585623532",
+      "book": {
+        "id": "182223",
+        "isbn": "0753506386",
+        "isbn13": "9780753506387",
+        "trc": "6",
+        "title": "From Joy Division To New Order",
+        "tws": "From Joy Division To New Order",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/182223.From_Joy_Division_To_New_Order",
+        "num_pages": "320",
+        "ei": "",
+        "pub": "Virgin Books",
+        "pub_day": "7",
+        "pub_year": "2002",
+        "pub_month": "3",
+        "avr_rate": "3.77",
+        "r_count": "161",
+        "desc": "FACTORY RECORDS' REPUTATION AND FORTUNE WERE FOUNDED ON TWO BANDS -JOY DIVISION AND NEW ORDER - AND ONE SINGLE-MINDED AND STUBBORN PERSONALITY: ITS MEDIA-FRIENDLY COMPANY DIRECTOR ANTHONY H. WILSON. AT THE HEIGHT OF IT'S SUCCESS IN THE LATE 1980S, THE COMPANY REIGNED OVER THE MANCHESTER RAVE SCENE, RAN IT'S OWN CLUB, THE HACIENDA, AND HAD A STRING OF HIT RECORDS AROUND THE WORLD. BY 1992 THE BACK CATALOGUE HAD BEEN SOLD OFF, NEW ORDER AND HAPPY MONDAYS WERE IN DISARRAY, AND THE HACIENDA WAS SHUT DOWN BY THE POLICE. SINCE THEN THE STORY OF FACTORY RECORDS HAS BECOME THE STUFF OF MYTHS AND LEGENDS. A MAJOR NEW BRITISH FILM, TWENTY FOUR HOUR PARTY PEOPLE, REVISITS THE HEYDAY OF THE HACIENDA, AND STARS STEVE COOGAN AS ANTHONY H. WILSON ALONGSIDE MANY OF THE ARTISTS AND PERSONALITIES WHO WERE AROUND AT THE TIME. THE FILM IS RELEASED IN MARCH 2002. FROM JOY DIVISION TO NEW ORDER, ACCLAIMED ON IT'S ORIGINAL PUBLICATION IN 1996, TELLS THE REAL STORY OF FACTORY'S SPECTACULAR HISTORY. DRAWING ON EXCLUSIVE INTERVIEWS WITH THE MAJOR PLAYERS, MICK MIDDLES PROVIDES A TIMELY AND FACINATING LOOK AT THE UNIQUE PERSONALITIES AND MESSY REALITY BEHIND ONE OF THE UK'S MOST INFLUENTIAL AND (AT ONE TIME ) COMMERCIALLY SUCCESSFUL INDEPENDENT RECORD COMPANIES.",
+        "authors": {
+          "author": {
+            "id": "88505",
+            "name": "Mick Middles",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1435421772p5/88505.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1435421772p2/88505.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/88505.Mick_Middles"
+            },
+            "avr_rate": "3.67",
+            "r_count": "608",
+            "trc": "46"
+          }
+        },
+        "pub": "2002",
+        "work": {
+          "id": "176093"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "401964879"
+          }
+        ]
+      },
+      "date_added": " Apr 09 05:58:30 -0700 2013",
+      "date_updated": " Apr 09 05:58:30 -0700 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/585623532"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/585623532"
+      }
+    },
+    {
+      "id": "523158581",
+      "book": {
+        "id": "15818498",
+        "isbn": "0062222562",
+        "isbn13": "9780062222565",
+        "trc": "231",
+        "title": "Unknown Pleasures: Inside Joy Division",
+        "tws": "Unknown Pleasures: Inside Joy Division",
+        "img": "https://images.gr-assets.com/books/1355530496m/15818498.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1355530496s/15818498.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/15818498-unknown-pleasures",
+        "num_pages": "416",
+        "ei": "",
+        "pub": "It Books",
+        "pub_day": "29",
+        "pub_year": "2013",
+        "pub_month": "1",
+        "avr_rate": "4.10",
+        "r_count": "2620",
+        "desc": "Joy Division changed the face of music. Godfathers of alternative rock, they reinvented music in the post-punk era, creating a new sound—dark, hypnotic, and intense—that would influence U2, Morrissey, R.E.M., Radiohead, and numerous others. The story is now legendary: in 1980, on the heels of their groundbreaking debut, Unknown Pleasures, and on the eve of their first U.S. tour, the band was rent asunder by the tragic death of their enigmatic lead singer, Ian Curtis. Yet in the mere three years they were together, Joy Division produced two landmark albums and a handful of singles—including the iconic anthem \"Love Will Tear Us Apart\"—that continue to have a powerful resonance.<br /><br />Now, for the first time, their story is told by one of their own. In Unknown Pleasures, founding member and bass player Peter Hook recounts how four young men from Manchester and Salisbury, with makeshift instruments and a broken-down van, rose from the punk scene to create a haunting, atmospheric music that would define a generation. Peter talks with eye-opening candor and reflection about the suicide of Ian Curtis; the band's friendships and fallouts; the evolution of their sound and image; and the larger-than-life characters who formed a vital part of the Joy Division legend, including Factory Records founder Tony Wilson and producer Martin Hannett. Told with surprising humor and vivid detail, Unknown Pleasures is the book Joy Division fans have awaited for decades.",
+        "authors": {
+          "author": {
+            "id": "539498",
+            "name": "Peter Hook",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1370445455p5/539498.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1370445455p2/539498.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/539498.Peter_Hook"
+            },
+            "avr_rate": "4.01",
+            "r_count": "4362",
+            "trc": "440"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "19109358"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Jan 31 21:41:50 -0800 2013",
+      "read_at": " Feb 10 06:02:31 -0800 2013",
+      "date_added": " Jan 31 21:41:50 -0800 2013",
+      "date_updated": " Feb 10 06:02:31 -0800 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/523158581"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/523158581"
+      }
+    },
+    {
+      "id": "519081003",
+      "book": {
+        "id": "16103129",
+        "isbn": "1612184340",
+        "isbn13": "9781612184340",
+        "trc": "671",
+        "title": "Apocalypse Z: The Beginning of the End (Apocalypse Z, #1)",
+        "tws": "Apocalypse Z: The Beginning of the End",
+        "img": "https://images.gr-assets.com/books/1353957406m/16103129.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1353957406s/16103129.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/16103129-apocalypse-z",
+        "num_pages": "397",
+        "ei": "",
+        "pub": "AmazonCrossing",
+        "pub_day": "23",
+        "pub_year": "2012",
+        "pub_month": "10",
+        "avr_rate": "3.82",
+        "r_count": "10015",
+        "desc": "The dead rise…<br /><br />A mysterious incident in Russia, a blip buried in the news—it’s the only warning humanity receives that civilization will soon be destroyed by a single, voracious virus that creates monsters of men.<br /><br />Humanity falls…<br /><br />A lawyer, still grieving over the death of his young wife, begins to write as a form of therapy. But he never expected that his anonymous blog would ultimately record humanity’s last days.<br /><br />The end of the world has begun…<br /><br />Governments scramble to stop the zombie virus, people panic, so-called “Safe Havens” are established, the world erupts into chaos; soon it’s every man, woman, and child for themselves. Armed only with makeshift weapons and the will to live, a lone survivor will give mankind one last chance against…<br /><br />Apocalypse Z",
+        "authors": {
+          "author": {
+            "id": "1641503",
+            "name": "Manel Loureiro",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1306626613p5/1641503.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1306626613p2/1641503.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/1641503.Manel_Loureiro"
+            },
+            "avr_rate": "3.73",
+            "r_count": "20682",
+            "trc": "1818"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "21914260"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " May 11 04:37:22 -0700 2013",
+      "read_at": " May 16 07:19:15 -0700 2013",
+      "date_added": " Jan 27 18:20:13 -0800 2013",
+      "date_updated": " Jul 22 06:02:30 -0700 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/519081003"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/519081003"
+      }
+    },
+    {
+      "id": "519000046",
+      "book": {
+        "id": "13453029",
+        "trc": "8342",
+        "title": "Wool Omnibus (Silo, #1)",
+        "tws": "Wool Omnibus",
+        "img": "https://images.gr-assets.com/books/1349614200m/13453029.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1349614200s/13453029.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13453029-wool-omnibus",
+        "num_pages": "509",
+        "ei": "",
+        "pub": "Broad Reach Publishing",
+        "pub_day": "25",
+        "pub_year": "2012",
+        "pub_month": "1",
+        "avr_rate": "4.24",
+        "r_count": "124256",
+        "desc": "This Omnibus Edition collects the five Wool books into a single volume. It is for those who arrived late to the party and who wish to save a dollar or two while picking up the same stories in a single package.<br /><br />The first Wool story was released as a standalone short in July of 2011. Due to reviewer demand, the rest of the story was released over the next six months. My thanks go out to those reviewers who clamored for more. Without you, none of this would exist. Your demand created this as much as I did.<br /><br />This is the story of mankind clawing for survival, of mankind on the edge. The world outside has grown unkind, the view of it limited, talk of it forbidden. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple. They are given the very thing they profess to want: They are allowed outside.",
+        "authors": {
+          "author": {
+            "id": "3064305",
+            "name": "Hugh Howey",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1327581631p5/3064305.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1327581631p2/3064305.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/3064305.Hugh_Howey"
+            },
+            "avr_rate": "4.15",
+            "r_count": "466659",
+            "trc": "34552"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "18979356"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Aug 23 00:00:00 -0700 2015",
+      "date_added": " Jan 27 16:57:34 -0800 2013",
+      "date_updated": "Wed Oct 28 12:41:29 -0700 2015",
+      "comments_count": "1",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/519000046"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/519000046"
+      }
+    },
+    {
+      "id": "505047914",
+      "book": {
+        "id": "4835987",
+        "isbn": "1847371353",
+        "isbn13": "9781847371355",
+        "trc": "69",
+        "title": "The Haçienda: How Not to Run a Club",
+        "tws": "The Haçienda: How Not to Run a Club",
+        "img": "https://images.gr-assets.com/books/1328724794m/4835987.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1328724794s/4835987.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/4835987-the-ha-ienda",
+        "num_pages": "352",
+        "ei": "",
+        "pub": "Simon & Schuster UK",
+        "pub_day": "1",
+        "pub_year": "2009",
+        "pub_month": "10",
+        "avr_rate": "3.80",
+        "r_count": "1370",
+        "desc": "<b>The Legendary musician and cofounder of Joy Division and New Order tells the whole story—the fun, the music, the vast loss of money, the legacy—of Manchester's most iconic nightclub</b><br /> <br />Peter Hook has been shaping the course of popular music for 30 years. He provided the propulsive bass guitar melodies of Love Will Tear Us Apart, as well as Blue Monday and many other songs. As co-owner of Manchester's Hacienda club, Hook propelled the rise of acid house in the late 1980s, then suffered through its violent fall in the 1990s as gangs, drugs, greed, and a hostile police force destroyed everything he and his friends had created. This is his memory of that era and it is far sadder, funnier, scarier, and stranger than anyone has imagined. As young and naive musicians, the members of New Order were thrilled when their record label Factory opened a club. Yet as their career escalated, they toured the world, and they had top 10 hits, their royalties were being ploughed into the Hacienda and they were only being paid £20 per week. As Peter Hook tells the story of that exciting and hilarious time, all the main characters appear—Tony Wilson, Barney, Shaun Ryder—and he tells it like it truly was—a rollercoaster of success, money, confusion, and true faith.",
+        "authors": {
+          "author": {
+            "id": "539498",
+            "name": "Peter Hook",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1370445455p5/539498.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1370445455p2/539498.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/539498.Peter_Hook"
+            },
+            "avr_rate": "4.01",
+            "r_count": "4362",
+            "trc": "440"
+          }
+        },
+        "pub": "2009",
+        "work": {
+          "id": "4901195"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Jan 13 00:00:00 -0800 2013",
+      "read_at": " Jan 24 05:10:10 -0800 2013",
+      "date_added": " Jan 13 07:43:34 -0800 2013",
+      "date_updated": " Jan 24 05:10:10 -0800 2013",
+      "body": {
+        "url": "Really a 3.5 star book. Strange format and deep British slang."
+      },
+      "url": {
+        "url": "https://www.goodreads.com/review/show/505047914"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/505047914"
+      }
+    },
+    {
+      "id": "479177606",
+      "book": {
+        "id": "13642710",
+        "isbn": "0857662937",
+        "isbn13": "9780857662934",
+        "trc": "1129",
+        "title": "Nexus (Nexus, #1)",
+        "tws": "Nexus",
+        "img": "https://images.gr-assets.com/books/1347149654m/13642710.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1347149654s/13642710.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13642710-nexus",
+        "num_pages": "460",
+        "ei": "",
+        "pub": "Angry Robot",
+        "pub_day": "18",
+        "pub_year": "2012",
+        "pub_month": "12",
+        "avr_rate": "4.05",
+        "r_count": "13155",
+        "desc": "<b>Mankind gets an upgrade</b><br /><br />In the near future, the experimental nano-drug Nexus can link humans together, mind to mind. There are some who want to improve it. There are some who want to eradicate it. And there are others who just want to exploit it.<br /><br />When a young scientist is caught improving Nexus, he’s thrust over his head into a world of danger and international espionage – for there is far more at stake than anyone realizes.<br /><br />From the halls of academe to the halls of power, from the headquarters of an elite US agency in Washington DC to a secret lab beneath a top university in Shanghai, from the underground parties of San Francisco to the illegal biotech markets of Bangkok, from an international neuroscience conference to a remote monastery in the mountains of Thailand – Nexus is a thrill ride through a future on the brink of explosion.",
+        "authors": {
+          "author": {
+            "id": "160069",
+            "name": "Ramez Naam",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1353488211p5/160069.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1353488211p2/160069.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/160069.Ramez_Naam"
+            },
+            "avr_rate": "4.08",
+            "r_count": "26222",
+            "trc": "2514"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "19257521"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " May 09 16:33:47 -0700 2013",
+      "read_at": " May 10 11:11:41 -0700 2013",
+      "date_added": " Dec 16 17:53:48 -0800 2012",
+      "date_updated": " May 10 11:11:41 -0700 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/479177606"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/479177606"
+      }
+    },
+    {
+      "id": "473907283",
+      "book": {
+        "id": "7745",
+        "isbn": "0679785892",
+        "isbn13": "9780679785897",
+        "trc": "4416",
+        "title": "Fear and Loathing in Las Vegas",
+        "tws": "Fear and Loathing in Las Vegas",
+        "img": "https://images.gr-assets.com/books/1394204569m/7745.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1394204569s/7745.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/7745.Fear_and_Loathing_in_Las_Vegas",
+        "num_pages": "204",
+        "ei": "Second Vintage Books Edition",
+        "pub": "Vintage Books",
+        "pub_day": "",
+        "pub_year": "1998",
+        "pub_month": "6",
+        "avr_rate": "4.08",
+        "r_count": "245805",
+        "desc": "<i>Fear and Loathing in Las Vegas</i> is the best chronicle of drug-soaked, addle-brained, rollicking good times ever committed to the printed page. It is also the tale of a long weekend road trip that has gone down in the annals of American pop culture as one of the strangest journeys ever undertaken.",
+        "authors": {
+          "author": {
+            "id": "5237",
+            "name": "Hunter S. Thompson",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1206560814p5/5237.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1206560814p2/5237.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/5237.Hunter_S_Thompson"
+            },
+            "avr_rate": "4.03",
+            "r_count": "404645",
+            "trc": "11193"
+          }
+        },
+        "pub": "1998",
+        "work": {
+          "id": "1309111"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Dec 09 14:22:36 -0800 2012",
+      "date_updated": " Dec 09 14:22:41 -0800 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/473907283"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/473907283"
+      }
+    },
+    {
+      "id": "463639766",
+      "book": {
+        "id": "8935689",
+        "isbn": "1857231384",
+        "isbn13": "9781857231380",
+        "trc": "2364",
+        "title": "Consider Phlebas (Culture, #1)",
+        "tws": "Consider Phlebas",
+        "img": "https://images.gr-assets.com/books/1327951890m/8935689.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1327951890s/8935689.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/8935689-consider-phlebas",
+        "num_pages": "471",
+        "ei": "",
+        "pub": "Orbit",
+        "pub_day": "",
+        "pub_year": "2005",
+        "pub_month": "",
+        "avr_rate": "3.85",
+        "r_count": "54776",
+        "desc": "The war raged across the galaxy. Billions had died, billions more were doomed. Moons, planets, the very stars themselves, faced destruction, cold-blooded, brutal, and worse, random. The Idirans fought for their Faith; the Culture for its moral right to exist. Principles were at stake. There could be no surrender.<br /><br />Within the cosmic conflict, an individual crusade. Deep within a fabled labyrinth on a barren world, a Planet of the Dead proscribed to mortals, lay a fugitive Mind. Both the Culture and the Idirans sought it. It was the fate of Horza, the Changer, and his motley crew of unpredictable mercenaries, human and machine, actually to find it, and with it their own destruction.",
+        "authors": {
+          "author": {
+            "id": "5807106",
+            "name": "Iain M. Banks",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1352410520p5/5807106.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1352410520p2/5807106.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks"
+            },
+            "avr_rate": "4.07",
+            "r_count": "278671",
+            "trc": "12399"
+          }
+        },
+        "pub": "2005",
+        "work": {
+          "id": "14366"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Dec 19 00:00:00 -0800 2013",
+      "read_at": " Dec 19 00:00:00 -0800 2013",
+      "date_added": " Nov 25 19:33:59 -0800 2012",
+      "date_updated": " Dec 19 18:48:00 -0800 2013",
+      "body": {
+        "url": "really 3.5, we'll see how book 2 goes"
+      },
+      "url": {
+        "url": "https://www.goodreads.com/review/show/463639766"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/463639766"
+      }
+    },
+    {
+      "id": "458834305",
+      "book": {
+        "id": "16048083",
+        "isbn": "1936460149",
+        "isbn13": "9781936460144",
+        "trc": "55",
+        "title": "The Frozen Sky",
+        "tws": "The Frozen Sky",
+        "img": "https://images.gr-assets.com/books/1355447431m/16048083.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1355447431s/16048083.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/16048083-the-frozen-sky",
+        "num_pages": "346",
+        "ei": "1st",
+        "pub": "Candlemark & Gleam",
+        "pub_day": "15",
+        "pub_year": "2012",
+        "pub_month": "9",
+        "avr_rate": "3.52",
+        "r_count": "2421",
+        "desc": "BENEATH THE ICE<br /><br />Something is alive inside Jupiter's ice moon Europa. Robot probes find an ancient tunnel beneath the surface, its walls carved with strange hieroglyphics. Led by elite engineer Alexis Vonderach, a team of scientists descends into the dark... where they confront a savage race older than mankind...<br /><br />FIRST CONTACT<br /><br />Based on the award-winning short story, \"The Frozen Sky\" is a new full-length sci fi thriller novel from the international bestselling author of \"Plague Year\" and \"Interrupt.\"",
+        "authors": {
+          "author": {
+            "id": "1840202",
+            "name": "Jeff  Carlson",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1224390661p5/1840202.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1224390661p2/1840202.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/1840202.Jeff_Carlson"
+            },
+            "avr_rate": "3.49",
+            "r_count": "7682",
+            "trc": "646"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "14515083"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " May 16 07:19:45 -0700 2013",
+      "read_at": " Jul 22 06:02:09 -0700 2013",
+      "date_added": " Nov 18 17:41:41 -0800 2012",
+      "date_updated": " Nov 11 11:54:56 -0800 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/458834305"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/458834305"
+      }
+    },
+    {
+      "id": "441184315",
+      "book": {
+        "id": "12379094",
+        "isbn": "0752897896",
+        "isbn13": "9780752897899",
+        "trc": "514",
+        "title": "The City of Mirrors (The Passage, #3)",
+        "tws": "The City of Mirrors",
+        "img": "https://images.gr-assets.com/books/1450560883m/12379094.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1450560883s/12379094.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/12379094-the-city-of-mirrors",
+        "num_pages": "598",
+        "ei": "",
+        "pub": "Orion (UK)",
+        "pub_day": "16",
+        "pub_year": "2016",
+        "pub_month": "6",
+        "avr_rate": "4.20",
+        "r_count": "28510",
+        "desc": "<b>In life I was a scientist called Fanning.<br /><br />Then, in a jungle in Bolivia, I died.<br /><br />I died, and then I was brought back to life...</b><br /><br />Prompted by a voice that lives in her blood, the fearsome warrior known as Alicia of Blades is drawn towards to one of the great cities of The Time Before. The ruined city of New York. Ruined but not empty. For this is the final refuge of Zero, the first and last of The Twelve. The one who must be destroyed if mankind is to have a future.<br /><br />What she finds is not what she's expecting.<br /><br />A journey into the past.<br /><br />To find out how it all began.<br /><br />And an opponent at once deadlier and more human than she could ever have imagined.",
+        "authors": {
+          "author": {
+            "id": "45315",
+            "name": "Justin Cronin",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1456843158p5/45315.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1456843158p2/45315.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/45315.Justin_Cronin"
+            },
+            "avr_rate": "4.04",
+            "r_count": "252706",
+            "trc": "28191"
+          }
+        },
+        "pub": "2016",
+        "work": {
+          "id": "17359681"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": "Wed Oct 24 17:01:48 -0700 2012",
+      "date_updated": " Sep 03 11:30:43 -0700 2017",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/441184315"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/441184315"
+      }
+    },
+    {
+      "id": "421330840",
+      "book": {
+        "id": "10439703",
+        "isbn": "0061714321",
+        "isbn13": "9780061714320",
+        "trc": "495",
+        "title": "Aloha from Hell (Sandman Slim, #3)",
+        "tws": "Aloha from Hell",
+        "img": "https://images.gr-assets.com/books/1302271758m/10439703.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1302271758s/10439703.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/10439703-aloha-from-hell",
+        "num_pages": "438",
+        "ei": "1st Edition",
+        "pub": "Harper Voyager",
+        "pub_day": "18",
+        "pub_year": "2011",
+        "pub_month": "10",
+        "avr_rate": "4.01",
+        "r_count": "13071",
+        "desc": "All hail Sandman Slim, author Richard Kadrey’s ultra-extreme anti-hero and recent escapee from Lucifer’s overheated Underworld playground. In number three, <em>Aloha from Hell</em>, the ruthless avenger, a.k.a. Stark, finds himself trapped in the middle of a war between Heaven and Hell. With God on vacation, the Devil nosing around in Paradise, and an insane serial killer doing serious damage on Earth, Stark/Slim is ready to unleash some more adrenaline-surging, edgy and violent supernatural mayhem—and even pay another visit to Hell if necessary—which is great news for fans of Jim Butcher, Warren Ellis, Charlaine Harris, Kim Harrison, and Simon R. Green.<br />",
+        "authors": {
+          "author": {
+            "id": "37557",
+            "name": "Richard Kadrey",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1252945001p5/37557.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1252945001p2/37557.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/37557.Richard_Kadrey"
+            },
+            "avr_rate": "3.99",
+            "r_count": "100806",
+            "trc": "6928"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "15344305"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "422867639"
+          },
+          {
+            "id": "started-not-finished",
+            "_exclusive": "false",
+            "rev_id": "422863630",
+            "_sortable": "false"
+          }
+        ]
+      },
+      "started_at": " Nov 03 14:45:49 -0700 2012",
+      "date_added": " Sep 24 13:49:36 -0700 2012",
+      "date_updated": " May 09 16:39:58 -0700 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/421330840"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/421330840"
+      }
+    },
+    {
+      "id": "416541739",
+      "book": {
+        "id": "13239822",
+        "isbn": "0802120202",
+        "isbn13": "9780802120205",
+        "trc": "1920",
+        "title": "Alif the Unseen",
+        "tws": "Alif the Unseen",
+        "img": "https://images.gr-assets.com/books/1325543155m/13239822.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1325543155s/13239822.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13239822-alif-the-unseen",
+        "num_pages": "433",
+        "ei": "",
+        "pub": "Grove Press",
+        "pub_day": "19",
+        "pub_year": "2012",
+        "pub_month": "6",
+        "avr_rate": "3.84",
+        "r_count": "13013",
+        "desc": "In an unnamed Middle Eastern security state, a young Arab-Indian hacker shields his clients—dissidents, outlaws, Islamists, and other watched groups—from surveillance and tries to stay out of trouble. He goes by Alif—the first letter of the Arabic alphabet, and a convenient handle to hide behind. The aristocratic woman Alif loves has jilted him for a prince chosen by her parents, and his computer has just been breached by the state’s electronic security force, putting his clients and his own neck on the line. Then it turns out his lover’s new fiancé is the \"Hand of God,\" as they call the head of state security, and his henchmen come after Alif, driving him underground. <br /><br />When Alif discovers <i>The Thousand and One Days</i>, the secret book of the jinn, which both he and the Hand suspect may unleash a new level of information technology, the stakes are raised and Alif must struggle for life or death, aided by forces seen and unseen.",
+        "authors": {
+          "author": {
+            "id": "815259",
+            "name": "G. Willow Wilson",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1328288166p5/815259.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1328288166p2/815259.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/815259.G_Willow_Wilson"
+            },
+            "avr_rate": "4.12",
+            "r_count": "159615",
+            "trc": "14734"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "18330291"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Sep 29 20:52:28 -0700 2012",
+      "read_at": " Oct 21 04:15:16 -0700 2012",
+      "date_added": " Sep 17 13:19:21 -0700 2012",
+      "date_updated": " Oct 21 04:15:16 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/416541739"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/416541739"
+      }
+    },
+    {
+      "id": "413804368",
+      "book": {
+        "id": "401939",
+        "isbn": "0571207391",
+        "isbn13": "9780571207398",
+        "trc": "205",
+        "title": "Touching from a Distance: Ian Curtis and Joy Division",
+        "tws": "Touching from a Distance: Ian Curtis and Joy Division",
+        "img": "https://images.gr-assets.com/books/1311985922m/401939.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1311985922s/401939.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/401939.Touching_from_a_Distance",
+        "num_pages": "212",
+        "ei": "",
+        "pub": "Faber & Faber",
+        "pub_day": "4",
+        "pub_year": "1996",
+        "pub_month": "4",
+        "avr_rate": "3.89",
+        "r_count": "5794",
+        "desc": "This is an account of the mesmerising life and tragic death of Ian Curtis, lead singer of Joy Division, told from the perspective of his wife Deborah. It contains a discography, gig list and a full set of lyrics.",
+        "authors": {
+          "author": {
+            "id": "53645",
+            "name": "Deborah Curtis",
+            "img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+            },
+            "sm_img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/53645.Deborah_Curtis"
+            },
+            "avr_rate": "3.91",
+            "r_count": "5989",
+            "trc": "296"
+          }
+        },
+        "pub": "1996",
+        "work": {
+          "id": "90144"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "272454222"
+          }
+        ]
+      },
+      "date_added": " Sep 13 16:01:20 -0700 2012",
+      "date_updated": " Sep 13 16:01:20 -0700 2012",
+      "comments_count": "2",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/413804368"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/413804368"
+      }
+    },
+    {
+      "id": "410184233",
+      "book": {
+        "id": "7778609",
+        "isbn": "0061714313",
+        "isbn13": "9780061714313",
+        "trc": "709",
+        "title": "Kill the Dead (Sandman Slim, #2)",
+        "tws": "Kill the Dead",
+        "img": "https://images.gr-assets.com/books/1275103078m/7778609.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1275103078s/7778609.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/7778609-kill-the-dead",
+        "num_pages": "434",
+        "ei": "",
+        "pub": "Eos",
+        "pub_day": "5",
+        "pub_year": "2010",
+        "pub_month": "10",
+        "avr_rate": "4.06",
+        "r_count": "16227",
+        "desc": "What do you do after you’ve crawled out of Hell to wreak bloody revenge? If you’re Stark you turn to bounty hunting, tracking and decimating whatever rogue monsters you’re paid to kill. Stark hates the work, but he needs the money, especially the big bucks Lucifer is offering. In town as an adviser on a biopic of his life, Lucifer needs protection, and he wants Stark as his bodyguard. But the gig isn’t all bad; there is the very sexy, very hot French porn star Brigitte Bardo, a friend of Lucifer’s in LA to remake her reputation as a legit actress. While it isn’t love, it’s pretty damn good, and after 11 years of demonic chastity, it’s enough for now. <br /><br /> Stark has enough trouble juggling a diva devil and a scorching French bombshell without a zombie plague to complicate matters. And just what happens when a human-angel half-breed is bitten by the living dead? His human side begins to die, transforming him into an unstoppable angel of death—a killing machine devoid of emotion or thought, with no regrets or future to worry about. Not a bad way to be when your choices are limited. Now, Stark has to decide . . . if he does finds a cure for the zombie infection, will he take it?",
+        "authors": {
+          "author": {
+            "id": "37557",
+            "name": "Richard Kadrey",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1252945001p5/37557.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1252945001p2/37557.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/37557.Richard_Kadrey"
+            },
+            "avr_rate": "3.99",
+            "r_count": "100806",
+            "trc": "6928"
+          }
+        },
+        "pub": "2010",
+        "work": {
+          "id": "10693559"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Sep 08 14:11:29 -0700 2012",
+      "read_at": " Sep 24 13:49:25 -0700 2012",
+      "date_added": " Sep 08 14:11:29 -0700 2012",
+      "date_updated": " Sep 24 13:49:25 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/410184233"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/410184233"
+      }
+    },
+    {
+      "id": "408071336",
+      "book": {
+        "id": "14595",
+        "isbn": "0802142648",
+        "isbn13": "9780802142641",
+        "trc": "837",
+        "title": "Please Kill Me: The Uncensored Oral History of Punk",
+        "tws": "Please Kill Me: The Uncensored Oral History of Punk",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/14595.Please_Kill_Me",
+        "ei": "",
+        "avr_rate": "4.16",
+        "r_count": "22257",
+        "desc": "<b>This 20th anniversary edition features several brand-new chapters,<br />new interviews, new photos, and a new afterword by the authors!</b><br /><br />Once the most reviled musical movement in history, now a global rallying<br />cry for the young and rebellious, punk has energy and power that<br />remain undiluted. A contemporary classic that has inspired scores of<br />other books, <i>Please Kill Me</i> is the definitive oral history of the most nihilist of<br />all pop movements. Iggy Pop, Richard Hell, Dee Dee and Joey Ramone, Malcolm<br />McLaren, Jim Carroll, and scores of other famous and infamous punk<br />figures lend their voices to this decisive account of that outrageous, explosive<br />era. From its origins in the twilight years of Andy Warhol’s New York reign to<br />its last gasps as eighties corporate rock, the phenomenon that was known as<br />punk is scrutinized, eulogized, and celebrated by the people who were there.",
+        "authors": {
+          "author": {
+            "id": "9097",
+            "name": "Legs McNeil",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1215292366p5/9097.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1215292366p2/9097.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/9097.Legs_McNeil"
+            },
+            "avr_rate": "4.10",
+            "r_count": "27853",
+            "trc": "1554"
+          }
+        },
+        "work": {
+          "id": "1820137"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "268739616"
+          }
+        ]
+      },
+      "date_added": "Wed Sep 05 16:22:19 -0700 2012",
+      "date_updated": "Wed Sep 05 16:22:19 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/408071336"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/408071336"
+      }
+    },
+    {
+      "id": "407681387",
+      "book": {
+        "id": "10779721",
+        "isbn": "031255219X",
+        "isbn13": "9780312552190",
+        "trc": "407",
+        "title": "Dead of Night (Dead of Night, #1)",
+        "tws": "Dead of Night",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/10779721-dead-of-night",
+        "num_pages": "358",
+        "ei": "",
+        "pub": "St. Martin's Griffin",
+        "pub_day": "25",
+        "pub_year": "2011",
+        "pub_month": "10",
+        "avr_rate": "3.96",
+        "r_count": "5260",
+        "desc": "A prison doctor injects a condemned serial killer with a formula designed to keep his consciousness awake while his body rots in the grave. But all drugs have unforeseen side-effects. Before he could be buried, the killer wakes up. Hungry. Infected. Contagious. This is the way the world ends. Not with a bang…but a bite.",
+        "authors": {
+          "author": {
+            "id": "72451",
+            "name": "Jonathan Maberry",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1442453747p5/72451.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1442453747p2/72451.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/72451.Jonathan_Maberry"
+            },
+            "avr_rate": "4.06",
+            "r_count": "177201",
+            "trc": "18210"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "15785045"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "268493280"
+          }
+        ]
+      },
+      "date_added": "Wed Sep 05 05:30:12 -0700 2012",
+      "date_updated": "Wed Sep 05 05:30:12 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/407681387"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/407681387"
+      }
+    },
+    {
+      "id": "403439497",
+      "book": {
+        "id": "1256765",
+        "isbn": "067001849X",
+        "isbn13": "9780670018499",
+        "trc": "124",
+        "title": "The Accident Man (Samuel Carver, #1)",
+        "tws": "The Accident Man",
+        "img": "https://images.gr-assets.com/books/1367440638m/1256765.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1367440638s/1256765.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/1256765.The_Accident_Man",
+        "num_pages": "322",
+        "ei": "",
+        "pub": "Viking Adult",
+        "pub_day": "31",
+        "pub_year": "2008",
+        "pub_month": "1",
+        "avr_rate": "3.81",
+        "r_count": "1559",
+        "desc": "<b>If Princess Diana had been murdered, what sort of man would have killed her?</b> <br /><br /> Breathlessly paced and featuring one of the most intriguing heroes in recent fiction, Tom Cain�s <i>The Accident Man</i> surprises the reader at every turn. For a certain sum of money, Samuel Carver will arrange a death. A ruptured gas line, an automobile crash, a fall from a window; anything can look like an accident. But when Carver is to carry out a job in a tunnel in Paris, and when the job goes wrong for him, and when he is pursued by the very forces that hired him, Carver must execute his most daring feat yet. A thriller of the grandest and most exhilarating sort, <i>The Accident Man</i> races above and below the streets of Paris, across Europe, and through storms at sea. It is also a startling introduction to a hero engaged in acts of moral violence. With the dissolution of world powers, with everything and anything for sale, how does one justify death? Samuel Carver�a clouded man of determined action�will come to understand the prices to be paid. Fans of James Bond, the Jason Bourne films, and Lee Child will thrill at Samuel Carver�s violent and uncertain world.",
+        "authors": {
+          "author": {
+            "id": "606367",
+            "name": "Tom Cain",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1346369508p5/606367.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1346369508p2/606367.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/606367.Tom_Cain"
+            },
+            "avr_rate": "3.81",
+            "r_count": "5407",
+            "trc": "408"
+          }
+        },
+        "pub": "2008",
+        "work": {
+          "id": "1245565"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "265710177"
+          }
+        ]
+      },
+      "date_added": "Wed Aug 29 21:16:07 -0700 2012",
+      "date_updated": "Wed Aug 29 21:16:07 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/403439497"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/403439497"
+      }
+    },
+    {
+      "id": "401107679",
+      "book": {
+        "id": "5776788",
+        "isbn": "0061714305",
+        "isbn13": "9780061714306",
+        "trc": "2077",
+        "title": "Sandman Slim (Sandman Slim, #1)",
+        "tws": "Sandman Slim",
+        "img": "https://images.gr-assets.com/books/1311727590m/5776788.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1311727590s/5776788.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/5776788-sandman-slim",
+        "num_pages": "388",
+        "ei": "",
+        "avr_rate": "3.93",
+        "r_count": "27325",
+        "desc": "Supernatural fantasy has a new antihero in Sandman Slim, star of this gripping, gritty new series by Richard Kadrey.<br /><br />Life sucks and then you die. Or, if you’re James Stark, you spend eleven years in Hell as a hitman before finally escaping, only to land back in the hell-on-earth that is Los Angeles.<br /><br />Now Stark’s back, and ready for revenge. And absolution, and maybe even love. But when his first stop saddles him with an abusive talking head, Stark discovers that the road to absolution and revenge is much longer than you’d expect, and both Heaven and Hell have their own ideas for his future.<br /><br />Resurrection sucks. Saving the world is worse.<br /><br />Darkly twisted, irreverent, and completely hilarious, Sandman Slim is the breakthrough novel by an acclaimed author.",
+        "authors": {
+          "author": {
+            "id": "37557",
+            "name": "Richard Kadrey",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1252945001p5/37557.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1252945001p2/37557.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/37557.Richard_Kadrey"
+            },
+            "avr_rate": "3.99",
+            "r_count": "100806",
+            "trc": "6928"
+          }
+        },
+        "work": {
+          "id": "5948537"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Aug 26 19:36:01 -0700 2012",
+      "read_at": " Sep 08 10:58:46 -0700 2012",
+      "date_added": " Aug 26 19:36:01 -0700 2012",
+      "date_updated": " Sep 08 10:58:46 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/401107679"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/401107679"
+      }
+    }
+  ]
+}

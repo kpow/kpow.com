@@ -1,0 +1,2254 @@
+{
+  "review": [
+    {
+      "id": "178609987",
+      "book": {
+        "id": "185828",
+        "isbn": "1841491098",
+        "isbn13": "9781841491097",
+        "trc": "28",
+        "title": "Dark Light (Engines Of Light, #2)",
+        "tws": "Dark Light",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/185828.Dark_Light",
+        "num_pages": "368",
+        "ei": "",
+        "pub": "Orbit",
+        "pub_day": "",
+        "pub_year": "2002",
+        "pub_month": "10",
+        "avr_rate": "3.68",
+        "r_count": "1094",
+        "desc": "Following on from COSMONAUT KEEP, which was shortlisted for the 2002 Hugo Award, this is the second book in the dazzling new space opera series by one of SF's most exciting new authors.",
+        "authors": {
+          "author": {
+            "id": "108281",
+            "name": "Ken MacLeod",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1283522468p5/108281.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1283522468p2/108281.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/108281.Ken_MacLeod"
+            },
+            "avr_rate": "3.72",
+            "r_count": "26719",
+            "trc": "1833"
+          }
+        },
+        "pub": "2002",
+        "work": {
+          "id": "179626"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Jun 21 17:52:52 -0700 2011",
+      "date_updated": " Jun 21 17:52:52 -0700 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/178609987"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/178609987"
+      }
+    },
+    {
+      "id": "178609922",
+      "book": {
+        "id": "185824",
+        "isbn": "0765340739",
+        "isbn13": "9780765340733",
+        "trc": "70",
+        "title": "Cosmonaut Keep (Engines Of Light, #1)",
+        "tws": "Cosmonaut Keep",
+        "img": "https://images.gr-assets.com/books/1312043451m/185824.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1312043451s/185824.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/185824.Cosmonaut_Keep",
+        "num_pages": "352",
+        "ei": "",
+        "pub": "Tor Science Fiction",
+        "pub_day": "7",
+        "pub_year": "2002",
+        "pub_month": "1",
+        "avr_rate": "3.60",
+        "r_count": "2835",
+        "desc": "Matt Cairns is a 21st-century outlaw Programmer who takes on the shady jobs no one else will touch. Against his better judgment, he accepts an assignment to crack the Marshall Titov, a top-secret orbital station operated by the European Space Agency. But what Matt will discover there will propel him on an extraordinary and quite unexpected journey.<br /><br />Gregor Cairns is an exobiology student and descendant of one of Terra Nova's first families. Hopelessly infatuated with a lovely young trader's daughter, he is unaware that his research partner, Elizabeth, has fallen in love with him. Together, Gregor and Elizabeth confront the great work his family began three centuries earlier-to rediscover the secret of interstellar travel.<br /><br />Ranging from a gritty near-future Earth to a distant alien world, <i>Cosmonaut Keep</i> is contemporary science fiction at its highest level, a visionary epic filled with daring individuals seeking a place for themselves in a vast, complex, and enigmatic universe. <br /><i>Cosmonaut Keep</i> is a 2002 Hugo Award Nominee for Best Novel.",
+        "authors": {
+          "author": {
+            "id": "108281",
+            "name": "Ken MacLeod",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1283522468p5/108281.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1283522468p2/108281.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/108281.Ken_MacLeod"
+            },
+            "avr_rate": "3.72",
+            "r_count": "26719",
+            "trc": "1833"
+          }
+        },
+        "pub": "2002",
+        "work": {
+          "id": "883739"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Jun 21 17:52:33 -0700 2011",
+      "date_updated": " Jun 21 17:52:33 -0700 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/178609922"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/178609922"
+      }
+    },
+    {
+      "id": "162514863",
+      "book": {
+        "id": "10020409",
+        "trc": "2",
+        "title": "Infection (LZR-1143 #1)",
+        "tws": "Infection",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/10020409-infection",
+        "num_pages": "",
+        "ei": "",
+        "pub_day": "",
+        "avr_rate": "3.85",
+        "r_count": "2116",
+        "desc": "Mike McKnight was an action movie star, condemned to a lifetime of incarceration in a psychiatric prison for the murder of someone he loves.<br /><br />At least until the zombies showed up.<br /><br />From his cell in the asylum, he is suddenly thrust into a nightmare of unbelievable proportions when the dead rise, and rapidly become a horrific plague on the world of the living. In a landscape littered with post-apocalyptic terrors, Mike and a handful of survivors battle humans and zombies alike, fleeing headlong through danger and despair.<br /><br />From Long Island to the suburbs to the mountainous countryside, Mike fights to stay alive, recover his memories, and retrieve a cure to the most threatening plague the world has ever known.<br /><br />The new third edition, revised in November of 2010, now includes a brief note from the author and a preview chapter from the upcoming sequel, LZR-1143: Evolution.",
+        "authors": {
+          "author": {
+            "id": "932816",
+            "name": "Bryan James",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1442478495p5/932816.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1442478495p2/932816.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/932816.Bryan_James"
+            },
+            "avr_rate": "3.88",
+            "r_count": "5675",
+            "trc": "316"
+          }
+        },
+        "work": {
+          "id": "13556195"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Apr 21 04:48:57 -0700 2011",
+      "read_at": " May 03 21:58:13 -0700 2011",
+      "date_added": " Apr 21 04:48:57 -0700 2011",
+      "date_updated": " May 03 21:58:13 -0700 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/162514863"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/162514863"
+      }
+    },
+    {
+      "id": "161989180",
+      "book": {
+        "id": "5226164",
+        "isbn": "0765319861",
+        "isbn13": "9780765319869",
+        "trc": "177",
+        "title": "Steal Across the Sky",
+        "tws": "Steal Across the Sky",
+        "img": "https://images.gr-assets.com/books/1312049832m/5226164.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1312049832s/5226164.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/5226164-steal-across-the-sky",
+        "ei": "",
+        "pub": "Tor",
+        "pub_day": "",
+        "avr_rate": "3.44",
+        "r_count": "1083",
+        "desc": "Aliens appeared one day, built a base on the moon, and put an ad on the internet. The Atoners claim to have wronged humanity ten thousand years before, and request 21 volunteers to visit seven planets and Witness for us. At first, everyone thought it was a joke. Three of those volunteers tell what they found on Kular A and Kular B.",
+        "authors": {
+          "author": {
+            "id": "21158",
+            "name": "Nancy Kress",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1232323985p5/21158.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1232323985p2/21158.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/21158.Nancy_Kress"
+            },
+            "avr_rate": "3.79",
+            "r_count": "68875",
+            "trc": "7247"
+          }
+        },
+        "work": {
+          "id": "5293436"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "101975976"
+          }
+        ]
+      },
+      "date_added": " Apr 18 18:53:29 -0700 2011",
+      "date_updated": " Apr 18 18:53:29 -0700 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/161989180"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/161989180"
+      }
+    },
+    {
+      "id": "159831097",
+      "book": {
+        "id": "7260188",
+        "isbn": "0439023513",
+        "isbn13": "9780439023511",
+        "trc": "86860",
+        "title": "Mockingjay (The Hunger Games, #3)",
+        "tws": "Mockingjay",
+        "img": "https://images.gr-assets.com/books/1358275419m/7260188.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1358275419s/7260188.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/7260188-mockingjay",
+        "num_pages": "392",
+        "ei": "First Edition",
+        "pub": "Scholastic Press",
+        "pub_day": "24",
+        "pub_year": "2010",
+        "pub_month": "8",
+        "avr_rate": "4.03",
+        "r_count": "1892238",
+        "desc": "<b>My name is Katniss Everdeen.<br />Why am I not dead?<br />I should be dead.</b><br /><br />Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss's family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding.<br /><br />It is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans--except Katniss.<br /><br />The success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay--no matter what the personal cost.",
+        "authors": {
+          "author": {
+            "id": "153394",
+            "name": "Suzanne Collins",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1394819770p5/153394.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1394819770p2/153394.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/153394.Suzanne_Collins"
+            },
+            "avr_rate": "4.27",
+            "r_count": "9323081",
+            "trc": "360515"
+          }
+        },
+        "pub": "2010",
+        "work": {
+          "id": "8812783"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Apr 09 07:50:54 -0700 2011",
+      "read_at": "Wed Apr 20 09:34:10 -0700 2011",
+      "date_added": " Apr 09 07:50:54 -0700 2011",
+      "date_updated": "Wed Apr 20 09:34:13 -0700 2011",
+      "comments_count": "1",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/159831097"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/159831097"
+      }
+    },
+    {
+      "id": "158359242",
+      "book": {
+        "id": "6148028",
+        "isbn": "0439023491",
+        "isbn13": "9780439023498",
+        "trc": "80405",
+        "title": "Catching Fire (The Hunger Games, #2)",
+        "tws": "Catching Fire",
+        "img": "https://images.gr-assets.com/books/1358273780m/6148028.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1358273780s/6148028.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/6148028-catching-fire",
+        "num_pages": "391",
+        "ei": "First Edition, US / Canada",
+        "pub": "Scholastic Press",
+        "pub_day": "1",
+        "pub_year": "2009",
+        "pub_month": "9",
+        "avr_rate": "4.30",
+        "r_count": "2009759",
+        "desc": "<b>Sparks are igniting.<br />Flames are spreading.<br />And the Capitol wants revenge.</b><br /><br />Against all odds, Katniss has won the Hunger Games. She and fellow District 12 tribute Peeta Mellark are miraculously still alive. Katniss should be relieved, happy even. After all, she has returned to her family and her longtime friend, Gale. Yet nothing is the way Katniss wishes it to be. Gale holds her at an icy distance. Peeta has turned his back on her completely. And there are whispers of a rebellion against the Capitol - a rebellion that Katniss and Peeta may have helped create.<br /><br />Much to her shock, Katniss has fueled an unrest she's afraid she cannot stop. And what scares her even more is that she's not entirely convinced she should try. As time draws near for Katniss and Peeta to visit the districts on the Capitol's cruel Victory Tour, the stakes are higher than ever. If they can't prove, without a shadow of a doubt, that they are lost in their love for each other, the consequences will be horrifying.<br /><br />In <i>Catching Fire</i>, the second novel in the Hunger Games trilogy, Suzanne Collins continues the story of Katniss Everdeen, testing her more than ever before...and surprising readers at every turn.",
+        "authors": {
+          "author": {
+            "id": "153394",
+            "name": "Suzanne Collins",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1394819770p5/153394.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1394819770p2/153394.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/153394.Suzanne_Collins"
+            },
+            "avr_rate": "4.27",
+            "r_count": "9323081",
+            "trc": "360515"
+          }
+        },
+        "pub": "2009",
+        "work": {
+          "id": "6171458"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Apr 02 13:35:14 -0700 2011",
+      "read_at": " Apr 09 07:50:28 -0700 2011",
+      "date_added": " Apr 02 13:35:14 -0700 2011",
+      "date_updated": " Apr 09 07:50:28 -0700 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/158359242"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/158359242"
+      }
+    },
+    {
+      "id": "157353728",
+      "book": {
+        "id": "2767052",
+        "isbn": "0439023483",
+        "isbn13": "9780439023481",
+        "trc": "142397",
+        "title": "The Hunger Games (The Hunger Games, #1)",
+        "tws": "The Hunger Games",
+        "img": "https://images.gr-assets.com/books/1447303603m/2767052.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1447303603s/2767052.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/2767052-the-hunger-games",
+        "num_pages": "374",
+        "ei": "First Edition",
+        "pub": "Scholastic Press",
+        "pub_day": "14",
+        "pub_year": "2008",
+        "pub_month": "9",
+        "avr_rate": "4.34",
+        "r_count": "5041701",
+        "desc": "<b>Winning will make you famous. <br />Losing means certain death.</b><br /><br />The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games. In punishment, and as a reminder of the power and grace of the Capitol, each district must yield one boy and one girl between the ages of 12 and 18 through a lottery system to participate in the games. The 'tributes' are chosen during the annual Reaping and are forced to fight to the death, leaving only one survivor to claim victory.<br /><br />When 16-year-old Katniss's young sister, Prim, is selected as District 12's female representative, Katniss volunteers to take her place. She and her male counterpart Peeta, are pitted against bigger, stronger representatives, some of whom have trained for this their whole lives. , she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature.",
+        "authors": {
+          "author": {
+            "id": "153394",
+            "name": "Suzanne Collins",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1394819770p5/153394.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1394819770p2/153394.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/153394.Suzanne_Collins"
+            },
+            "avr_rate": "4.27",
+            "r_count": "9323081",
+            "trc": "360515"
+          }
+        },
+        "pub": "2008",
+        "work": {
+          "id": "2792775"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Mar 28 17:48:07 -0700 2011",
+      "read_at": " Apr 09 07:50:06 -0700 2011",
+      "date_added": " Mar 28 17:48:07 -0700 2011",
+      "date_updated": " Apr 09 07:50:06 -0700 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/157353728"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/157353728"
+      }
+    },
+    {
+      "id": "155109486",
+      "book": {
+        "id": "9106301",
+        "isbn": "143275923X",
+        "isbn13": "9781432759230",
+        "trc": "25",
+        "title": "Z1n1: The Zombie Pandemic: 2012 Was Just the Beginning",
+        "tws": "Z1n1: The Zombie Pandemic: 2012 Was Just the Beginning",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/9106301-z1n1",
+        "num_pages": "356",
+        "ei": "",
+        "pub": "Outskirts Press",
+        "pub_day": "18",
+        "pub_year": "2010",
+        "pub_month": "8",
+        "avr_rate": "3.56",
+        "r_count": "342",
+        "desc": "So, what's really going to happen on the winter solstice of December 21, 2012? Zombies are going to destroy the world. That little nugget of wisdom should not surprise anyone. One can never fully discount the apocalyptic emergence of an undead pandemic. How did this happen? <br /> Governments rush to vaccinate their citizens against an exceptionally virulent form of the H1N1 virus. However, certain celestial events cause the sun to release enormous amounts of solar flares and radiation starting on this fateful day. In the span of a few months after the winter solstice, thousands upon thousands of individuals treated with an inadequately tested vaccine become increasingly ill and eventually die. We all know what happens then. <br />Read along and find out the details. Follow our protagonists as they fight to survive...working their way to a rumored safe haven in Maine...",
+        "authors": {
+          "author": {
+            "id": "4288001",
+            "name": "Mitchell Layne Cook",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1301220025p5/4288001.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1301220025p2/4288001.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/4288001.Mitchell_Layne_Cook"
+            },
+            "avr_rate": "3.56",
+            "r_count": "342",
+            "trc": "27"
+          }
+        },
+        "pub": "2010",
+        "work": {
+          "id": "13984718"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Mar 18 05:27:31 -0700 2011",
+      "read_at": " Mar 28 15:29:01 -0700 2011",
+      "date_added": " Mar 18 05:27:31 -0700 2011",
+      "date_updated": " Mar 28 15:29:02 -0700 2011",
+      "comments_count": "1",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/155109486"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/155109486"
+      }
+    },
+    {
+      "id": "153284849",
+      "book": {
+        "id": "7094569",
+        "isbn": "0316081051",
+        "isbn13": "9780316081054",
+        "trc": "4720",
+        "title": "Feed (Newsflesh Trilogy, #1)",
+        "tws": "Feed",
+        "img": "https://images.gr-assets.com/books/1408500437m/7094569.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1408500437s/7094569.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/7094569-feed",
+        "num_pages": "599",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub": "Orbit",
+        "pub_day": "1",
+        "pub_year": "2010",
+        "pub_month": "5",
+        "avr_rate": "3.86",
+        "r_count": "42647",
+        "desc": "The year was 2014. We had cured cancer. We had beaten the common cold. But in doing so we created something new, something terrible that no one could stop. <br /><br />The infection spread, virus blocks taking over bodies and minds with one, unstoppable command: <b>FEED</b>. Now, twenty years after the Rising, bloggers Georgia and Shaun Mason are on the trail of the biggest story of their lives—the dark conspiracy behind the infected. <br /><br />The truth will get out, even if it kills them.",
+        "authors": {
+          "author": {
+            "id": "3153776",
+            "name": "Mira Grant",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1380320279p5/3153776.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1380320279p2/3153776.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/3153776.Mira_Grant"
+            },
+            "avr_rate": "3.94",
+            "r_count": "120068",
+            "trc": "14504"
+          }
+        },
+        "pub": "2010",
+        "work": {
+          "id": "7351419"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": "Wed Mar 09 16:23:21 -0800 2011",
+      "read_at": "Wed Mar 16 09:18:51 -0700 2011",
+      "date_added": "Wed Mar 09 16:23:21 -0800 2011",
+      "date_updated": "Wed Mar 16 09:18:51 -0700 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/153284849"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/153284849"
+      }
+    },
+    {
+      "id": "136349614",
+      "book": {
+        "id": "481601",
+        "isbn": "1896944736",
+        "isbn13": "9781896944739",
+        "trc": "311",
+        "title": "Ancestor",
+        "tws": "Ancestor",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/481601.Ancestor",
+        "num_pages": "261",
+        "ei": "",
+        "pub": "Dragon Moon Press",
+        "pub_day": "1",
+        "pub_year": "2010",
+        "pub_month": "4",
+        "avr_rate": "3.94",
+        "r_count": "5396",
+        "desc": "On a remote island in Lake Superior, scientists struggle to solve the problem of xenotransplantation -- using animal tissue to replace failing human organs. Funded by the biotech firm Genada, Dr. Claus Rhumkorrf seeks to recreate the ancestor of all mammals.<br /><br />By getting back to the root of our creation, Rhumkorrf hopes to create an animal with human internal organs. Rhumkorrf discovers the ancestor, but it is not the small, harmless creature he envisions. His genius gives birth to a fast-growing evil that nature eradicated 250 million years ago — an evil now on the loose, and very, very hungry.",
+        "authors": {
+          "author": {
+            "id": "114504",
+            "name": "Scott Sigler",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1434042056p5/114504.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1434042056p2/114504.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/114504.Scott_Sigler"
+            },
+            "avr_rate": "4.03",
+            "r_count": "73018",
+            "trc": "7260"
+          }
+        },
+        "pub": "2010",
+        "work": {
+          "id": "469966"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": "Wed Dec 29 04:49:39 -0800 2010",
+      "read_at": " Feb 05 11:43:29 -0800 2011",
+      "date_added": " Dec 24 05:49:59 -0800 2010",
+      "date_updated": " Mar 18 05:30:43 -0700 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/136349614"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/136349614"
+      }
+    },
+    {
+      "id": "136310746",
+      "book": {
+        "id": "7759580",
+        "isbn": "0307460797",
+        "isbn13": "9780307460790",
+        "trc": "73",
+        "title": "Overwinter (Cheyenne Clark, #2)",
+        "tws": "Overwinter",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/7759580-overwinter",
+        "num_pages": "352",
+        "ei": "",
+        "pub": "Three Rivers Press (CA)",
+        "pub_day": "14",
+        "pub_year": "2010",
+        "pub_month": "9",
+        "avr_rate": "3.84",
+        "r_count": "790",
+        "desc": "The days grow colder. The nights grow longer. And every time the moon rises, the wolf inside her grows a little stronger. <br />Cheyenne Clark--a woman whose hatred for werewolves has turned her into the very beast she most despises--prowls the Arctic Circle on the trail of an ancient secret, hunting for the one thing that could remove the lycanthropic curse and make her human again. <br />Yet standing between Chey and her goal are a werewolf hunter armed with a diabolically brilliant weapon, a centuries-old werewolf with her own mysterious agenda...and Chey's own complicated feelings for the man who doomed her to this existence but on whom her life now depends. <br />Worse, with every hour that passes, the wolf inside Chey becomes more powerful. It won't be long before the woman disappears completely, and only the beast is left.",
+        "authors": {
+          "author": {
+            "id": "24827",
+            "name": "David Wellington",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p5/24827.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p2/24827.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/24827.David_Wellington"
+            },
+            "avr_rate": "3.72",
+            "r_count": "42944",
+            "trc": "3275"
+          }
+        },
+        "pub": "2010",
+        "work": {
+          "id": "10621885"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "82100410"
+          }
+        ]
+      },
+      "date_added": " Dec 23 18:53:56 -0800 2010",
+      "date_updated": " Dec 23 18:53:56 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/136310746"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/136310746"
+      }
+    },
+    {
+      "id": "136310719",
+      "book": {
+        "id": "5127109",
+        "isbn": "7770846846",
+        "isbn13": "9787770846847",
+        "trc": "112",
+        "title": "Frostbite (Cheyenne Clark, #1)",
+        "tws": "Frostbite",
+        "img": "https://images.gr-assets.com/books/1397902922m/5127109.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1397902922s/5127109.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/5127109-frostbite",
+        "num_pages": "288",
+        "format": "ebook",
+        "ei": "",
+        "pub": "Crown Publishing",
+        "pub_day": "6",
+        "pub_year": "2009",
+        "pub_month": "10",
+        "avr_rate": "3.58",
+        "r_count": "1719",
+        "desc": "<b>For Cheyenne Clark, there's a bad moon on the rise . . .</b><br /><br />There's one sound a woman doesn't want to hear when she's lost and alone in the Arctic wilderness: a howl. <br /><br />When a strange wolf's teeth slash Cheyenne's ankle to the bone, her old life ends, and she becomes the very monster that has haunted her nightmares for years. Worse, the only one who can understand what Chey has become is the man–or wolf–who's doomed her to this fate. He also wants to chop her head off with an axe. <br /><br />Yet as the line between human and beast blurs, so too does the distinction between hunter and hunted . . . for Chey is more than just the victim she appears to be. But once she's within killing range, she may find that–even for a werewolf–it's not always easy to go for the jugular.<br /><br /><br /><i>From the Trade Paperback edition.</i>",
+        "authors": {
+          "author": {
+            "id": "24827",
+            "name": "David Wellington",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p5/24827.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p2/24827.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/24827.David_Wellington"
+            },
+            "avr_rate": "3.72",
+            "r_count": "42944",
+            "trc": "3275"
+          }
+        },
+        "pub": "2009",
+        "work": {
+          "id": "5193967"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "82100378"
+          }
+        ]
+      },
+      "date_added": " Dec 23 18:53:36 -0800 2010",
+      "date_updated": " Dec 23 18:53:36 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/136310719"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/136310719"
+      }
+    },
+    {
+      "id": "136310117",
+      "book": {
+        "id": "7296271",
+        "isbn": "143917752X",
+        "isbn13": "9781439177525",
+        "trc": "339",
+        "title": "Beyond Exile (Day by Day Armageddon,# 2)",
+        "tws": "Beyond Exile",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/7296271-beyond-exile",
+        "num_pages": "277",
+        "ei": "",
+        "pub_day": "",
+        "avr_rate": "4.08",
+        "r_count": "10122",
+        "desc": "Armies of undead have risen up across the U.S. and around the globe;there is no safe haven from the diseased corpses hungering for human flesh. But in the heat of a Texas wasteland, a small band of survivors attempt to counter the millions closing in around them.<br /><br /> Survivor, Day by day, the handwritten journal entries of one man caught in a worldwide cataclysm capture the desperation; and the will to survive;as he joins forces with a handful of refugees to battle soulless enemies both human and inhuman from inside an abandoned strategic missile facility. But in the world of the undead, is mere survival enough?",
+        "authors": {
+          "author": {
+            "id": "42437",
+            "name": "J.L. Bourne",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1500408030p5/42437.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1500408030p2/42437.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/42437.J_L_Bourne"
+            },
+            "avr_rate": "4.01",
+            "r_count": "32086",
+            "trc": "1914"
+          }
+        },
+        "work": {
+          "id": "8632949"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Dec 23 18:46:57 -0800 2010",
+      "date_updated": " Dec 23 18:46:57 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/136310117"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/136310117"
+      }
+    },
+    {
+      "id": "136310054",
+      "book": {
+        "id": "6723348",
+        "isbn": "0061558222",
+        "isbn13": "9780061558221",
+        "trc": "1705",
+        "title": "The Fall (The Strain Trilogy, #2)",
+        "tws": "The Fall",
+        "img": "https://images.gr-assets.com/books/1327934155m/6723348.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1327934155s/6723348.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/6723348-the-fall",
+        "num_pages": "308",
+        "ei": "",
+        "pub": "William Morrow",
+        "pub_day": "21",
+        "pub_year": "2010",
+        "pub_month": "9",
+        "avr_rate": "3.80",
+        "r_count": "31668",
+        "desc": "The vampiric virus unleashed in The Strain has taken over New York City. It is spreading across the country and soon, the world. Amid the chaos, Eph Goodweather—head of the Center for Disease Control’s team—leads a small band out to stop these bloodthirsty monsters. But it may be too late.<br /><br />Ignited by the Master’s horrific plan, a war erupts between Old and New World vampires, each vying for total control. Caught between these warring forces, humans—powerless and vulnerable—are no longer the consumers, but the consumed. <br /><br />Though Eph understands the vampiric plague better than anyone, even he cannot protect those he loves from the invading evil. His ex-wife, Kelly, has been turned by the Master, and now she stalks the city, in the darkness, looking for her chance to reclaim Zack, Eph’s young son.<br /><br />With the future of the world in the balance, Eph and his courageous team, guided by the brilliant former professor and Holocaust survivor Abraham Setrakian and exterminator Vasiliy Fet, must combat a terror whose ultimate plan is more terrible than anyone first imagined—a fate worse than annihilation.",
+        "authors": {
+          "author": {
+            "id": "167605",
+            "name": "Guillermo del Toro",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1486483613p5/167605.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1486483613p2/167605.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/167605.Guillermo_del_Toro"
+            },
+            "avr_rate": "3.78",
+            "r_count": "132268",
+            "trc": "11251"
+          }
+        },
+        "pub": "2010",
+        "work": {
+          "id": "6919505"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Dec 23 18:46:09 -0800 2010",
+      "date_updated": " Dec 23 18:46:09 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/136310054"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/136310054"
+      }
+    },
+    {
+      "id": "136309833",
+      "book": {
+        "id": "13281368",
+        "isbn": "0345504984",
+        "isbn13": "9780345504982",
+        "trc": "5959",
+        "title": "The Twelve (The Passage, #2)",
+        "tws": "The Twelve",
+        "img": "https://images.gr-assets.com/books/1331230956m/13281368.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1331230956s/13281368.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13281368-the-twelve",
+        "num_pages": "568",
+        "ei": "",
+        "pub": "The Random House Publishing Group",
+        "pub_day": "16",
+        "pub_year": "2012",
+        "pub_month": "10",
+        "avr_rate": "3.99",
+        "r_count": "69086",
+        "desc": "In his internationally bestselling and critically acclaimed novel <i>The Passage</i>, Justin Cronin constructed an unforgettable world transformed by a government experiment gone horribly wrong. Now the scope widens and the intensity deepens as the epic story surges forward with <i>The Twelve</i>.<br /><br />In the present day, as the man-made apocalypse unfolds, three strangers navigate the chaos. Lila, a doctor and an expectant mother, is so shattered by the spread of violence and infection that she continues to plan for her child’s arrival even as society dissolves around her. Kittridge, known to the world as “Last Stand in Denver,” has been forced to flee his stronghold and is now on the road, dodging the infected, armed but alone and well aware that a tank of gas will get him only so far. April is a teenager fighting to guide her little brother safely through a landscape of death and ruin. These three will learn that they have not been fully abandoned—and that in connection lies hope, even on the darkest of nights.<br /><br />One hundred years in the future, Amy and the others fight on for humankind’s salvation...unaware that the rules have changed. The enemy has evolved, and a dark new order has arisen with a vision of the future infinitely more horrifying than man’s extinction. If the Twelve are to fall, one of those united to vanquish them will have to pay the ultimate price.",
+        "authors": {
+          "author": {
+            "id": "45315",
+            "name": "Justin Cronin",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1456843158p5/45315.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1456843158p2/45315.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/45315.Justin_Cronin"
+            },
+            "avr_rate": "4.04",
+            "r_count": "252706",
+            "trc": "28191"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "14373498"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Oct 16 07:15:23 -0700 2012",
+      "read_at": " Nov 03 14:44:45 -0700 2012",
+      "date_added": " Dec 23 18:43:27 -0800 2010",
+      "date_updated": " Nov 03 14:44:45 -0700 2012",
+      "comments_count": "1",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/136309833"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/136309833"
+      }
+    },
+    {
+      "id": "136309785",
+      "book": {
+        "id": "6690798",
+        "isbn": "0345504968",
+        "isbn13": "9780345504968",
+        "trc": "14215",
+        "title": "The Passage (The Passage, #1)",
+        "tws": "The Passage",
+        "img": "https://images.gr-assets.com/books/1327874267m/6690798.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1327874267s/6690798.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/6690798-the-passage",
+        "num_pages": "766",
+        "ei": "USA",
+        "pub": "Ballantine Books",
+        "pub_day": "8",
+        "pub_year": "2010",
+        "pub_month": "6",
+        "avr_rate": "4.04",
+        "r_count": "148288",
+        "desc": "<i>“It happened fast. Thirty-two minutes for one world to die, another to be born.”</i> <br /><br />First, the unthinkable: a security breach at a secret U.S. government facility unleashes the monstrous product of a chilling military experiment. Then, the unspeakable: a night of chaos and carnage gives way to sunrise on a nation, and ultimately a world, forever altered. All that remains for the stunned survivors is the long fight ahead and a future ruled by fear—of darkness, of death, of a fate far worse.<br /><br />As civilization swiftly crumbles into a primal landscape of predators and prey, two people flee in search of sanctuary. FBI agent Brad Wolgast is a good man haunted by what he’s done in the line of duty. Six-year-old orphan Amy Harper Bellafonte is a refugee from the doomed scientific project that has triggered apocalypse. He is determined to protect her from the horror set loose by her captors. But for Amy, escaping the bloody fallout is only the beginning of a much longer odyssey—spanning miles and decades—towards the time and place where she must finish what should never have begun.<br /><br />With <b>The Passage</b>, award-winning author Justin Cronin has written both a relentlessly suspenseful adventure and an epic chronicle of human endurance in the face of unprecedented catastrophe and unimaginable danger. Its inventive storytelling, masterful prose, and depth of human insight mark it as a crucial and transcendent work of modern fiction.' to '<i>“It happened fast. Thirty-two minutes for one world to die, another to be born.”</i><br />-- book jacket",
+        "authors": {
+          "author": {
+            "id": "45315",
+            "name": "Justin Cronin",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1456843158p5/45315.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1456843158p2/45315.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/45315.Justin_Cronin"
+            },
+            "avr_rate": "4.04",
+            "r_count": "252706",
+            "trc": "28191"
+          }
+        },
+        "pub": "2010",
+        "work": {
+          "id": "2802546"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Dec 23 18:42:57 -0800 2010",
+      "date_updated": " Dec 23 18:42:57 -0800 2010",
+      "comments_count": "1",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/136309785"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/136309785"
+      }
+    },
+    {
+      "id": "136309539",
+      "book": {
+        "id": "13659",
+        "isbn": "0441011241",
+        "isbn13": "9780441011247",
+        "trc": "332",
+        "title": "Tales from Earthsea (Earthsea Cycle, #5)",
+        "tws": "Tales from Earthsea",
+        "img": "https://images.gr-assets.com/books/1309202073m/13659.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1309202073s/13659.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13659.Tales_from_Earthsea",
+        "num_pages": "280",
+        "ei": "",
+        "pub": "Ace",
+        "pub_day": "28",
+        "pub_year": "2003",
+        "pub_month": "10",
+        "avr_rate": "4.00",
+        "r_count": "13505",
+        "desc": "Five stories of Ursula K. Le Guin's world-renowned realm of Earthsea are collected in one volume. Featuring two classic stories, two original tales, and a brand-new novella, as well as new maps and a special essay on Earthsea's history, languages, literature, and magic.<br /><br />The Finder <br />Darkrose and Diamond <br />The Bones of the Earth<br />On the High Marsh<br />Dragonfly",
+        "authors": {
+          "author": {
+            "id": "874602",
+            "name": "Ursula K. Le Guin",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1244291425p5/874602.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1244291425p2/874602.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin"
+            },
+            "avr_rate": "4.03",
+            "r_count": "696540",
+            "trc": "34414"
+          }
+        },
+        "pub": "2003",
+        "work": {
+          "id": "65982"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "82099381"
+          }
+        ]
+      },
+      "date_added": " Dec 23 18:40:23 -0800 2010",
+      "date_updated": " Dec 23 18:40:23 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/136309539"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/136309539"
+      }
+    },
+    {
+      "id": "136309405",
+      "book": {
+        "id": "13667",
+        "isbn": "141650964X",
+        "isbn13": "9781416509646",
+        "trc": "827",
+        "title": "The Farthest Shore (Earthsea Cycle, #3)",
+        "tws": "The Farthest Shore",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13667.The_Farthest_Shore",
+        "num_pages": "259",
+        "ei": "",
+        "pub": "Gallery Books",
+        "pub_day": "1",
+        "pub_year": "2004",
+        "pub_month": "11",
+        "avr_rate": "4.12",
+        "r_count": "72667",
+        "desc": "Book Three of Ursula K. Le Guin's Earthsea CycleDarkness threatens to overtake Earthsea: the world and its wizards are losing their magic. Despite being wearied with age, Ged Sparrowhawk -- Archmage, wizard, and dragonlord -- embarks on a daring, treacherous journey, accompanied by Enlad's young Prince Arren, to discover the reasons behind this devastating pattern of loss. Together they will sail to the farthest reaches of their world -- even beyond the realm of death -- as they seek to restore magic to a land desperately thirsty for it.With millions of copies sold worldwide, Ursula K. Le Guin's Earthsea Cycle has earned a treasured place on the shelves of fantasy lovers everywhere, alongside the works of such beloved authors as J. R. R. Tolkien and C. S. Lewis.",
+        "authors": {
+          "author": {
+            "id": "874602",
+            "name": "Ursula K. Le Guin",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1244291425p5/874602.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1244291425p2/874602.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin"
+            },
+            "avr_rate": "4.03",
+            "r_count": "696540",
+            "trc": "34414"
+          }
+        },
+        "pub": "2004",
+        "work": {
+          "id": "1322014"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Dec 23 18:39:00 -0800 2010",
+      "date_updated": " Dec 23 18:39:01 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/136309405"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/136309405"
+      }
+    },
+    {
+      "id": "136309373",
+      "book": {
+        "id": "13662",
+        "isbn": "0689845367",
+        "isbn13": "9780689845369",
+        "trc": "1301",
+        "title": "The Tombs of Atuan (Earthsea Cycle, #2)",
+        "tws": "The Tombs of Atuan",
+        "img": "https://images.gr-assets.com/books/1417900879m/13662.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1417900879s/13662.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13662.The_Tombs_of_Atuan",
+        "num_pages": "180",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub": "Saga Press",
+        "pub_day": "1",
+        "pub_year": "2001",
+        "pub_month": "9",
+        "avr_rate": "4.07",
+        "r_count": "67896",
+        "desc": "<i>Librarian's Note: For an alternate cover edition of the same ISBN, click <a href=\"https://www.goodreads.com/book/show/15827393-the-tombs-of-atuan\" rel=\"nofollow\">here</a>.</i><br /><br />When young Tenar is chosen as high priestess to the ancient and nameless Powers of the Earth, everything is taken away - home, family, possessions, even her name. For she is now Arha, the Eaten One, guardian of the ominous Tombs of Atuan. <br /><br />While she is learning her way through the dark labyrinth, a young wizard, Ged, comes to steal the Tombs' greatest hidden treasure, the Ring of Erreth-Akbe. But Ged also brings with him the light of magic, and together, he and Tenar escape from the darkness that has become her domain.",
+        "authors": {
+          "author": {
+            "id": "874602",
+            "name": "Ursula K. Le Guin",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1244291425p5/874602.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1244291425p2/874602.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin"
+            },
+            "avr_rate": "4.03",
+            "r_count": "696540",
+            "trc": "34414"
+          }
+        },
+        "pub": "2001",
+        "work": {
+          "id": "1322146"
+        }
+      },
+      "rating": "2",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Dec 23 18:38:41 -0800 2010",
+      "date_updated": " Dec 23 18:38:42 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/136309373"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/136309373"
+      }
+    },
+    {
+      "id": "136309316",
+      "book": {
+        "id": "13642",
+        "isbn": "0553383043",
+        "isbn13": "9780553383041",
+        "trc": "4120",
+        "title": "A Wizard of Earthsea (Earthsea Cycle, #1)",
+        "tws": "A Wizard of Earthsea",
+        "img": "https://images.gr-assets.com/books/1353424536m/13642.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1353424536s/13642.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea",
+        "num_pages": "183",
+        "ei": "",
+        "pub": "Bantam Spectra",
+        "pub_day": "",
+        "avr_rate": "3.99",
+        "r_count": "169746",
+        "desc": "Ged, the greatest sorcerer in all Earthsea, was called Sparrowhawk in his reckless youth. <br /><br />Hungry for power and knowledge, Sparrowhawk tampered with long-held secrets and loosed a terrible shadow upon the world. This is the tale of his testing, how he mastered the mighty words of power, tamed an ancient dragon, and crossed death's threshold to restore the balance.",
+        "authors": {
+          "author": {
+            "id": "874602",
+            "name": "Ursula K. Le Guin",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1244291425p5/874602.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1244291425p2/874602.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin"
+            },
+            "avr_rate": "4.03",
+            "r_count": "696540",
+            "trc": "34414"
+          }
+        },
+        "work": {
+          "id": "113603"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Dec 23 18:38:06 -0800 2010",
+      "date_updated": " Dec 23 18:38:10 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/136309316"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/136309316"
+      }
+    },
+    {
+      "id": "136309274",
+      "book": {
+        "id": "826845",
+        "isbn": "0140013083",
+        "isbn13": "9780140013085",
+        "trc": "1106",
+        "title": "The Chrysalids",
+        "tws": "The Chrysalids",
+        "img": "https://images.gr-assets.com/books/1271095852m/826845.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1271095852s/826845.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/826845.The_Chrysalids",
+        "num_pages": "200",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub": "Penguin Books",
+        "pub_day": "28",
+        "pub_year": "1977",
+        "pub_month": "6",
+        "avr_rate": "3.92",
+        "r_count": "33782",
+        "desc": "<b>A world paralysed by genetic mutation</b><br /><br />John Wyndham takes the reader into the anguished heart of a community where the chances of breeding true are less than fifty per cent and where deviations are rooted out and destroyed as offences and abominations.",
+        "authors": {
+          "author": {
+            "id": "36332",
+            "name": "John Wyndham",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1343316104p5/36332.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1343316104p2/36332.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/36332.John_Wyndham"
+            },
+            "avr_rate": "3.92",
+            "r_count": "135712",
+            "trc": "6150"
+          }
+        },
+        "pub": "1977",
+        "work": {
+          "id": "910927"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Dec 23 18:37:32 -0800 2010",
+      "date_updated": " Dec 27 18:26:47 -0800 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/136309274"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/136309274"
+      }
+    },
+    {
+      "id": "104279541",
+      "book": {
+        "id": "3512008",
+        "isbn": "034550111X",
+        "isbn13": "9780345501110",
+        "trc": "407",
+        "title": "The Mystic Arts of Erasing All Signs of Death",
+        "tws": "The Mystic Arts of Erasing All Signs of Death",
+        "img": "https://images.gr-assets.com/books/1320408714m/3512008.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1320408714s/3512008.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/3512008-the-mystic-arts-of-erasing-all-signs-of-death",
+        "num_pages": "319",
+        "ei": "",
+        "pub": "Ballantine Books",
+        "pub_day": "13",
+        "pub_year": "2009",
+        "pub_month": "1",
+        "avr_rate": "3.83",
+        "r_count": "4086",
+        "desc": "With a style that is razor sharp, an eye that never shies from the gritty details, and a taste for stories that simultaneously shock, disturb, and entertain, Charlie Huston is one of a kind. And <i>The Mystic Arts of Erasing All Signs of Death</i> is the type of story–swift, twisted, hilarious, somehow hopeful—that only he could dream up.<br /><br />The fact is, whether it’s a dog hit by a train or an old lady who had a heart attack on the can, someone has to clean up the nasty mess. And that someone is Webster Fillmore Goodhue, who just may be the least likely person in Los Angeles County to hold down such a gig. With his teaching career derailed by tragedy, Web hasn’t done much for the last year except some heavy slacking. But when his only friend in the world lets him know that his freeloading days are over, and he tires of taking cash from his spaced-out mom and refuses to take any more from his embittered father, Web joins Clean Team—and soon finds himself sponging a Malibu suicide’s brains from a bathroom mirror, and flirting with the man’s bereaved and beautiful daughter.<br /><br />Then things get weird: The dead man’s daughter asks a favor. Her brother’s in need of somebody who can clean up a mess. Every cell in Web’s brain tells him to turn her down, but something else makes him hit the Harbor Freeway at midnight to help her however he can. Is it her laugh? Her desperate tone of voice? The chance that this might be history’s strangest booty call? Whatever it is, soon enough it’s Web who needs the help when gun-toting California cowboys start showing up on his doorstep. What’s the deal? Is it something to do with what he cleaned up in that motel room in Carson? Or is it all about the brewing war between rival trauma cleaners? Web doesn’t have a clue, but he’ll need to get one if he’s going to keep from getting his face kicked in. Again. And again. And again.<br /><br />Full of black humor, stunning violence, singular characters, and neon dialogue, <i>The Mystic Arts of Erasing All Signs of Death</i> is classic Charlie Huston: a wild ride that’ll leave you breathless and shaken, grinning and begging for more.",
+        "authors": {
+          "author": {
+            "id": "4861",
+            "name": "Charlie Huston",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1371253299p5/4861.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1371253299p2/4861.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/4861.Charlie_Huston"
+            },
+            "avr_rate": "3.90",
+            "r_count": "46850",
+            "trc": "3518"
+          }
+        },
+        "pub": "2009",
+        "work": {
+          "id": "3553700"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " May 25 17:18:28 -0700 2010",
+      "read_at": " May 28 15:48:25 -0700 2010",
+      "date_added": " May 25 17:18:28 -0700 2010",
+      "date_updated": " May 28 15:48:54 -0700 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/104279541"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/104279541"
+      }
+    },
+    {
+      "id": "92504686",
+      "book": {
+        "id": "7661",
+        "isbn": "0060872985",
+        "isbn13": "9780060872984",
+        "trc": "2290",
+        "title": "Next",
+        "tws": "Next",
+        "img": "https://images.gr-assets.com/books/1358010468m/7661.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1358010468s/7661.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/7661.Next",
+        "num_pages": "431",
+        "ei": "",
+        "pub": "Harper",
+        "pub_day": "28",
+        "pub_year": "2006",
+        "pub_month": "11",
+        "avr_rate": "3.49",
+        "r_count": "57193",
+        "desc": "Welcome to our genetic world.<p>Fast, furious, and out of control.</p><p>This is not the world of the future --- it's the world right now.</p><p>Is a loved one missing some body parts? Are blondes becoming extinct? Is everyone at your dinner table of the same species? Humans and chimpanzees differ in only 400 genes; is that why an adult human being resembles a chimp fetus? And should that worry us? There's a new genetic cure for drug addiction --- is it worse than the disease?</p><p>We live in a time of momentous scientific leaps; a time when it's possible to sell our eggs and sperm online for thousands of dollars; test our spouses for genetic maladies and even frame someone for a genetic crime.</p><p>We live in a time when one fifth of all our genes are owned by someone else, and an unsuspecting person and his family can be pursued cross-country because they happen to have certain valuable genes within their chromosomes ...</p><p>Devilishly clever, Next blends fact and fiction into a breathless tale of a new world where nothing is what it seems, and a set of new possibilities can open at every turn. Next challenges our sense of reality and notions of morality. Balancing the comic and bizarre with the genuinely frightening and disturbing, Next shatters our assumptions, and reveals shocking new choices where we least expect.</p><p>The future is closer than you think. Get used to it.</p>",
+        "authors": {
+          "author": {
+            "id": "5194",
+            "name": "Michael Crichton",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1359042651p5/5194.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1359042651p2/5194.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/5194.Michael_Crichton"
+            },
+            "avr_rate": "3.80",
+            "r_count": "1993357",
+            "trc": "45475"
+          }
+        },
+        "pub": "2006",
+        "work": {
+          "id": "2821071"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Mar 04 00:00:00 -0800 2010",
+      "read_at": " Dec 23 18:50:32 -0800 2010",
+      "date_added": " Mar 04 13:33:20 -0800 2010",
+      "date_updated": " Dec 23 18:50:32 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/92504686"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/92504686"
+      }
+    },
+    {
+      "id": "86959408",
+      "book": {
+        "id": "6504894",
+        "isbn": "0345501136",
+        "isbn13": "9780345501134",
+        "trc": "258",
+        "title": "Sleepless",
+        "tws": "Sleepless",
+        "img": "https://images.gr-assets.com/books/1320398852m/6504894.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1320398852s/6504894.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/6504894-sleepless",
+        "num_pages": "368",
+        "ei": "",
+        "pub": "Ballantine Books",
+        "pub_day": "12",
+        "pub_year": "2010",
+        "pub_month": "1",
+        "avr_rate": "3.66",
+        "r_count": "2200",
+        "desc": "From bestselling author Charlie Huston comes a novel about the fears that find us all during dark times and the courage and sacrifice that can save us in the face of unimaginable odds. Gripping, unnerving, exhilarating, and haunting, Sleepless is well worth staying up for.<br /><br />What former philosophy student Parker Hass wanted was a better world. A world both just and safe for his wife and infant daughter. So he joined the LAPD and tried to make it that way. But the world changed. Struck by waves of chaos carried in on a tide of insomnia. A plague of sleeplessness.<br /><br />Park can sleep, but he is wide awake. And as much as he wishes he was dreaming, his eyes are open. He has no choice but to see it all. That's his job. Working undercover as a drug dealer in a Los Angeles ruled in equal parts by martial law and insurgency, he's tasked with cutting off illegal trade in Dreamer, the only drug that can give the infected what they most crave: sleep.<br /><br />After a year of lost leads and false trails, Park stumbles into the perilous shadows cast by the pharmaceuticals giant behind Dreamer. Somewhere in those shadows, at the nexus of disease and drugs and money, a secret is hiding. Drawn into the inner circle of a tech guru with a warped agenda and a special use for the sleepless themselves, Park thinks he knows what that secret might be.<br /> <br />To know for certain, he will have to go deeper into the restless world. His wife has become sleepless, and their daughter may soon share the same fate. For them, he will risk what they need most from him: his belief that justice <br />must be served. Unknown to him, his choice ties all of their futures to the singularly deadly nature of an aging mercenary who stalks Park.<br /><br />The deeper Park stumbles through the dark, the more he is convinced that it is obscuring the real world. Bring enough light and the shadows will retreat. Bring enough light and everyone will see themselves again. Bring enough light and he will find his way to the safe corner, the harbor he's promised his family. Whatever the cost to himself.<br /><br />It is July 2010.<br /><br />The future is coming.<br /><br />Open your eyes.",
+        "authors": {
+          "author": {
+            "id": "4861",
+            "name": "Charlie Huston",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1371253299p5/4861.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1371253299p2/4861.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/4861.Charlie_Huston"
+            },
+            "avr_rate": "3.90",
+            "r_count": "46850",
+            "trc": "3518"
+          }
+        },
+        "pub": "2010",
+        "work": {
+          "id": "6696477"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": "Wed Jan 27 00:00:00 -0800 2010",
+      "read_at": " Mar 04 13:33:39 -0800 2010",
+      "date_added": "Wed Jan 27 05:19:17 -0800 2010",
+      "date_updated": " Mar 04 13:33:39 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/86959408"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/86959408"
+      }
+    },
+    {
+      "id": "82956887",
+      "book": {
+        "id": "6468589",
+        "isbn": "0441017991",
+        "isbn13": "9780441017997",
+        "trc": "27",
+        "title": "Plague Zone (Plague, #3)",
+        "tws": "Plague Zone",
+        "img": "https://images.gr-assets.com/books/1319728201m/6468589.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1319728201s/6468589.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/6468589-plague-zone",
+        "num_pages": "336",
+        "ei": "",
+        "pub": "Ace",
+        "pub_day": "24",
+        "pub_year": "2009",
+        "pub_month": "11",
+        "avr_rate": "3.55",
+        "r_count": "530",
+        "desc": "First Earth was devastated by the machine plague, a runaway nanotechnology that devoured all warm-blooded organisms below altitudes of ten thousand feet. Then the remnants of humankind turned on one another, provoking a brief, furious world war and the invasion of North America. Now Russia and Chinese armies hold California against the battered forces of the U.S.-Canadian Alliance.<br /><br />Nanotech researcher Ruth Goldman and Cam Najarro - a former Army Ranger who helped her force an end to the war - have finally found some peace in a small, hidden village in the Rockies. But the arms race for weaponized nanotech has continued, and America is struck by a new contagion.<br /><br />Together with a small band of friends and rivals, Ruth and Cam must discover the source of the new plague - never suspecting that its creator is an old enemy they believe dead...",
+        "authors": {
+          "author": {
+            "id": "1840202",
+            "name": "Jeff  Carlson",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1224390661p5/1840202.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1224390661p2/1840202.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/1840202.Jeff_Carlson"
+            },
+            "avr_rate": "3.49",
+            "r_count": "7682",
+            "trc": "646"
+          }
+        },
+        "pub": "2009",
+        "work": {
+          "id": "6659160"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "read_at": " Jan 26 20:10:43 -0800 2010",
+      "date_added": " Jan 02 07:44:14 -0800 2010",
+      "date_updated": " Jan 26 20:10:43 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/82956887"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/82956887"
+      }
+    },
+    {
+      "id": "82956623",
+      "book": {
+        "id": "6328409",
+        "isbn": "0345495896",
+        "isbn13": "9780345495891",
+        "trc": "160",
+        "title": "My Dead Body (Joe Pitt, #5)",
+        "tws": "My Dead Body",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/6328409-my-dead-body",
+        "num_pages": "302",
+        "ei": "",
+        "pub": "Del Rey",
+        "pub_day": "13",
+        "pub_year": "2009",
+        "pub_month": "10",
+        "avr_rate": "4.07",
+        "r_count": "3005",
+        "desc": "NOBODY LIVES FOREVER. NOT EVEN A VAMPYRE.<br /><br />Just ask Joe Pitt. After exposing the secret source of blood for half of Manhattan’s Vampyres, he’s definitely a dead man walking. He’s been a punching bag and a bullet magnet for every Vampyre Clan in Manhattan, Brooklyn, and the Bronx, not to mention a private eye, an enforcer, an exile, and a vigilante, but now he’s just a target with legs.<br /><br />For a year he’s sloshed around the subway tunnels and sewers, tapping the veins of the lost, while above ground a Vampyre civil war threatens to drag the Clans into the sunlight once and for all. What’s it gonna take to dig him up? Just the search for a missing girl who’s carrying a baby that just might be the destiny of Vampyre-kind. Not that Joe cares all that much about destiny and such. What he cares about is that his ex-girl Evie wants him to take the gig. What’s the risk? Another turn playing pigeon in a shooting gallery. What’s the reward? Maybe one shot of his own. What’s he aiming for? Nothing much. Just all the evil at the heart of his world.",
+        "authors": {
+          "author": {
+            "id": "4861",
+            "name": "Charlie Huston",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1371253299p5/4861.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1371253299p2/4861.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/4861.Charlie_Huston"
+            },
+            "avr_rate": "3.90",
+            "r_count": "46850",
+            "trc": "3518"
+          }
+        },
+        "pub": "2009",
+        "work": {
+          "id": "6514032"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Jan 02 07:42:11 -0800 2010",
+      "date_updated": " Jan 02 07:42:11 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/82956623"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/82956623"
+      }
+    },
+    {
+      "id": "79335703",
+      "book": {
+        "id": "2590477",
+        "trc": "59",
+        "title": "Plague Zone",
+        "tws": "Plague Zone",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/2590477-plague-zone",
+        "num_pages": "239",
+        "format": "Web Serial Novel",
+        "ei": "",
+        "pub_day": "",
+        "pub_year": "2007",
+        "pub_month": "",
+        "avr_rate": "3.71",
+        "r_count": "1076",
+        "desc": "",
+        "authors": {
+          "author": {
+            "id": "24827",
+            "name": "David Wellington",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p5/24827.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p2/24827.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/24827.David_Wellington"
+            },
+            "avr_rate": "3.72",
+            "r_count": "42944",
+            "trc": "3275"
+          }
+        },
+        "pub": "2007",
+        "work": {
+          "id": "2610066"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "read_at": " Dec 07 17:03:42 -0800 2009",
+      "date_added": " Nov 29 16:52:31 -0800 2009",
+      "date_updated": " Dec 07 17:03:42 -0800 2009",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/79335703"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/79335703"
+      }
+    },
+    {
+      "id": "79288151",
+      "book": {
+        "id": "6100790",
+        "isbn": "0307452778",
+        "isbn13": "9780307452771",
+        "trc": "74",
+        "title": "23 Hours (Laura Caxton, #4)",
+        "tws": "23 Hours",
+        "img": "https://images.gr-assets.com/books/1320506391m/6100790.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1320506391s/6100790.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/6100790-23-hours",
+        "num_pages": "305",
+        "ei": "",
+        "pub": "Three Rivers Press",
+        "pub_day": "23",
+        "pub_year": "2009",
+        "pub_month": "6",
+        "avr_rate": "3.91",
+        "r_count": "1182",
+        "desc": "<b>In the next 23 hours, there will be no reprieve, <br />no mercy, and no time off for good behavior.</b><br /><br />When vampire hunter Laura Caxton is locked up in a maximum-security prison, the cop-turned-con finds herself surrounded by countless murderers and death-row inmates with nothing to lose . . . and plenty of time to <i>kill. <br /><br /></i>Caxton’s always been able to watch her own back–even when it’s against a cell-block wall–but soon she learns that an even greater threat has slithered behind the bars to join her. Justinia Malvern, the world’s oldest living vampire, has taken up residence, and her strength grows by the moment as she raids the inmate population like an open bar with an all-you-can-drink supply of fresh blood. The crafty old vampire knows just how to pull Caxton’s strings, too, and she's issued an ultimatum that Laura can’t refuse. <br /><br />Now Laura has just 23 hours to fight her way through a gauntlet of vampires, cons, and killers . . . 23 hours to make one last, desperate attempt at protecting the world from Justinia’s evil. <i>\n<br /></i>",
+        "authors": {
+          "author": {
+            "id": "24827",
+            "name": "David Wellington",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p5/24827.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p2/24827.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/24827.David_Wellington"
+            },
+            "avr_rate": "3.72",
+            "r_count": "42944",
+            "trc": "3275"
+          }
+        },
+        "pub": "2009",
+        "work": {
+          "id": "6278003"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "read_at": " Dec 10 17:20:53 -0800 2009",
+      "date_added": " Nov 29 08:50:28 -0800 2009",
+      "date_updated": " Dec 10 17:20:53 -0800 2009",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/79288151"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/79288151"
+      }
+    },
+    {
+      "id": "79288099",
+      "book": {
+        "id": "3548441",
+        "isbn": "0765320460",
+        "isbn13": "9780765320469",
+        "trc": "110",
+        "title": "Liberation: Being the Adventures of the Slick Six After the Collapse of the United States of America",
+        "tws": "Liberation: Being the Adventures of the Slick Six After the Collapse of the United States of America",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/3548441-liberation",
+        "num_pages": "299",
+        "ei": "",
+        "pub_day": "",
+        "avr_rate": "3.63",
+        "r_count": "579",
+        "desc": "",
+        "authors": {
+          "author": {
+            "id": "42411",
+            "name": "Brian Francis Slattery",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1372435656p5/42411.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1372435656p2/42411.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/42411.Brian_Francis_Slattery"
+            },
+            "avr_rate": "3.84",
+            "r_count": "3916",
+            "trc": "612"
+          }
+        },
+        "work": {
+          "id": "54854952"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Nov 29 08:49:48 -0800 2009",
+      "date_updated": " Jan 17 13:23:29 -0800 2017",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/79288099"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/79288099"
+      }
+    },
+    {
+      "id": "79284788",
+      "book": {
+        "id": "3398430",
+        "isbn": "0345460626",
+        "isbn13": "9780345460622",
+        "trc": "101",
+        "title": "The Caryatids",
+        "tws": "The Caryatids",
+        "img": "https://images.gr-assets.com/books/1320395860m/3398430.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1320395860s/3398430.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/3398430-the-caryatids",
+        "num_pages": "304",
+        "ei": "",
+        "pub": "Del Rey",
+        "pub_day": "24",
+        "pub_year": "2009",
+        "pub_month": "2",
+        "avr_rate": "3.29",
+        "r_count": "753",
+        "desc": "Alongside William Gibson and Neal Stephenson, Bruce Sterling stands at the forefront of a select group of writers whose pitch-perfect grasp of the cultural and scientific zeitgeist endows their works of speculative near-future fiction with uncanny verisimilitude. To read a novel by Sterling is to receive a dispatch from a time traveler. Now, with <b>The Caryatids</b>, Sterling has written a stunning testament of faith in the power of human intellect, creativity, and spirit to overcome any obstacle–even the obstacles we carry inside ourselves. <br /><br />The world of 2060 is divided into three spheres of influence, each fighting with the others over the resources of fallen nations and an environment degraded almost to the point of no return. There is the Dispensation, centered in Los Angeles, where entertainment and capitalism have fused with the highest of high-tech. There is the Acquis, a Green-centered collective that uses invasive neurological technology to create a networked utopia. And there is China, the sole surviving nation-state, a dinosaur that has prospered only by pitilessly pruning its own population. Products of this monstrous world, the daughters of a monstrous mother, and–according to some–monsters themselves, are the Caryatids: the four surviving female clones of a mad Balkan genius and wanted war criminal now ensconced, safely beyond extradition, on an orbiting space station. Radmila is a Dispensation star determined to forget her past by building a glittering, impregnable future. Vera is an Acquis functionary dedicated to reclaiming their home, the Croatian island of Mljet, from catastrophic pollution. Sonja is a medical specialist in China renowned for selflessly risking herself to help others. And Biserka is a one-woman terrorist network. The four “sisters” are united only by their hatred for their “mother”–and for one another. <br /><br />When evidence surfaces of a coming environmental cataclysm, the Dispensation sends its greatest statesman–or salesman–John Montgomery Montalban, husband of Radmila, and lover of Vera and Sonja, to gather the Caryatids together in an audacious plan to save the world.",
+        "authors": {
+          "author": {
+            "id": "34429",
+            "name": "Bruce Sterling",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1379306689p5/34429.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1379306689p2/34429.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/34429.Bruce_Sterling"
+            },
+            "avr_rate": "3.83",
+            "r_count": "105993",
+            "trc": "5301"
+          }
+        },
+        "pub": "2009",
+        "work": {
+          "id": "3438443"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Mar 04 13:31:17 -0800 2010",
+      "read_at": " Dec 23 18:48:52 -0800 2010",
+      "date_added": " Nov 29 07:41:48 -0800 2009",
+      "date_updated": " Dec 23 18:48:52 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/79284788"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/79284788"
+      }
+    },
+    {
+      "id": "79284707",
+      "book": {
+        "id": "6065215",
+        "isbn": "0061558230",
+        "isbn13": "9780061558238",
+        "trc": "4792",
+        "title": "The Strain (The Strain Trilogy, #1)",
+        "tws": "The Strain",
+        "img": "https://images.gr-assets.com/books/1326225354m/6065215.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1326225354s/6065215.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/6065215-the-strain",
+        "num_pages": "403",
+        "ei": "",
+        "pub": "William Morrow",
+        "pub_day": "2",
+        "pub_year": "2009",
+        "pub_month": "6",
+        "avr_rate": "3.78",
+        "r_count": "68622",
+        "desc": "A Boeing 777 arrives at JFK and is on its way across the tarmac, when it suddenly stops dead. All window shades are pulled down. All lights are out. All communication channels have gone quiet. Crews on the ground are lost for answers, but an alert goes out to the CDC. Dr. Ephraim \"Eph\" Goodweather, head of their Canary project, a rapid-response team that investigates biological threats, gets the call and boards the plane. What he finds makes his blood run cold.<br /><br />In a pawnshop in Spanish Harlem, a former professor and survivor of the Holocaust named Abraham Setrakian knows something is happening. And he knows the time has come, that a war is brewing.<br /><br />So begins a battle of mammoth proportions as the vampiric virus that has infected New York begins to spill out into the streets. Eph, who is joined by Setrakian and a motley crew of fighters, must now find a way to stop the contagion and save his city - a city that includes his wife and son - before it is too late.",
+        "authors": {
+          "author": {
+            "id": "167605",
+            "name": "Guillermo del Toro",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1486483613p5/167605.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1486483613p2/167605.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/167605.Guillermo_del_Toro"
+            },
+            "avr_rate": "3.78",
+            "r_count": "132268",
+            "trc": "11251"
+          }
+        },
+        "pub": "2009",
+        "work": {
+          "id": "6241525"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "read_at": " Jan 02 07:42:34 -0800 2010",
+      "date_added": " Nov 29 07:40:31 -0800 2009",
+      "date_updated": " Jan 02 07:42:34 -0800 2010",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/79284707"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/79284707"
+      }
+    },
+    {
+      "id": "74838225",
+      "book": {
+        "id": "3993839",
+        "isbn": "0312382855",
+        "isbn13": "9780312382858",
+        "trc": "1594",
+        "title": "Patient Zero (Joe Ledger, #1)",
+        "tws": "Patient Zero",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/3993839-patient-zero",
+        "num_pages": "421",
+        "ei": "",
+        "pub_day": "",
+        "avr_rate": "3.98",
+        "r_count": "21583",
+        "desc": "When you have to kill the same terrorist twice in one week there's either something wrong with your world or something wrong with your skills... and there's nothing wrong with Joe Ledger's skills. And that's both a good, and a bad thing. It's good because he's a Baltimore detective that has just been secretly recruited by the government to lead a new taskforce created to deal with the problems that Homeland Security can't handle. This rapid response group is called the Department of Military Sciences or the DMS for short. It's bad because his first mission is to help stop a group of terrorists from releasing a dreadful bio-weapon that can turn ordinary people into zombies. The fate of the world hangs in the balance...",
+        "authors": {
+          "author": {
+            "id": "72451",
+            "name": "Jonathan Maberry",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1442453747p5/72451.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1442453747p2/72451.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/72451.Jonathan_Maberry"
+            },
+            "avr_rate": "4.06",
+            "r_count": "177205",
+            "trc": "18211"
+          }
+        },
+        "work": {
+          "id": "4039913"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "39026388"
+          }
+        ]
+      },
+      "date_added": " Oct 17 12:53:03 -0700 2009",
+      "date_updated": " Oct 17 12:53:03 -0700 2009",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/74838225"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/74838225"
+      }
+    },
+    {
+      "id": "71929785",
+      "book": {
+        "id": "3115950",
+        "isbn": "0307381722",
+        "isbn13": "9780307381729",
+        "trc": "67",
+        "title": "Vampire Zero (Laura Caxton, #3)",
+        "tws": "Vampire Zero",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/3115950-vampire-zero",
+        "num_pages": "320",
+        "ei": "",
+        "pub": "Three Rivers Press",
+        "pub_day": "14",
+        "pub_year": "2008",
+        "pub_month": "10",
+        "avr_rate": "3.90",
+        "r_count": "1292",
+        "desc": "ONE MAN STOOD BETWEEN THEM AND US<br /><br />U.S. Marshal Jameson Arkeley - the country's foremost authority on vampires - taught police investigator and vampire fighter Laura Caxton everything she knows about monsters. After a bloody war visited upon Gettysburg by an army of vampires. Arkeley gave up his own life to save others. Except he didn't <i>exactly</i> die...<br /><br />Arkeley accepted the curse and is now a vampire himself. What's worse, he's the savviest vampire ever - he knows all the tricks better than anyone. Caxton is now faced with the task of destroying him. But Arkeley knows all her tactics too; after all, he taught them to her. Caxton realizes she must finish Arkeley before he succeeds in his quest to exterminate his own family, one member at a time. But even more important, she has to prevent him from becoming a beast exponentially more dangerous - a Vampire Zero.<br /><br />The author of <i>13 Bullets</i> and <i>99 Coffins</i>, David Wellington takes the Laura Caxton series to a whole new level in this action-packed third volume.<br /><br /><br /><br /><br />(Description from back cover of trade paperback edition)",
+        "authors": {
+          "author": {
+            "id": "24827",
+            "name": "David Wellington",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p5/24827.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p2/24827.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/24827.David_Wellington"
+            },
+            "avr_rate": "3.72",
+            "r_count": "42944",
+            "trc": "3275"
+          }
+        },
+        "pub": "2008",
+        "work": {
+          "id": "3147269"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "read_at": " Dec 07 17:04:36 -0800 2009",
+      "date_added": " Sep 20 17:59:36 -0700 2009",
+      "date_updated": " Dec 07 17:04:37 -0800 2009",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/71929785"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/71929785"
+      }
+    },
+    {
+      "id": "71929765",
+      "book": {
+        "id": "1441722",
+        "isbn": "0307381714",
+        "isbn13": "9780307381712",
+        "trc": "130",
+        "title": "99 Coffins (Laura Caxton, #2)",
+        "tws": "99 Coffins",
+        "img": "https://images.gr-assets.com/books/1320528117m/1441722.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1320528117s/1441722.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/1441722.99_Coffins",
+        "num_pages": "295",
+        "ei": "",
+        "pub": "Broadway Books",
+        "pub_day": "31",
+        "pub_year": "2007",
+        "pub_month": "12",
+        "avr_rate": "3.79",
+        "r_count": "1871",
+        "desc": "<i>A dark secret buried beneath our bloodiest battlefield</i><br /><br />Laura Caxton vowed never to face them again. The horror of what the vampires did is too close, the wounds too fresh. But when Jameson Arkeley, broken and barely recognizable, comes to her with an unfathomable, unholy discovery, her resolve crumbles.<br /><br />Arkeley leads Caxton to a tomb in Gettysburg recently excavated by a local archaeology professor. While the town, with its legendary role in the Civil War’s worst battle, is no stranger to cemeteries, this one is remarkably, eerily different. In it lie 100 coffins—99 of them occupied by vampires, who, luckily, are missing their hearts. But one of the coffins is empty and smashed to pieces.<br /><br />Who is the missing vampire? Does he have access to the 99 hearts that, if placed back in the bodies of their owners, could reanimate an entire bloodthirsty army? How did the vampires end up there, undisturbed and undiscovered for 150 years? The answer lies in Civil War documents that contain sinister secrets about the newly found coffins—secrets that Laura Caxton is about to uncover as she is thrown into a deadly, gruesome mission of saving an entire town from a mass invasion of the undead…",
+        "authors": {
+          "author": {
+            "id": "24827",
+            "name": "David Wellington",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p5/24827.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p2/24827.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/24827.David_Wellington"
+            },
+            "avr_rate": "3.72",
+            "r_count": "42944",
+            "trc": "3275"
+          }
+        },
+        "pub": "2007",
+        "work": {
+          "id": "1432343"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "read_at": " Nov 29 07:42:46 -0800 2009",
+      "date_added": " Sep 20 17:59:31 -0700 2009",
+      "date_updated": " Nov 02 19:04:36 -0800 2009",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/71929765"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/71929765"
+      }
+    },
+    {
+      "id": "71929754",
+      "book": {
+        "id": "263550",
+        "isbn": "0307381439",
+        "isbn13": "9780307381439",
+        "trc": "287",
+        "title": "13 Bullets (Laura Caxton, #1)",
+        "tws": "13 Bullets",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/263550.13_Bullets",
+        "num_pages": "323",
+        "ei": "",
+        "pub": "Three Rivers Press (CA)",
+        "pub_day": "22",
+        "pub_year": "2007",
+        "pub_month": "5",
+        "avr_rate": "3.62",
+        "r_count": "3703",
+        "desc": "<b>There Are Only 13 Bullets Between the World You Know and the World They Rule</b><br /><br />All the official reports say they are dead - extinct since the late '80s, when a fed named Arkeley nailed the last vampire in a fight that nearly killed him. But the evidence proves otherwise.<br /><br />When a state trooper named Caxton calls the FBI looking for help in the middle of the night, it is Arkeley who gets the assignment - who else? He's been expecting such a call to come eventually. Sure, it has been years since any signs of an attack, but Arkeley knows what most people don't: there is one left. In an abandoned asylum she is rotting, plotting, and biding her time in a way that only the undead can.<br /><br />Caxton is out of her league on this case and more than a little afraid, but the fed made it plain that there is only one way out. But the worst thing is the feeling that the vampires want more than just her blood. They want her for a reason, one she can't guess; a reason her sphinxlike partner knows but won't say; a reason she has to find out - or die trying.<br /><br />Now there are only 13 bullets between Caxton and Arkeley and the vampires. There are only 13 bullets between us, the living, and them, the damned.",
+        "authors": {
+          "author": {
+            "id": "24827",
+            "name": "David Wellington",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p5/24827.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p2/24827.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/24827.David_Wellington"
+            },
+            "avr_rate": "3.72",
+            "r_count": "42944",
+            "trc": "3275"
+          }
+        },
+        "pub": "2007",
+        "work": {
+          "id": "255481"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "read_at": " Nov 02 19:00:36 -0800 2009",
+      "date_added": " Sep 20 17:59:27 -0700 2009",
+      "date_updated": " Nov 02 19:00:36 -0800 2009",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/71929754"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/71929754"
+      }
+    },
+    {
+      "id": "71929749",
+      "book": {
+        "id": "263549",
+        "isbn": "1560258675",
+        "isbn13": "9781560258674",
+        "trc": "119",
+        "title": "ster Planet (Monster Island, #3)",
+        "tws": "ster Planet",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/263549.Monster_Planet",
+        "num_pages": "302",
+        "ei": "",
+        "pub": "Running Press",
+        "pub_day": "22",
+        "pub_year": "2007",
+        "pub_month": "6",
+        "avr_rate": "3.69",
+        "r_count": "2918",
+        "desc": "Set twelve years after the shambling zombie masses have overrun Manhattan, America, and the world, Monster Planet is the mind-blowing conclusion to what must be the scariest trilogy ever. Oceans of blood, scattered limbs, wanton violence, and general mayhem abound, along with revivified mummies, a Welsh sorcerer, and Wellington's signature brand of cool high-tech weaponry and sly humor — zombies, after all, are the ultimate consumers. What do the undead want, aside from fresh meat? Do the steadily diminishing number of humans who have somehow managed to survive over a decade of living hell stand a chance on a planet where they've been reduced to the status of prey? It all ends here, on Monster Planet.",
+        "authors": {
+          "author": {
+            "id": "24827",
+            "name": "David Wellington",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p5/24827.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1251222013p2/24827.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/24827.David_Wellington"
+            },
+            "avr_rate": "3.72",
+            "r_count": "42944",
+            "trc": "3275"
+          }
+        },
+        "pub": "2007",
+        "work": {
+          "id": "2175276"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "read_at": " Oct 17 12:52:02 -0700 2009",
+      "date_added": " Sep 20 17:59:23 -0700 2009",
+      "date_updated": " Oct 17 12:52:02 -0700 2009",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/71929749"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/71929749"
+      }
+    }
+  ]
+}

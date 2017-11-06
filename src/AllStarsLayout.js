@@ -7,13 +7,13 @@ import {connect} from 'react-redux';
 import * as actionCreators from './action_creators';
 
 export default class AllStarsLayout extends Component {
-  
+
   render() {
 
     return (
       <div style={{marginTop:'75px'}}>
 
-        {this.props.data && ( <Stars totalItemsInView={9} data={this.props.data}/> )}
+        {this.props.data && (<Stars totalItemsInView={9} totalItems={this.props.starIds.length} data={this.props.data} dataSetter={this.props.starSetter}/> )}
 
       </div>
     )
@@ -22,6 +22,7 @@ export default class AllStarsLayout extends Component {
 
 function mapStateToProps(state) {
   return {
+    starIds : state.get('allStarIds'),
     data: state.get('starsData'),
   };
 }

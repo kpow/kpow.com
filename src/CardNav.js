@@ -1,16 +1,15 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
-import {
-  Button,Container,Divider,Grid,Header,Icon,Image,List,Menu,Segment,Visibility,Card,
-} from 'semantic-ui-react';
-
-
+import { Button,Container,} from 'semantic-ui-react';
 
 
 class CardNav extends Component {
   constructor(props) {
     super(props)
     this.state = {
+      data:props.data,
+      subloading:false,
+      currentMasterPage:1,
+      totalMasterPages: Math.floor(this.props.totalItems / this.props.data.length),
       currentPage:1,
       nextButtonDisabled:false,
       prevButtonDisabled:true,
@@ -19,45 +18,108 @@ class CardNav extends Component {
   }
 
   componentDidMount() {
-
+    
   }
 
   nextPage = () =>{
+    let toDisplayItems = [];
     let data = this.props.data;
     let totalPages = Math.floor(data.length/this.state.totalItemsInView);
     let nextPage = this.state.currentPage+1;
     let newSeed = nextPage*this.state.totalItemsInView-this.state.totalItemsInView;
     let newSeedOffset = (this.state.totalItemsInView-1)+newSeed;
+  
+    console.log("next click nextPage===totalPages = " + nextPage + "===" + totalPages);
+    console.log(this.state.totalMasterPages);
 
-    if(nextPage>1){ this.setState({prevButtonDisabled: false}); }
-    if(nextPage==totalPages){ this.setState({nextButtonDisabled: true}); }
+    if (nextPage === totalPages && this.state.totalMasterPages === 1) {
+      this.setState({ nextButtonDisabled: true });
+    }
 
-    let toDisplayItems = [];
-    for(let i=newSeed; i<=newSeedOffset; i++){ toDisplayItems.push(data[i]); }
+    if(nextPage===totalPages+1){
 
-    this.setState({ currentPage:nextPage});
-    this.props.setItems(toDisplayItems);
+      nextPage = 1;
+      newSeed = nextPage * this.state.totalItemsInView - this.state.totalItemsInView;
+      newSeedOffset = (this.state.totalItemsInView) + newSeed;
+
+      let newCurrentMasterPage = this.state.currentMasterPage + 1;
+      this.setState({ currentMasterPage: newCurrentMasterPage });
+      this.props.dataSetter(newCurrentMasterPage);
+      this.setState({ subloading: true });
+
+      // this needs to be in callback or promise
+      setTimeout(() => {
+        let newData = this.props.data;
+        for (let i = newSeed; i < newSeedOffset; i++) { toDisplayItems.push(newData[i]); }
+
+        this.props.setItems(toDisplayItems);
+        this.setState({ subloading: false, currentPage: nextPage });
+      }, 1000);
+
+   }else{
+
+     for(let i=newSeed; i<=newSeedOffset; i++){ toDisplayItems.push(data[i]); }
+     this.props.setItems(toDisplayItems);
+     this.setState({ currentPage: nextPage, prevButtonDisabled: false});     
+
+   }
+
+
 
   }
-
+// this one needs mad work
   prevPage = () =>{
-    let data = this.props.data;
-    let totalPages = Math.floor(data.length/this.state.totalItemsInView);
-    let nextPage = this.state.currentPage-1;
-    let newSeed = nextPage*this.state.totalItemsInView-this.state.totalItemsInView;
-    let newSeedOffset = (this.state.totalItemsInView-1)+newSeed;
-
-    if(nextPage<=1){ this.setState({prevButtonDisabled: true}); }
-    if(nextPage==totalPages){ this.setState({nextButtonDisabled: false}); }
-
     let toDisplayItems = [];
-    for(let i=newSeed; i<=newSeedOffset; i++){ toDisplayItems.push(data[i]); }
+    let data = this.props.data;
+    let totalPages = Math.floor(data.length / this.state.totalItemsInView);
+    let nextPage = this.state.currentPage - 1;
+    let newSeed = nextPage * this.state.totalItemsInView - this.state.totalItemsInView;
+    let newSeedOffset = (this.state.totalItemsInView - 1) + newSeed;
+    console.log("prev click nextPage===totalPages = " + nextPage + "===" + totalPages);
 
-    this.setState({ currentPage:nextPage});
-    this.props.setItems(toDisplayItems);
+    if(nextPage === 1 && this.state.currentMasterPage === 1){
+      this.setState({ prevButtonDisabled: true });
+    }
+
+    if (nextPage === 0) {
+      console.log('gotcha');
+      nextPage = totalPages;
+      newSeed = nextPage * this.state.totalItemsInView - this.state.totalItemsInView;
+      newSeedOffset = (this.state.totalItemsInView) + newSeed;
+
+      let newCurrentMasterPage = this.state.currentMasterPage - 1;
+      this.setState({ currentMasterPage: newCurrentMasterPage });
+      this.props.dataSetter(newCurrentMasterPage);
+      this.setState({ subloading: true });
+
+      console.log("newCurrentMasterPage = "+newCurrentMasterPage);
+      console.log("prev click inside nextPage===totalPages = " + nextPage + "===" + totalPages);
+      console.log("prev click inside newSeed===newSeedOffset = " + newSeed + "===" + newSeedOffset);
+
+      // this needs to be in callback or promise
+        setTimeout(() => {
+          let newData = this.props.data;
+          for (let i = newSeed; i < newSeedOffset; i++) { toDisplayItems.push(newData[i]); }
+
+          this.setState({ currentPage: nextPage });
+          this.props.setItems(toDisplayItems);
+          this.setState({ subloading: false });
+        }, 1000);      
+
+    } else {
+
+      for (let i = newSeed; i <= newSeedOffset; i++) { toDisplayItems.push(data[i]); }
+      this.props.setItems(toDisplayItems);
+      this.setState({ currentPage: nextPage, nextButtonDisabled: false });
+
+    }
+
+
   }
 
   render() {
+
+    if (this.state.subloading) return <Container text><h1>Loading...</h1></Container>
 
     return (
 

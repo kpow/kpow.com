@@ -21,7 +21,7 @@ class Books extends Component {
     }
 
   }
-  
+
   componentDidMount() { this.getDisplayData(); }
 
   getDisplayData = () => {
@@ -63,7 +63,7 @@ class Books extends Component {
           </Grid.Row>
         </Grid>
 
-        <CardNav totalItemsInView={this.state.totalItemsInView} data={this.props.data} setItems={this.setDisplayData}/>
+        <CardNav totalItemsInView={this.state.totalItemsInView} totalItems={this.props.totalItems} data={this.props.data} setItems={this.setDisplayData} dataSetter={this.props.dataSetter} />
 
       </div>
     )

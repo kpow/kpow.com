@@ -9,6 +9,10 @@ function setStarsData(state, data) {
   return state.set('starsData',data);
 }
 
+function setTotalStars(state, data) {
+  return state.set('allStarIds', data);
+}
+
 function setBooksData(state, data) {
   return state.set('booksData',data);
 }
@@ -27,6 +31,8 @@ export default function(state = Map(), action) {
       return setState(state, action.state);
     case 'SET_STARS_DATA':
       return setStarsData(state, action.stars);
+    case 'SET_TOTAL_STARS':
+      return setTotalStars(state, action.starIds);  
     case 'SET_BOOKS_DATA':
       return setBooksData(state, action.books);
     case 'SET_PROJECTS_DATA':

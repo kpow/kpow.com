@@ -41,18 +41,37 @@ function getJSON(url) {
     });
 };
 
+const getStarsData = (page=1) =>{
+  console.log('getjson');
+  getJSON('https://kpow.space/services/stars.php?page='+page).then(data => {
+    store.dispatch(actions.setStarsData(data.reverse()));
+  }).then(()=>{console.log('dingdong');});
+
+}
+
+const getBooksData = (page = 1) => {
+  console.log('getbooksjson');
+  getJSON('https://kpow.space/static_data/books'+page+'.json').then(data => {
+  //console.log(data);  
+  store.dispatch(actions.setBooksData(data.review));
+  }).then(() => { console.log('dingbooksdong'); });
+
+}
+
+getStarsData(1);
+getBooksData(1);
+
+getJSON('https://kpow.space/services/total_stars.php').then(data => {
+  store.dispatch(actions.setTotalStars(data));
+});
 
 getJSON('https://kpow.space/services/projects.php').then(data => {
   store.dispatch(actions.setProjectsData(data.data));
 });
 
-getJSON('https://kpow.space/services/stars.php?page=1').then(data => {
-  store.dispatch(actions.setStarsData(data.reverse()));
-});
-
-getJSON('/static_data/goodreads100_optimized.json').then(data => {
-  store.dispatch(actions.setBooksData(data.reviews.review));
-});
+//getJSON('/static_data/goodreads100_optimized.json').then(data => {
+//  store.dispatch(actions.setBooksData(data.reviews.review));
+//});
 
 getJSON('https://kpow.space/services/instagram.php').then(data => {
   store.dispatch(actions.setInstagramsData(data.data));
@@ -62,7 +81,7 @@ getJSON('https://kpow.space/services/instagram.php').then(data => {
 ReactDOM.render(
   <Provider store={store}>
     <BrowserRouter>
-        <App />
+        <App starSetter={getStarsData} bookSetter={getBooksData} />
     </BrowserRouter>
     </Provider>,
   document.getElementById('root')

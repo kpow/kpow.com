@@ -11,6 +11,7 @@ class Stars extends Component {
   constructor(props) {
     super(props)
     this.state = {
+      data:props.data,
       totalItemsInView:props.totalItemsInView || 3
     }
   }
@@ -19,7 +20,7 @@ class Stars extends Component {
 
     if(this.state.totalItemsInView>3){
       window.scrollTo(0,0);
-    }    
+    }
 
   }
 
@@ -27,7 +28,7 @@ class Stars extends Component {
 
   getDisplayData = () => {
 
-      let data = this.props.data;
+      let data = this.state.data;
       let toDisplayItems = [];
 
       for(let i=0; i<=this.state.totalItemsInView-1; i++){
@@ -60,14 +61,13 @@ class Stars extends Component {
           <Grid.Row>
           {this.state.displayItems.map((item, index) => (
             <Grid.Column>
-              <StarItem data={item} />
+              <StarItem key={index} data={item} />
             </Grid.Column>
           ))}
           </Grid.Row>
         </Grid>
 
-        <CardNav totalItemsInView={this.state.totalItemsInView} data={this.props.data} setItems={this.setDisplayData}/>
-
+        <CardNav totalItemsInView={this.state.totalItemsInView} totalItems={this.props.totalItems} data={this.props.data} setItems={this.setDisplayData} dataSetter={this.props.dataSetter}/>
       </div>
     )
   }

@@ -1,0 +1,2284 @@
+{
+  "review": [
+    {
+      "id": "1400661838",
+      "book": {
+        "id": "22859850",
+        "isbn": "1597808245",
+        "isbn13": "9781597808248",
+        "trc": "205",
+        "title": "Dark Intelligence (Transformation, #1)",
+        "tws": "Dark Intelligence",
+        "img": "https://images.gr-assets.com/books/1422483252m/22859850.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1422483252s/22859850.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/22859850-dark-intelligence",
+        "num_pages": "402",
+        "ei": "",
+        "pub": "Night Shade Books",
+        "pub_day": "3",
+        "pub_year": "2015",
+        "pub_month": "2",
+        "avr_rate": "4.04",
+        "r_count": "3323",
+        "desc": "<b><i>Dark Intelligence</i> is the first novel in the Transformation series, a no-holds-barred adventure set in Neal Asher's popular Polity universe.</b><br /><br />One man will transcend death to seek vengeance. One woman will transform herself to gain power. And no one will emerge unscathed . . .<br /><br />Thorvald Spear wakes in hospital, where he finds he's been brought back from the dead. What's more, he died in a human vs. alien war which ended a whole century ago. But when he relives his traumatic final moments, he finds the spark to keep on living. That spark is vengeance. Trapped and desperate on a world surrounded by alien Prador forces, Spear had seen a rescue ship arriving. But instead of providing backup, Penny Royal, the AI within the destroyer turned rogue. It annihilated friendly forces in a frenzy of destruction, and, years later, it's still free. Spear vows to track it across worlds and do whatever it takes to bring it down.<br /><br />Isobel Satomi ran a successful crime syndicate. But after competitors attacked, she needed more power. Yet she got more than she bargained for when she negotiated with Penny Royal. She paid it to turn her part-AI herself, but the upgrades hid a horrifying secret. The Dark AI had triggered a transformation in Isobel that would turn her into a monster, rapidly evolving into something far from human.<br /><br />Spear hires Isobel to take him to the Penny Royal AI's last known whereabouts. But he cheats her in the process and he becomes a target for her vengeance. And as she is evolves further into a monstrous predator, rage soon wins over reason. Will Spear finish his hunt, before he becomes the hunted?",
+        "authors": {
+          "author": {
+            "id": "56353",
+            "name": "Neal Asher",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1207862001p5/56353.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1207862001p2/56353.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/56353.Neal_Asher"
+            },
+            "avr_rate": "4.04",
+            "r_count": "67330",
+            "trc": "2964"
+          }
+        },
+        "pub": "2015",
+        "work": {
+          "id": "42427731"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": "Wed Dec 02 18:44:17 -0800 2015",
+      "read_at": " Dec 04 10:35:09 -0800 2015",
+      "date_added": " Sep 25 04:42:10 -0700 2015",
+      "date_updated": " Dec 04 10:35:09 -0800 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1400661838"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1400661838"
+      }
+    },
+    {
+      "id": "1394707773",
+      "book": {
+        "id": "17239381",
+        "isbn": "1597804932",
+        "isbn13": "9781597804936",
+        "trc": "72",
+        "title": "Jupiter War (Owner Trilogy, #3)",
+        "tws": "Jupiter War",
+        "img": "https://images.gr-assets.com/books/1378108499m/17239381.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1378108499s/17239381.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/17239381-jupiter-war",
+        "num_pages": "356",
+        "ei": "",
+        "pub": "Night Shade Books",
+        "pub_day": "13",
+        "pub_year": "2014",
+        "pub_month": "5",
+        "avr_rate": "4.06",
+        "r_count": "1733",
+        "desc": "The third book of the <i>Owner</i> trilogy delivers an explosive conclusion to Neal Asher’s action-packed series chronicling the struggles for political dominance in a resource-scarce future. Power vacuums and new despots spring up across the solar system, in the wake of the events of <i>The Departure</i> and <i>Zero Point</i>. Alan Saul continues to be in the middle of the chaos and destruction that make up <i>Jupiter War</i>.<br />",
+        "authors": {
+          "author": {
+            "id": "56353",
+            "name": "Neal Asher",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1207862001p5/56353.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1207862001p2/56353.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/56353.Neal_Asher"
+            },
+            "avr_rate": "4.04",
+            "r_count": "67330",
+            "trc": "2964"
+          }
+        },
+        "pub": "2014",
+        "work": {
+          "id": "23766231"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Sep 17 17:39:04 -0700 2015",
+      "read_at": " Sep 25 04:38:31 -0700 2015",
+      "date_added": " Sep 17 17:39:04 -0700 2015",
+      "date_updated": " Sep 25 04:38:31 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1394707773"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1394707773"
+      }
+    },
+    {
+      "id": "1387151838",
+      "book": {
+        "id": "15775601",
+        "isbn": "0230750702",
+        "isbn13": "9780230750708",
+        "trc": "88",
+        "title": "Zero Point (Owner Trilogy, #2)",
+        "tws": "Zero Point",
+        "img": "https://images.gr-assets.com/books/1343892088m/15775601.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1343892088s/15775601.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/15775601-zero-point",
+        "num_pages": "564",
+        "ei": "First",
+        "pub": "Tor",
+        "pub_day": "2",
+        "pub_year": "2012",
+        "pub_month": "8",
+        "avr_rate": "4.04",
+        "r_count": "2137",
+        "desc": "Earth's Zero Asset citizens no longer face extermination from orbit. Thanks to Alan Saul, the Committee's network of control is a smoking ruin and its robotic enforcers lie dormant. But power abhors a vacuum and, scrambling from the wreckage, comes the ruthless Serene Galahad.",
+        "authors": {
+          "author": {
+            "id": "56353",
+            "name": "Neal Asher",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1207862001p5/56353.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1207862001p2/56353.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/56353.Neal_Asher"
+            },
+            "avr_rate": "4.04",
+            "r_count": "67330",
+            "trc": "2964"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "21487123"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Sep 08 21:26:32 -0700 2015",
+      "read_at": " Sep 17 17:38:05 -0700 2015",
+      "date_added": " Sep 08 21:26:32 -0700 2015",
+      "date_updated": " Sep 17 17:38:29 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1387151838"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1387151838"
+      }
+    },
+    {
+      "id": "1372962461",
+      "book": {
+        "id": "10648878",
+        "isbn": "0230708730",
+        "isbn13": "9780230708730",
+        "trc": "214",
+        "title": "The Departure (Owner Trilogy, #1)",
+        "tws": "The Departure",
+        "img": "https://images.gr-assets.com/books/1330301526m/10648878.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1330301526s/10648878.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/10648878-the-departure",
+        "num_pages": "498",
+        "ei": "",
+        "pub": "Tor",
+        "pub_day": "5",
+        "pub_year": "2011",
+        "pub_month": "9",
+        "avr_rate": "3.81",
+        "r_count": "3036",
+        "desc": "Visible in the night sky the Argus Station, its twin smelting plants like glowing eyes, looks down on nightmare Earth. From Argus the Committee keep an oppressive control. Soon they will have the power to edit human minds, but not yet - twelve billion human beings need to die before Earth can be stabilized.",
+        "authors": {
+          "author": {
+            "id": "56353",
+            "name": "Neal Asher",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1207862001p5/56353.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1207862001p2/56353.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/56353.Neal_Asher"
+            },
+            "avr_rate": "4.04",
+            "r_count": "67330",
+            "trc": "2964"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "15557835"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Aug 24 17:54:44 -0700 2015",
+      "read_at": " Sep 08 21:25:21 -0700 2015",
+      "date_added": " Aug 24 17:19:29 -0700 2015",
+      "date_updated": " Sep 08 21:25:21 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1372962461"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1372962461"
+      }
+    },
+    {
+      "id": "1318065836",
+      "book": {
+        "id": "14762236",
+        "isbn": "0230748783",
+        "isbn13": "9780230748781",
+        "trc": "19",
+        "title": "The Thousand Emperors",
+        "tws": "The Thousand Emperors",
+        "img": "https://images.gr-assets.com/books/1339227861m/14762236.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1339227861s/14762236.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/14762236-the-thousand-emperors",
+        "num_pages": "384",
+        "ei": "",
+        "pub": "Tor",
+        "pub_day": "7",
+        "pub_year": "2012",
+        "pub_month": "6",
+        "avr_rate": "3.88",
+        "r_count": "376",
+        "desc": "Luc Gabion has finally achieved his life's goal: bring down Winchell Antonov, head of the Black Lotus terrorist organisation. When he finds himself investigating the murder of one of the Tian Di's ruling clique, he knows he's in real trouble.",
+        "authors": {
+          "author": {
+            "id": "1442754",
+            "name": "Gary Gibson",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1453443193p5/1442754.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1453443193p2/1442754.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/1442754.Gary_Gibson"
+            },
+            "avr_rate": "3.72",
+            "r_count": "8096",
+            "trc": "467"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "20414815"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Jun 26 06:02:13 -0700 2015",
+      "date_updated": " Jun 26 06:02:22 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1318065836"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1318065836"
+      }
+    },
+    {
+      "id": "1307541149",
+      "book": {
+        "id": "24726335",
+        "isbn": "0553418319",
+        "isbn13": "9780553418316",
+        "trc": "148",
+        "title": "Ex-Isle (Ex-Heroes, #5)",
+        "tws": "Ex-Isle",
+        "img": "https://images.gr-assets.com/books/1432661376m/24726335.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1432661376s/24726335.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/24726335-ex-isle",
+        "num_pages": "389",
+        "ei": "",
+        "pub": "Broadway Books",
+        "pub_day": "2",
+        "pub_year": "2016",
+        "pub_month": "2",
+        "avr_rate": "3.96",
+        "r_count": "2193",
+        "desc": "<i>It is an easy thing to rule by fear.<br /></i><br /> It’s been years since the tidal wave of ex-humans washed over the world. Since then, thanks to St George and his fellow heroes, the community known as the Mount has been the last known outpost of safety, sanity, and freedom left to humanity. <br /><br />But even for the Mount, survival still balances on a razor’s edge—and after a disaster decimates the town’s food supply, the heroes must make a risky gamble to keep its citizens from starving.  <br /><br />And then the news arrives of a strange, man-made island in the middle of the Pacific. An island populated not just by survivors, but by people who seem to be farming, raising children, <i>living—</i>people who, like the heroes, have somehow managed to keep the spark of civilization alive. <br /><br />Paying this place a visit should be a simple goodwill mission, but as the island reveals itself to be a sinister mirror-image of what the heroes have built at the Mount, the cost of their good intentions becomes dangerously high.",
+        "authors": {
+          "author": {
+            "id": "3396842",
+            "name": "Peter Clines",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1314048538p5/3396842.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1314048538p2/3396842.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/3396842.Peter_Clines"
+            },
+            "avr_rate": "3.92",
+            "r_count": "73512",
+            "trc": "8085"
+          }
+        },
+        "pub": "2016",
+        "work": {
+          "id": "44352693"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Apr 07 00:00:00 -0700 2016",
+      "read_at": " Apr 15 11:13:09 -0700 2016",
+      "date_added": " Jun 14 05:53:34 -0700 2015",
+      "date_updated": " Apr 15 11:13:09 -0700 2016",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1307541149"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1307541149"
+      }
+    },
+    {
+      "id": "1276519605",
+      "book": {
+        "id": "13542400",
+        "isbn": "0441017576",
+        "isbn13": "9780441017577",
+        "trc": "146",
+        "title": "Slow Apocalypse",
+        "tws": "Slow Apocalypse",
+        "img": "https://images.gr-assets.com/books/1345756315m/13542400.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1345756315s/13542400.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13542400-slow-apocalypse",
+        "num_pages": "438",
+        "ei": "",
+        "pub": "Ace",
+        "pub_day": "4",
+        "pub_year": "2012",
+        "pub_month": "9",
+        "avr_rate": "3.47",
+        "r_count": "720",
+        "desc": "Despite wars with Iraq and Afghanistan, as well as 9/11, the United States’ dependence on foreign oil has kept the nation tied to the Middle East. A scientist has developed a cure for America’s addiction—a slow-acting virus that feeds on petroleum, turning it solid. But he didn’t consider that his contagion of an Iraqi oil field could spread to infect the fuel supply of the entire world…<br /><br />In Los Angeles, screenwriter Dave Marshall heard this scenario from a retired US marine and government insider who acted as a consultant on Dave’s last film. It sounded as implausible as many of his scripts, but the reality is much more frightening than anything he could have envisioned.<br /><br /><br /><br />An ordinary guy armed with extraordinary information, Dave hopes his survivor’s instinct will kick in so he can protect his wife and daughter from the coming apocalypse that will alter the future of Earth—and humanity…",
+        "authors": {
+          "author": {
+            "id": "27341",
+            "name": "John Varley",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1346593830p5/27341.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1346593830p2/27341.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/27341.John_Varley"
+            },
+            "avr_rate": "3.93",
+            "r_count": "38106",
+            "trc": "2131"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "19106689"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          },
+          {
+            "id": "on-the-edge",
+            "_exclusive": "false",
+            "rev_id": "981244230",
+            "_sortable": "false"
+          }
+        ]
+      },
+      "date_added": " May 10 07:32:57 -0700 2015",
+      "date_updated": " May 10 07:32:58 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1276519605"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1276519605"
+      }
+    },
+    {
+      "id": "1271465590",
+      "book": {
+        "id": "23164927",
+        "isbn": "0553418297",
+        "isbn13": "9780553418293",
+        "trc": "1870",
+        "title": "The Fold",
+        "tws": "The Fold",
+        "img": "https://images.gr-assets.com/books/1416182070m/23164927.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1416182070s/23164927.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/23164927-the-fold",
+        "num_pages": "384",
+        "ei": "",
+        "pub": "Crown",
+        "pub_day": "2",
+        "pub_year": "2015",
+        "pub_month": "6",
+        "avr_rate": "3.83",
+        "r_count": "16617",
+        "desc": "<i>STEP INTO THE FOLD.</i><br /><i> IT’S PERFECTLY SAFE. <br /></i><br /> The folks in Mike Erikson's small New England town would say he's just your average, everyday guy. And that's exactly how Mike likes it. Sure, the life he's chosen isn’t much of a challenge to someone with his unique gifts, but he’s content with his quiet and peaceful existence.  <br /><br /> That is, until an old friend presents him with an irresistible mystery, one that Mike is uniquely qualified to solve: far out in the California desert, a team of DARPA scientists has invented a device they affectionately call the Albuquerque Door. Using a cryptic computer equation and magnetic fields to fold” dimensions, it shrinks distances so that a traveler can travel hundreds of feet with a single step. <br /><br />The invention promises to make mankind’s dreams of teleportation a reality. And, the scientists insist, traveling through the Door is completely safe. <br /><br /> Yet evidence is mounting that this miraculous machine isn’t quite what it seems—and that its creators are harboring a dangerous secret.  <br /><br />As his investigations draw him deeper into the puzzle, Mike begins to fear there’s only one answer that makes sense. And if he’s right, it may only be a matter of time before the project destroys…everything.  <br /><br />A cunningly inventive mystery featuring a hero worthy of Sherlock Holmes and a terrifying final twist you’ll never see coming,<i> The Fold</i> is that rarest of things: a genuinely page-turning science-fiction thriller. Step inside its pages and learn why author Peter Clines has already won legions of loyal fans.",
+        "authors": {
+          "author": {
+            "id": "3396842",
+            "name": "Peter Clines",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1314048538p5/3396842.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1314048538p2/3396842.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/3396842.Peter_Clines"
+            },
+            "avr_rate": "3.92",
+            "r_count": "73512",
+            "trc": "8085"
+          }
+        },
+        "pub": "2015",
+        "work": {
+          "id": "42710963"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Jun 27 07:01:30 -0700 2015",
+      "read_at": " Jun 30 21:00:03 -0700 2015",
+      "date_added": " May 04 07:38:53 -0700 2015",
+      "date_updated": " Jun 30 21:00:12 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1271465590"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1271465590"
+      }
+    },
+    {
+      "id": "1271464920",
+      "book": {
+        "id": "23197269",
+        "isbn": "0316098108",
+        "isbn13": "9780316098106",
+        "trc": "1629",
+        "title": "Aurora",
+        "tws": "Aurora",
+        "img": "https://images.gr-assets.com/books/1436300570m/23197269.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1436300570s/23197269.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/23197269-aurora",
+        "num_pages": "466",
+        "ei": "",
+        "pub": "Orbit",
+        "pub_day": "7",
+        "pub_year": "2015",
+        "pub_month": "7",
+        "avr_rate": "3.72",
+        "r_count": "12755",
+        "desc": "A major new novel from one of science fiction's most powerful voices, AURORA tells the incredible story of our first voyage beyond the solar system. <br /><br />Brilliantly imagined and beautifully told, it is the work of a writer at the height of his powers. <br /><br /><b>Our voyage from Earth began generations ago.<br /><br />Now, we approach our new home.<br /><br />AURORA.</b>",
+        "authors": {
+          "author": {
+            "id": "1858",
+            "name": "Kim Stanley Robinson",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1376955089p5/1858.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1376955089p2/1858.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/1858.Kim_Stanley_Robinson"
+            },
+            "avr_rate": "3.79",
+            "r_count": "167491",
+            "trc": "11980"
+          }
+        },
+        "pub": "2015",
+        "work": {
+          "id": "42742263"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Aug 03 17:35:50 -0700 2015",
+      "read_at": " Aug 23 13:06:55 -0700 2015",
+      "date_added": " May 04 07:38:00 -0700 2015",
+      "date_updated": " Aug 23 13:06:55 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1271464920"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1271464920"
+      }
+    },
+    {
+      "id": "1271462553",
+      "book": {
+        "id": "23013875",
+        "isbn": "1616961937",
+        "isbn13": "9781616961930",
+        "trc": "323",
+        "title": "Slow Bullets",
+        "tws": "Slow Bullets",
+        "img": "https://images.gr-assets.com/books/1428953536m/23013875.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1428953536s/23013875.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/23013875-slow-bullets",
+        "num_pages": "192",
+        "ei": "",
+        "pub": "Tachyon Publications",
+        "pub_day": "1",
+        "pub_year": "2015",
+        "pub_month": "6",
+        "avr_rate": "3.59",
+        "r_count": "2536",
+        "desc": "From the author of the Revelation Space series comes an interstellar adventure of war, identity, betrayal, and the preservation of civilization itself.<br /><br />A vast conflict, one that has encompassed hundreds of worlds and solar systems, appears to be finally at an end. A conscripted soldier is beginning to consider her life after the war and the family she has left behind. But for Scur—and for humanity—peace is not to be.<br /><br />On the brink of the ceasefire, Scur is captured by a renegade war criminal, and left for dead in the ruins of a bunker. She revives aboard a prisoner transport vessel. Something has gone terribly wrong with the ship.<br /><br />Passengers—combatants from both sides of the war—are waking up from hibernation far too soon. Their memories, embedded in bullets, are the only links to a world which is no longer recognizable. And Scur will be reacquainted with her old enemy, but with much higher stakes than just her own life. <br />",
+        "authors": {
+          "author": {
+            "id": "51204",
+            "name": "Alastair Reynolds",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1369753656p5/51204.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1369753656p2/51204.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/51204.Alastair_Reynolds"
+            },
+            "avr_rate": "4.00",
+            "r_count": "189215",
+            "trc": "10724"
+          }
+        },
+        "pub": "2015",
+        "work": {
+          "id": "42580148"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "976684617"
+          }
+        ]
+      },
+      "date_added": " May 04 07:34:59 -0700 2015",
+      "date_updated": " May 04 07:34:59 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1271462553"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1271462553"
+      }
+    },
+    {
+      "id": "1271459938",
+      "book": {
+        "id": "12111823",
+        "isbn": "0002247410",
+        "isbn13": "9780002247412",
+        "trc": "340",
+        "title": "The Winds of Winter (A Song of Ice and Fire, #6)",
+        "tws": "The Winds of Winter",
+        "img": "https://images.gr-assets.com/books/1465341854m/12111823.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1465341854s/12111823.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/12111823-the-winds-of-winter",
+        "num_pages": "",
+        "ei": "",
+        "pub": "HarperVoyager",
+        "pub_day": "",
+        "pub_year": "2020",
+        "pub_month": "",
+        "avr_rate": "4.38",
+        "r_count": "4359",
+        "desc": "<i>The Winds of Winter</i> is the forthcoming sixth novel in the epic fantasy series <i>A Song of Ice and Fire</i> by George R.R. Martin.<br /><br />The previous installment, <i>A Dance with Dragons</i>, covered less story than Martin intended, omitting at least one planned large battle sequence and leaving several character threads ending in cliffhangers. Martin intends to resolve these cliffhangers \"very early\" in <i>The Winds of Winter</i>, saying \"I'm going to open with the two big battles that I was building up to, the battle in the ice and the battle at Meereen—the battle of Slaver's Bay. And then take it from there.\"",
+        "authors": {
+          "author": {
+            "id": "346732",
+            "name": "George R.R. Martin",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1351944410p5/346732.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1351944410p2/346732.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/346732.George_R_R_Martin"
+            },
+            "avr_rate": "4.37",
+            "r_count": "4255910",
+            "trc": "164002"
+          }
+        },
+        "pub": "2020",
+        "work": {
+          "id": "6570035"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "976682013"
+          }
+        ]
+      },
+      "date_added": " May 04 07:31:21 -0700 2015",
+      "date_updated": " May 04 07:31:22 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1271459938"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1271459938"
+      }
+    },
+    {
+      "id": "1271459308",
+      "book": {
+        "id": "22886612",
+        "trc": "1449",
+        "title": "Nemesis Games (The Expanse #5)",
+        "tws": "Nemesis Games",
+        "img": "https://images.gr-assets.com/books/1407524221m/22886612.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1407524221s/22886612.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/22886612-nemesis-games",
+        "num_pages": "536",
+        "ei": "",
+        "pub": "Orbit",
+        "pub_day": "2",
+        "pub_year": "2015",
+        "pub_month": "6",
+        "avr_rate": "4.37",
+        "r_count": "25379",
+        "desc": "The fifth novel in Corey's New York Times bestselling Expanse series--now being produced for television by the SyFy Channel!<br /><br />A thousand worlds have opened, and the greatest land rush in human history has begun. As wave after wave of colonists leave, the power structures of the old solar system begin to buckle.<br /><br />Ships are disappearing without a trace. Private armies are being secretly formed. The sole remaining protomolecule sample is stolen. Terrorist attacks previously considered impossible bring the inner planets to their knees. The sins of the past are returning to exact a terrible price.<br /><br />And as a new human order is struggling to be born in blood and fire, James Holden and the crew of the Rocinante must struggle to survive and get back to the only home they have left.",
+        "authors": {
+          "author": {
+            "id": "4192148",
+            "name": "James S.A. Corey",
+            "img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+            },
+            "sm_img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/4192148.James_S_A_Corey"
+            },
+            "avr_rate": "4.18",
+            "r_count": "283551",
+            "trc": "20226"
+          }
+        },
+        "pub": "2015",
+        "work": {
+          "id": "42456264"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Jun 30 21:00:55 -0700 2015",
+      "read_at": " Jul 23 17:46:47 -0700 2015",
+      "date_added": " May 04 07:30:22 -0700 2015",
+      "date_updated": " Jul 23 17:46:52 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1271459308"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1271459308"
+      }
+    },
+    {
+      "id": "1270891292",
+      "book": {
+        "id": "20878",
+        "isbn": "0441519180",
+        "isbn13": "9780441519187",
+        "trc": "63",
+        "title": "The Man Who Never Missed (Matador, #1)",
+        "tws": "The Man Who Never Missed",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/20878.The_Man_Who_Never_Missed",
+        "num_pages": "195",
+        "ei": "",
+        "pub": "Ace",
+        "pub_day": "15",
+        "pub_year": "1986",
+        "pub_month": "8",
+        "avr_rate": "4.24",
+        "r_count": "1575",
+        "desc": "Once a ruthless soldier, Emile Khadaji has disappeared from the Confederation-with a secret plan to destroy it all in the name of freedom.",
+        "authors": {
+          "author": {
+            "id": "6262",
+            "name": "Steve Perry",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1463048818p5/6262.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1463048818p2/6262.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/6262.Steve_Perry"
+            },
+            "avr_rate": "3.80",
+            "r_count": "74371",
+            "trc": "2035"
+          }
+        },
+        "pub": "1986",
+        "work": {
+          "id": "537240"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "976176697"
+          }
+        ]
+      },
+      "date_added": " May 03 14:56:17 -0700 2015",
+      "date_updated": " May 03 14:56:18 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1270891292"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1270891292"
+      }
+    },
+    {
+      "id": "1270887276",
+      "book": {
+        "id": "9648068",
+        "isbn": "0765331268",
+        "isbn13": "9780765331267",
+        "trc": "925",
+        "title": "The First Days (As the World Dies, #1)",
+        "tws": "The First Days",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/9648068-the-first-days",
+        "num_pages": "331",
+        "ei": "",
+        "pub": "Tor Books",
+        "pub_day": "5",
+        "pub_year": "2011",
+        "pub_month": "7",
+        "avr_rate": "3.78",
+        "r_count": "8530",
+        "desc": "Katie is driving to work one beautiful day when a dead man jumps into her car and tries to eat her.  That same morning, Jenni opens a bedroom door to find her husband devouring their toddler son. <br /><br />Fate puts Jenni and Katie—total strangers—together in a pickup, fleeing the suddenly zombie-filled streets of the Texas city in which they live. Before the sun has set, they have become more than just friends and allies—they are bonded as tightly as any two people who have been to war together. <br /><br />During their cross-Texas odyssey to find and rescue Jenni’s oldest son, Jenni discovers the joy of watching a zombie’s head explode when she shoots its brains out. Katie learns that she’s a terrific tactician—and a pretty good shot. <br /><br />A chance encounter puts them on the road to an isolated, fortified town, besieged by zombies, where fewer than one hundred people cling to the shreds of civilization. <br /><br />It looks like the end of the world. But Katie and Jenni and many others will do whatever they have to to stay alive. Run, fight, pick each other up when they stumble, fall in love…anything is possible at the end of the world.<b> </b>",
+        "authors": {
+          "author": {
+            "id": "2310121",
+            "name": "Rhiannon Frater",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1280870979p5/2310121.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1280870979p2/2310121.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/2310121.Rhiannon_Frater"
+            },
+            "avr_rate": "4.01",
+            "r_count": "28194",
+            "trc": "3370"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "5431515"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "976173184"
+          }
+        ]
+      },
+      "date_added": " May 03 14:51:12 -0700 2015",
+      "date_updated": " May 03 14:51:13 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1270887276"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1270887276"
+      }
+    },
+    {
+      "id": "1270883107",
+      "book": {
+        "id": "15704459",
+        "isbn": "0385743580",
+        "isbn13": "9780385743587",
+        "trc": "3782",
+        "title": "Firefight (The Reckoners, #2)",
+        "tws": "Firefight",
+        "img": "https://images.gr-assets.com/books/1413220816m/15704459.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1413220816s/15704459.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/15704459-firefight",
+        "num_pages": "416",
+        "ei": "",
+        "pub": "Delacorte Press",
+        "pub_day": "6",
+        "pub_year": "2015",
+        "pub_month": "1",
+        "avr_rate": "4.29",
+        "r_count": "52812",
+        "desc": "Babylon Restored, formerly Manhattan, may give David answers. Ruled by the mysterious High Epic, Regalia, David is sure Babylon Restored will lead him to what he needs to find. And while entering another city oppressed by a High Epic despot is a gamble, David's willing to risk it. Because killing Steelheart left a hole in David's heart. A hole where his thirst for vengeance once lived. Somehow, he filled that hole with another Epic—Firefight. And he's willing to go on a quest darker, and more dangerous even, than the fight against Steelheart to find her, and to get his answers.",
+        "authors": {
+          "author": {
+            "id": "38550",
+            "name": "Brandon Sanderson",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1394044556p5/38550.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1394044556p2/38550.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson"
+            },
+            "avr_rate": "4.37",
+            "r_count": "2042403",
+            "trc": "134781"
+          }
+        },
+        "pub": "2015",
+        "work": {
+          "id": "21979689"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " May 03 14:45:34 -0700 2015",
+      "read_at": " May 10 07:28:47 -0700 2015",
+      "date_added": " May 03 14:45:34 -0700 2015",
+      "date_updated": " May 10 07:28:47 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1270883107"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1270883107"
+      }
+    },
+    {
+      "id": "1235511448",
+      "book": {
+        "id": "7562764",
+        "isbn": "0575088877",
+        "isbn13": "9780575088870",
+        "trc": "1062",
+        "title": "The Quantum Thief (Jean le Flambeur, #1)",
+        "tws": "The Quantum Thief",
+        "img": "https://images.gr-assets.com/books/1327950631m/7562764.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1327950631s/7562764.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/7562764-the-quantum-thief",
+        "num_pages": "336",
+        "ei": "",
+        "pub_day": "1",
+        "pub_year": "2010",
+        "pub_month": "9",
+        "avr_rate": "3.84",
+        "r_count": "14744",
+        "desc": "Jean le Flambeur gets up in the morning and has to kill himself before his other self can kill him first. Just another day in the Dilemma Prison. Rescued by the mysterious Mieli and her flirtatious spacecraft, Jean is taken to the Oubliette, the Moving City of Mars, where time is a currency, memories are treasures, and a moon-turned-singularity lights the night. Meanwhile, investigator Isidore Beautrelet, called in to investigate the murder of a chocolatier, finds himself on the trail of an arch-criminal, a man named le Flambeur...<br /><br />Indeed, in his many lives, the entity called Jean le Flambeur has been a thief, a confidence artist, a posthuman mind-burgler, and more. His origins are shrouded in mystery, but his deeds are known throughout the Heterarchy, from breaking into the vast Zeusbrains of the Inner System to stealing rare Earth antiques from the aristocrats of Mars. In his last exploit, he managed the supreme feat of hiding the truth about himself from the one person in the solar system hardest to hide from: himself. Now he has the chance to regain himself in all his power—in exchange for finishing the one heist he never quite managed.<br /><br />The Quantum Thief is a breathtaking joyride through the solar system several centuries hence, a world of marching cities, ubiquitous public-key encryption, people who communicate via shared memory, and a race of hyper-advanced humans who originated as an MMORPG guild. But for all its wonders, The Quantum Thief is also a story powered by very human motives of betrayal, jealousy, and revenge.",
+        "authors": {
+          "author": {
+            "id": "2768002",
+            "name": "Hannu Rajaniemi",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1300203018p5/2768002.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1300203018p2/2768002.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/2768002.Hannu_Rajaniemi"
+            },
+            "avr_rate": "3.91",
+            "r_count": "28812",
+            "trc": "2986"
+          }
+        },
+        "pub": "2010",
+        "work": {
+          "id": "9886333"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "943883029"
+          }
+        ]
+      },
+      "date_added": " Mar 23 18:56:13 -0700 2015",
+      "date_updated": " Mar 23 18:56:13 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1235511448"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1235511448"
+      }
+    },
+    {
+      "id": "1234912088",
+      "book": {
+        "id": "17910044",
+        "isbn": "0765322749",
+        "isbn13": "9780765322746",
+        "trc": "184",
+        "title": "Mentats of Dune (Schools of Dune #2)",
+        "tws": "Mentats of Dune",
+        "img": "https://images.gr-assets.com/books/1377288554m/17910044.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1377288554s/17910044.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/17910044-mentats-of-dune",
+        "num_pages": "448",
+        "ei": "",
+        "pub": "Tor Books",
+        "pub_day": "11",
+        "pub_year": "2014",
+        "pub_month": "3",
+        "avr_rate": "3.85",
+        "r_count": "1946",
+        "desc": "In Brian Herbert and Kevin J. Anderson's <i>Mentats of Dune, </i>the thinking machines have been defeated but the struggle for humanity's future continues.<br /><br />Gilbertus Albans has founded the Mentat School, a place where humans can learn the efficient techniques of thinking machines. But Gilbertus walks an uneasy line between his own convictions and compromises in order to survive the Butlerian fanatics, led by the madman Manford Torondo and his Swordmaster Anari Idaho. Mother Superior Raquella attempts to rebuild her Sisterhood School on Wallach IX, with her most talented and ambitious student, Valya Harkonnen, who also has another goal—to exact revenge on Vorian Atreides, the legendary hero of the Jihad, whom she blames for her family's downfall.<br /><br />Meanwhile, Josef Venport conducts his own war against the Butlerians. VenHold Spacing Fleet controls nearly all commerce thanks to the superior mutated Navigators that Venport has created, and he places a ruthless embargo on any planet that accepts Manford Torondo's anti-technology pledge, hoping to starve them into submission. But fanatics rarely surrender easily . . .<br /><br />The Mentats, the Navigators, and the Sisterhood all strive to improve the human race, but each group knows that as Butlerian fanaticism grows stronger, the battle will be to choose the path of humanity's future—whether to embrace civilization, or to plunge into an endless dark age.",
+        "authors": {
+          "author": {
+            "id": "56",
+            "name": "Brian Herbert",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p5/56.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p2/56.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/56.Brian_Herbert"
+            },
+            "avr_rate": "3.67",
+            "r_count": "137835",
+            "trc": "4004"
+          }
+        },
+        "pub": "2014",
+        "work": {
+          "id": "25095496"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Mar 23 05:02:52 -0700 2015",
+      "read_at": " Apr 23 16:01:53 -0700 2015",
+      "date_added": " Mar 23 05:02:52 -0700 2015",
+      "date_updated": " Apr 23 16:01:53 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1234912088"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1234912088"
+      }
+    },
+    {
+      "id": "1170796853",
+      "book": {
+        "id": "17618384",
+        "trc": "204",
+        "title": "Forging Zero (The Legend of ZERO, #1)",
+        "tws": "Forging Zero",
+        "img": "https://images.gr-assets.com/books/1363395540m/17618384.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1363395540s/17618384.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/17618384-forging-zero",
+        "num_pages": "610",
+        "ei": "",
+        "pub": "Parasite Publications",
+        "pub_day": "13",
+        "pub_year": "2013",
+        "pub_month": "3",
+        "avr_rate": "4.09",
+        "r_count": "5799",
+        "desc": "The Legend of ZERO begins the epic journey of 14-year-old Joe Dobbs in a post-apocalyptic universe following a massive alien invasion of Earth. The oldest of the children drafted from humanity’s devastated planet, Joe is impressed into service by the alien Congressional Ground Force—and becomes the unwitting centerpiece in a millennia-long alien struggle for independence. Once his training begins, one of the elusive and prophetic Trith appears to give Joe a spine chilling prophecy that the universe has been anticipating for millions of years: Joe will be the one to finally shatter the vast alien government known as Congress. And the Trith cannot lie…<br /><br />But first Joe has to make it through bootcamp.",
+        "authors": {
+          "author": {
+            "id": "5804792",
+            "name": "Sara  King",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1333411064p5/5804792.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1333411064p2/5804792.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/5804792.Sara_King"
+            },
+            "avr_rate": "4.19",
+            "r_count": "23905",
+            "trc": "1196"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "24583189"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": "Wed Feb 04 15:51:16 -0800 2015",
+      "read_at": " Mar 23 04:54:30 -0700 2015",
+      "date_added": " Jan 16 17:28:56 -0800 2015",
+      "date_updated": " Mar 23 04:54:30 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1170796853"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1170796853"
+      }
+    },
+    {
+      "id": "1166466609",
+      "book": {
+        "id": "20575425",
+        "isbn": "0374292086",
+        "isbn13": "9780374292089",
+        "trc": "2175",
+        "title": "Wolf in White Van",
+        "tws": "Wolf in White Van",
+        "img": "https://images.gr-assets.com/books/1393646533m/20575425.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1393646533s/20575425.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/20575425-wolf-in-white-van",
+        "num_pages": "224",
+        "ei": "",
+        "pub": "Farrar, Straus and Giroux",
+        "pub_day": "16",
+        "pub_year": "2014",
+        "pub_month": "9",
+        "avr_rate": "3.72",
+        "r_count": "16578",
+        "desc": "Welcome to Trace Italian, a game of strategy and survival! You may now make your first move. Isolated by a disfiguring injury since the age of 17, Sean Phillips crafts imaginary worlds for strangers to play in. From his small apartment in Southern California, he orchestrates fantastic adventures where possibilities, both dark and bright, open in the boundaries between the real and the imagined. As the creator of Trace Italian - a text-based, roleplaying game played through the mail - Sean guides players from around the world through his intricately imagined terrain, which they navigate and explore, turn by turn, seeking sanctuary in a ravaged, savage future America. Lance and Carrie are high school students from Florida, explorers of the Trace. But when they take their play into the real world, disaster strikes, and Sean is called to account for it. In the process, he is pulled back through time, tunneling toward the moment of his own self-inflicted departure from the world in which most people live.<br /><br />Brilliantly constructed, Wolf in White Van unfolds in reverse until we arrive at both the beginning and the climax: the event that has shaped so much of Sean’s life. Beautifully written and unexpectedly moving, John Darnielle’s audacious and gripping debut novel is a marvel of storytelling brio and genuine literary delicacy.",
+        "authors": {
+          "author": {
+            "id": "1029937",
+            "name": "John Darnielle",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1337946622p5/1029937.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1337946622p2/1029937.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/1029937.John_Darnielle"
+            },
+            "avr_rate": "3.62",
+            "r_count": "24317",
+            "trc": "3867"
+          }
+        },
+        "pub": "2014",
+        "work": {
+          "id": "39843433"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "883056159"
+          }
+        ]
+      },
+      "date_added": " Jan 12 18:09:58 -0800 2015",
+      "date_updated": " Jan 12 18:09:59 -0800 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1166466609"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1166466609"
+      }
+    },
+    {
+      "id": "1152519104",
+      "book": {
+        "id": "30036",
+        "isbn": "0441203981",
+        "isbn13": "9780441203987",
+        "trc": "538",
+        "title": "Elric of Melniboné (Elric, #1)",
+        "tws": "Elric of Melniboné",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/30036.Elric_of_Melnibon_",
+        "num_pages": "181",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub": "Ace Books",
+        "pub_day": "15",
+        "pub_year": "1987",
+        "pub_month": "7",
+        "avr_rate": "3.89",
+        "r_count": "19138",
+        "desc": "It is the colour of a bleached skull, his flesh; and the long hair that flows below his shoulders is milk-white. From the tapering, beautiful head stare two slanting eyes, crimson and moody....He is Elric, Emperor of Melnibone, cursed with a keen and cynical intelligence, schooled in the art of sorcery -- the hero of Michael Moorcock's remarkable epic of conflict and adventure at the dawn of human history...Included is a dramatic introduction read by Michael Moorcock over 10 mins in length.",
+        "authors": {
+          "author": {
+            "id": "16939",
+            "name": "Michael Moorcock",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1424079041p5/16939.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1424079041p2/16939.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/16939.Michael_Moorcock"
+            },
+            "avr_rate": "3.94",
+            "r_count": "205406",
+            "trc": "7907"
+          }
+        },
+        "pub": "1987",
+        "work": {
+          "id": "388812"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "871724048"
+          }
+        ]
+      },
+      "date_added": " Jan 02 18:21:46 -0800 2015",
+      "date_updated": " Jan 02 18:21:48 -0800 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1152519104"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1152519104"
+      }
+    },
+    {
+      "id": "1145028738",
+      "book": {
+        "id": "1054142",
+        "isbn": "0345491572",
+        "isbn13": "9780345491572",
+        "trc": "119",
+        "title": "Firstborn (A Time Odyssey, #3)",
+        "tws": "Firstborn",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/1054142.Firstborn",
+        "num_pages": "364",
+        "ei": "",
+        "pub": "Del Rey Books",
+        "pub_day": "26",
+        "pub_year": "2007",
+        "pub_month": "12",
+        "avr_rate": "3.72",
+        "r_count": "2663",
+        "desc": "The Firstborn-the mysterious race of aliens who first became known to science fiction fans as the builders of the iconic black monolith in 2001: A Space Odyssey-have inhabited legendary master of science fiction Sir Arthur C. Clarke's writing for decades. With Time's Eye and Sunstorm, the first two books in their acclaimed Time Odyssey series, Clarke and his brilliant co-author Stephen Baxter imagined a near-future in which the Firstborn seek to stop the advance of human civilization by employing a technology indistinguishable from magic. Their first act was the Discontinuity, in which Earth was carved into sections from different eras of history, restitched into a patchwork world, and renamed Mir. Mir's inhabitants included such notables as Alexander the Great, Genghis Khan, and United Nations peacekeeper Bisesa Dutt. For reasons unknown to her, Bisesa entered into communication with an alien artifact of inscrutable purpose and godlike power-a power that eventually returned her to Earth. There, she played an instrumental role in humanity's race against time to stop a doomsday event: a massive solar storm triggered by the alien Firstborn designed to eradicate all life from the planet. That fate was averted at an inconceivable price. Now, twenty-seven years later, the Firstborn are back. This time, they are pulling no punches: They have sent a quantum bomb. Speeding toward Earth, it is a device that human scientists can barely comprehend, that cannot be stopped or destroyed-and one that will obliterate Earth. Bisesa's desperate quest for answers sends her first to Mars and then to Mir, which is itself threatened with extinction. The end seems inevitable. But as shockingnew insights emerge into the nature of the Firstborn and their chilling plans for mankind, an unexpected ally appears from light-years away.",
+        "authors": {
+          "author": {
+            "id": "7779",
+            "name": "Arthur C. Clarke",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1357191481p5/7779.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1357191481p2/7779.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/7779.Arthur_C_Clarke"
+            },
+            "avr_rate": "3.94",
+            "r_count": "842595",
+            "trc": "24041"
+          }
+        },
+        "pub": "2007",
+        "work": {
+          "id": "3209871"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "865658699"
+          }
+        ]
+      },
+      "date_added": " Dec 28 18:22:12 -0800 2014",
+      "date_updated": " Dec 28 18:22:13 -0800 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1145028738"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1145028738"
+      }
+    },
+    {
+      "id": "1137953792",
+      "book": {
+        "id": "17171909",
+        "isbn": "1611099692",
+        "isbn13": "9781611099690",
+        "trc": "1281",
+        "title": "Brilliance (Brilliance Saga, #1)",
+        "tws": "Brilliance",
+        "img": "https://images.gr-assets.com/books/1437159954m/17171909.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1437159954s/17171909.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/17171909-brilliance",
+        "num_pages": "444",
+        "ei": "",
+        "pub": "Thomas & Mercer",
+        "pub_day": "16",
+        "pub_year": "2013",
+        "pub_month": "7",
+        "avr_rate": "3.95",
+        "r_count": "23282",
+        "desc": "In Wyoming, a little girl reads people’s darkest secrets by the way they fold their arms. In New York, a man sensing patterns in the stock market racks up $300 billion. In Chicago, a woman can go invisible by being where no one is looking. They’re called \"brilliants,\" and since 1980, one percent of people have been born this way. Nick Cooper is among them; a federal agent, Cooper has gifts rendering him exceptional at hunting terrorists. His latest target may be the most dangerous man alive, a brilliant drenched in blood and intent on provoking civil war. But to catch him, Cooper will have to violate everything he believes in - and betray his own kind.<br /><br />From Marcus Sakey, \"a modern master of suspense\" (Chicago Sun-Times) and \"one of our best storytellers\" (Michael Connelly), comes an adventure that’s at once breakneck thriller and shrewd social commentary; a gripping tale of a world fundamentally different and yet horrifyingly similar to our own, where being born gifted can be a terrible curse.",
+        "authors": {
+          "author": {
+            "id": "38652",
+            "name": "Marcus Sakey",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1493926532p5/38652.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1493926532p2/38652.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/38652.Marcus_Sakey"
+            },
+            "avr_rate": "3.97",
+            "r_count": "61467",
+            "trc": "5064"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "23599367"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Jan 01 08:20:24 -0800 2016",
+      "read_at": " Jan 14 10:56:39 -0800 2016",
+      "date_added": " Dec 21 19:21:54 -0800 2014",
+      "date_updated": " Jan 14 10:56:39 -0800 2016",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1137953792"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1137953792"
+      }
+    },
+    {
+      "id": "1137947114",
+      "book": {
+        "id": "13151129",
+        "isbn": "0765329042",
+        "isbn13": "9780765329042",
+        "trc": "1105",
+        "title": "Earth Unaware (The First Formic War, #1)",
+        "tws": "Earth Unaware",
+        "img": "https://images.gr-assets.com/books/1327948408m/13151129.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1327948408s/13151129.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13151129-earth-unaware",
+        "num_pages": "368",
+        "ei": "",
+        "avr_rate": "3.92",
+        "r_count": "30996",
+        "desc": "<div>\n  <p>The mining ship El Cavador is far out from Earth, in the deeps of the Kuiper Belt, beyond Pluto. Other mining ships, and the families that live on them, are few and far between this far out. So when El Cavador's telescopes pick up a fast-moving object coming in-system, it's hard to know what to make of it. It's massive and moving at a significant fraction of the speed of light.<br /><br />El Cavador has other problems. Their systems are old and failing. The family is getting too big for the ship. There are claim-jumping corporate ships bringing Asteroid Belt tactics to the Kuiper Belt. Worrying about a distant object that might or might not be an alien ship seems not important.<br /><br />They're wrong. It's the most important thing that has happened to the human race in a million years. The first Formic War is about to begin.</p>\n</div>",
+        "authors": {
+          "author": {
+            "id": "589",
+            "name": "Orson Scott Card",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1294099952p5/589.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1294099952p2/589.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/589.Orson_Scott_Card"
+            },
+            "avr_rate": "4.07",
+            "r_count": "2181886",
+            "trc": "93308"
+          }
+        },
+        "work": {
+          "id": "18329141"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "859830660"
+          }
+        ]
+      },
+      "date_added": " Dec 21 19:13:24 -0800 2014",
+      "date_updated": " Dec 21 19:13:25 -0800 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1137947114"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1137947114"
+      }
+    },
+    {
+      "id": "1137921242",
+      "book": {
+        "id": "18114057",
+        "isbn": "0525953183",
+        "isbn13": "9780525953180",
+        "trc": "750",
+        "title": "Influx",
+        "tws": "Influx",
+        "img": "https://images.gr-assets.com/books/1374634071m/18114057.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1374634071s/18114057.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/18114057-influx",
+        "num_pages": "406",
+        "ei": "",
+        "pub": "Dutton",
+        "pub_day": "20",
+        "pub_year": "2014",
+        "pub_month": "2",
+        "avr_rate": "3.91",
+        "r_count": "12448",
+        "desc": "<b>What if our civilization is more advanced than we know?</b><br /><br />The <i>New York Times</i> bestselling author of <i>Daemon</i> imagines a world in which decades of technological advances have been suppressed in an effort to prevent disruptive change.<br /><br />Are smart phones really humanity's most significant innovation since the moon landings? Or can something else explain why the bold visions of the 20th century--fusion power, genetic enhancements, artificial intelligence, cures for common disease, extended human life, and a host of other world-changing advances--have remained beyond our grasp? Why has the high-tech future that seemed imminent in the 1960's failed to arrive?<br /><br />Perhaps it did arrive...but only for a select few.<br /><br />Particle physicist Jon Grady is ecstatic when his team achieves what they've been working toward for years: a device that can reflect gravity. Their research will revolutionize the field of physics--the crowning achievement of a career. Grady expects widespread acclaim for his entire team. The Nobel. Instead, his lab is locked down by a shadowy organization whose mission is to prevent at all costs the social upheaval sudden technological advances bring. This Bureau of Technology Control uses the advanced technologies they have harvested over the decades to fulfill their mission.<br /><br />They are living in our future.<br /><br />Presented with the opportunity to join the BTC and improve his own technology in secret, Grady balks, and is instead thrown into a nightmarish high-tech prison built to hold rebellious geniuses like himself. With so many great intellects confined together, can Grady and his fellow prisoners conceive of a way to usher humanity out of its artificial dark age?<br /><br />And when they do, is it possible to defeat an enemy that wields a technological advantage half a century in the making?",
+        "authors": {
+          "author": {
+            "id": "1956402",
+            "name": "Daniel Suarez",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1265394868p5/1956402.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1265394868p2/1956402.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/1956402.Daniel_Suarez"
+            },
+            "avr_rate": "4.12",
+            "r_count": "75159",
+            "trc": "6237"
+          }
+        },
+        "pub": "2014",
+        "work": {
+          "id": "25441287"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Jan 13 10:32:05 -0800 2015",
+      "read_at": "Wed Feb 04 10:51:28 -0800 2015",
+      "date_added": " Dec 21 18:43:19 -0800 2014",
+      "date_updated": "Wed Feb 04 10:51:28 -0800 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1137921242"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1137921242"
+      }
+    },
+    {
+      "id": "1091237408",
+      "book": {
+        "id": "13641108",
+        "isbn": "0316219002",
+        "isbn13": "9780316219006",
+        "trc": "397",
+        "title": "Symbiont (Parasitology, #2)",
+        "tws": "Symbiont",
+        "img": "https://images.gr-assets.com/books/1393586567m/13641108.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1393586567s/13641108.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13641108-symbiont",
+        "num_pages": "608",
+        "format": "ebook",
+        "ei": "",
+        "pub": "Orbit",
+        "pub_day": "25",
+        "pub_year": "2014",
+        "pub_month": "11",
+        "avr_rate": "3.66",
+        "r_count": "4004",
+        "desc": "THE SECOND BOOK IN MIRA GRANT'S TERRIFYING PARASITOLOGY SERIES.<br /><br /><br />THE ENEMY IS INSIDE US.<br /><br />The SymboGen designed tapeworms were created to relieve humanity of disease and sickness. But the implants in the majority of the world's population began attacking their hosts turning them into a ravenous horde.<br /><br />Now those who do not appear to be afflicted are being gathered for quarantine as panic spreads, but Sal and her companions must discover how the tapeworms are taking over their hosts, what their eventual goal is, and how they can be stopped.",
+        "authors": {
+          "author": {
+            "id": "3153776",
+            "name": "Mira Grant",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1380320279p5/3153776.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1380320279p2/3153776.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/3153776.Mira_Grant"
+            },
+            "avr_rate": "3.94",
+            "r_count": "120068",
+            "trc": "14504"
+          }
+        },
+        "pub": "2014",
+        "work": {
+          "id": "19255873"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          },
+          {
+            "id": "started-not-finished",
+            "_exclusive": "false",
+            "rev_id": "883624538",
+            "_sortable": "false"
+          }
+        ]
+      },
+      "started_at": " Dec 02 10:44:03 -0800 2014",
+      "date_added": " Oct 28 07:05:55 -0700 2014",
+      "date_updated": " Jan 13 10:32:47 -0800 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1091237408"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1091237408"
+      }
+    },
+    {
+      "id": "1079925616",
+      "book": {
+        "id": "10198374",
+        "isbn": "1444709038",
+        "isbn13": "9781444709032",
+        "trc": "198",
+        "title": "Outpost (Outpost, #1)",
+        "tws": "Outpost",
+        "img": "https://images.gr-assets.com/books/1310441884m/10198374.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1310441884s/10198374.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/10198374-outpost",
+        "num_pages": "388",
+        "ei": "",
+        "pub": "Hodder",
+        "pub_day": "14",
+        "pub_year": "2011",
+        "pub_month": "4",
+        "avr_rate": "3.65",
+        "r_count": "2059",
+        "desc": "They took the job to escape the world. <br />They didn't expect the world to end. <br /><br />Kasker Rampart: a derelict refinery platform moored in the Arctic Ocean. A skeleton crew of fifteen fight boredom and despair as they wait for a relief ship to take them home. But the world beyond their frozen wasteland has gone to hell. Cities lie ravaged by a global pandemic. One by one TV channels die, replaced by silent wavebands. The Rampart crew are marooned. They must survive the long Arctic winter, then make their way home alone. They battle starvation and hypothermia, unaware that the deadly contagion that has devastated the world is heading their way...",
+        "authors": {
+          "author": {
+            "id": "3465340",
+            "name": "Adam Baker",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1308573208p5/3465340.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1308573208p2/3465340.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/3465340.Adam_Baker"
+            },
+            "avr_rate": "3.66",
+            "r_count": "3541",
+            "trc": "443"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "15097594"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "1101659881"
+          },
+          {
+            "id": "possible-reads",
+            "_exclusive": "false",
+            "rev_id": "809950477",
+            "_sortable": "false"
+          }
+        ]
+      },
+      "date_added": " Oct 14 07:05:38 -0700 2014",
+      "date_updated": " Oct 06 17:35:46 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1079925616"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1079925616"
+      }
+    },
+    {
+      "id": "1079563945",
+      "book": {
+        "id": "13184491",
+        "isbn": "0984755705",
+        "isbn13": "9780984755707",
+        "trc": "291",
+        "title": "Avogadro Corp (Singularity #1)",
+        "tws": "Avogadro Corp",
+        "img": "https://images.gr-assets.com/books/1410758407m/13184491.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1410758407s/13184491.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13184491-avogadro-corp",
+        "num_pages": "302",
+        "ei": "",
+        "pub": "Liquididea Press",
+        "pub_day": "19",
+        "pub_year": "2011",
+        "pub_month": "11",
+        "avr_rate": "3.78",
+        "r_count": "4193",
+        "desc": "David Ryan is the designer of ELOPe, an email language optimization program, that if successful, will make his career. But when the project is suddenly in danger of being canceled, David embeds a hidden directive in the software accidentally creating a runaway artificial intelligence.<br /><br />David and his team are initially thrilled when the project is allocated extra servers and programmers. But excitement turns to fear as the team realizes that they are being manipulated by an A.I. who is redirecting corporate funds, reassigning personnel and arming itself in pursuit of its own agenda.",
+        "authors": {
+          "author": {
+            "id": "5350056",
+            "name": "William Hertling",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1330379431p5/5350056.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1330379431p2/5350056.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/5350056.William_Hertling"
+            },
+            "avr_rate": "3.93",
+            "r_count": "11359",
+            "trc": "905"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "18281456"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "809642822"
+          }
+        ]
+      },
+      "date_added": " Oct 13 18:24:05 -0700 2014",
+      "date_updated": " Oct 13 18:24:06 -0700 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1079563945"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1079563945"
+      }
+    },
+    {
+      "id": "1079555655",
+      "book": {
+        "id": "18453098",
+        "isbn": "031621776X",
+        "isbn13": "9780316217767",
+        "trc": "164",
+        "title": "Defenders",
+        "tws": "Defenders",
+        "img": "https://images.gr-assets.com/books/1390857049m/18453098.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1390857049s/18453098.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/18453098-defenders",
+        "num_pages": "512",
+        "ei": "",
+        "pub": "Orbit",
+        "pub_day": "13",
+        "pub_year": "2014",
+        "pub_month": "5",
+        "avr_rate": "3.59",
+        "r_count": "1468",
+        "desc": "<b>A new epic of alien invasion and human resistance by Hugo Award-winning author Will McIntosh. </b><b>\n  <br /></b><b>\n  <i>Our Darkest Hour.</i>\n</b><b>\n  <br /></b><b>\n  <i>Our Only Hope.</i>\n</b><br />The invaders came to claim earth as their own, overwhelming us with superior weapons and the ability to read our minds like open books. <br />Our only chance for survival was to engineer a new race of perfect soldiers to combat them. Seventeen feet tall, knowing and loving nothing but war, their minds closed to the aliens. <br />But these saviors could never be our servants. And what is done cannot be undone.",
+        "authors": {
+          "author": {
+            "id": "2938554",
+            "name": "Will McIntosh",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1363376502p5/2938554.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1363376502p2/2938554.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/2938554.Will_McIntosh"
+            },
+            "avr_rate": "3.76",
+            "r_count": "19965",
+            "trc": "2306"
+          }
+        },
+        "pub": "2014",
+        "work": {
+          "id": "26098011"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": "Wed Nov 12 20:50:00 -0800 2014",
+      "read_at": " Dec 02 10:14:11 -0800 2014",
+      "date_added": " Oct 13 18:13:07 -0700 2014",
+      "date_updated": " Dec 02 10:14:11 -0800 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1079555655"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1079555655"
+      }
+    },
+    {
+      "id": "1079549816",
+      "book": {
+        "id": "13641105",
+        "isbn": "0316218952",
+        "isbn13": "9780316218955",
+        "trc": "1661",
+        "title": "Parasite (Parasitology, #1)",
+        "tws": "Parasite",
+        "img": "https://images.gr-assets.com/books/1362417533m/13641105.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1362417533s/13641105.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13641105-parasite",
+        "num_pages": "504",
+        "ei": "",
+        "pub": "Orbit",
+        "pub_day": "29",
+        "pub_year": "2013",
+        "pub_month": "10",
+        "avr_rate": "3.65",
+        "r_count": "11274",
+        "desc": "A decade in the future, humanity thrives in the absence of sickness and disease.<br /><br />We owe our good health to a humble parasite - a genetically engineered tapeworm developed by the pioneering SymboGen Corporation. When implanted, the tapeworm protects us from illness, boosts our immune system - even secretes designer drugs. It's been successful beyond the scientists' wildest dreams. Now, years on, almost every human being has a SymboGen tapeworm living within them.<br /><br />But these parasites are getting restless. They want their own lives...and will do anything to get them.",
+        "authors": {
+          "author": {
+            "id": "3153776",
+            "name": "Mira Grant",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1380320279p5/3153776.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1380320279p2/3153776.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/3153776.Mira_Grant"
+            },
+            "avr_rate": "3.94",
+            "r_count": "120068",
+            "trc": "14504"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "19255869"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Oct 27 08:55:45 -0700 2014",
+      "read_at": " Nov 11 04:27:11 -0800 2014",
+      "date_added": " Oct 13 18:05:07 -0700 2014",
+      "date_updated": " Nov 11 04:27:11 -0800 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1079549816"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1079549816"
+      }
+    },
+    {
+      "id": "1052868415",
+      "book": {
+        "id": "7132363",
+        "isbn": "0525951571",
+        "isbn13": "9780525951575",
+        "trc": "927",
+        "title": "Freedom™ (Daemon, #2)",
+        "tws": "Freedom™",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/7132363-freedom",
+        "num_pages": "406",
+        "ei": "",
+        "avr_rate": "4.27",
+        "r_count": "20469",
+        "desc": "<b>The propulsive, shockingly plausible sequel to <i>New York Times</i> bestseller <i>Daemon</i>, the \"Greatest. Techno-thriller. Period.\"* <br /> *William O'Brien, former director of cybersecurity and communications systems policy at the White House </b><br /><br /> 2009 saw one of the most inventive techno-thriller debuts in decades as Daniel Suarez introduced his terrifying and tantalizing vision of a new world order. <i>Daemon</i> captured the attention of the tech community, became a national bestseller, garnered attention from futurists, literary critics, and the halls of government-leaving readers clamoring for the conclusion to Suarez's epic story. <br /><br /> In the opening chapters of <i>Freedom(tm)</i>, the Daemon is well on its way toward firm control of the modern world, using an expanded network of real-world, dispossessed darknet operatives to tear apart civilization and rebuild it anew. Civil war breaks out in the American Midwest, with the mainstream media stoking public fear in the face of this 'Corn Rebellion'. Former detective Pete Sebeck, now the Daemon's most famous and most reluctant operative, must lead a small band of enlightened humans in a populist movement designed to protect the new world order. <br /><br /> But the private armies of global business are preparing to crush the Daemon once and for all. In a world of conflicted loyalties, rapidly diminishing government control, and a new choice between free will and the continuing comforts of ignorance, the stakes could not be higher: hanging in the balance is nothing less than democracy's last hope to survive the technology revolution. <br /><br />",
+        "authors": {
+          "author": {
+            "id": "1956402",
+            "name": "Daniel Suarez",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1265394868p5/1956402.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1265394868p2/1956402.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/1956402.Daniel_Suarez"
+            },
+            "avr_rate": "4.12",
+            "r_count": "75159",
+            "trc": "6237"
+          }
+        },
+        "work": {
+          "id": "7394861"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Sep 12 06:08:39 -0700 2014",
+      "read_at": " Sep 21 11:19:59 -0700 2014",
+      "date_added": " Sep 12 05:59:24 -0700 2014",
+      "date_updated": " Sep 21 11:19:59 -0700 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1052868415"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1052868415"
+      }
+    },
+    {
+      "id": "1006886186",
+      "book": {
+        "id": "274043",
+        "isbn": "0380701774",
+        "isbn13": "9780380701773",
+        "trc": "112",
+        "title": "Software (Ware, #1)",
+        "tws": "Software",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/274043.Software",
+        "num_pages": "167",
+        "ei": "",
+        "pub": "Eos",
+        "pub_day": "1",
+        "pub_year": "1987",
+        "pub_month": "10",
+        "avr_rate": "3.75",
+        "r_count": "3428",
+        "desc": "Cobb Anderson created the \"boppers,\" sentient robots that overthrew their human overlords. But now Cobb is just an aging alcoholic waiting to die, and the big boppers are threatening to absorb all of the little boppers--and eventually every human--into a giant, melded consciousness. Some of the little boppers aren't too keen on the idea, and a full-scale robot revolt is underway on the moon (where the boppers live). Meanwhile, bopper Ralph Numbers wants to give Cobb immortality by letting a big bopper slice up his brain and tape his \"software.\" It seems like a good idea to Cobb.",
+        "authors": {
+          "author": {
+            "id": "130704",
+            "name": "Rudy Rucker",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1238411948p5/130704.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1238411948p2/130704.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/130704.Rudy_Rucker"
+            },
+            "avr_rate": "3.82",
+            "r_count": "24882",
+            "trc": "1468"
+          }
+        },
+        "pub": "1987",
+        "work": {
+          "id": "2910608"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Jul 25 18:06:18 -0700 2014",
+      "date_updated": " Jul 25 18:06:33 -0700 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1006886186"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1006886186"
+      }
+    },
+    {
+      "id": "1006885190",
+      "book": {
+        "id": "340819",
+        "isbn": "1596871067",
+        "isbn13": "9781596871069",
+        "trc": "322",
+        "title": "Blood Music",
+        "tws": "Blood Music",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/340819.Blood_Music",
+        "num_pages": "344",
+        "ei": "",
+        "pub": "iBooks",
+        "pub_day": "1",
+        "pub_year": "2005",
+        "pub_month": "9",
+        "avr_rate": "3.80",
+        "r_count": "8693",
+        "desc": "Vergil Ulam has created cellular material that can outperform rats in laboratory tests. When the authorities rule that he has exceeded his authorization, Vergil loses his job, but is determined to take his discovery with him.",
+        "authors": {
+          "author": {
+            "id": "16024",
+            "name": "Greg Bear",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1223822211p5/16024.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1223822211p2/16024.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/16024.Greg_Bear"
+            },
+            "avr_rate": "3.84",
+            "r_count": "450596",
+            "trc": "12798"
+          }
+        },
+        "pub": "2005",
+        "work": {
+          "id": "2563510"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "749005770"
+          }
+        ]
+      },
+      "date_added": " Jul 25 18:04:51 -0700 2014",
+      "date_updated": " Jul 25 18:04:52 -0700 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1006885190"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1006885190"
+      }
+    },
+    {
+      "id": "1006884423",
+      "book": {
+        "id": "83518",
+        "isbn": "0143037889",
+        "isbn13": "9780143037880",
+        "trc": "604",
+        "title": "The Singularity is Near: When Humans Transcend Biology",
+        "tws": "The Singularity is Near: When Humans Transcend Biology",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/83518.The_Singularity_is_Near",
+        "num_pages": "652",
+        "format": "Trade Paperback",
+        "ei": "",
+        "pub": "Penguin",
+        "pub_day": "26",
+        "pub_year": "2006",
+        "pub_month": "9",
+        "avr_rate": "3.94",
+        "r_count": "7624",
+        "desc": "For over three decades, Ray Kurzweil has been one of the most respected and provocative advocates of the role of technology in our future. In his classic <i>The Age of Spiritual Machines</i>, he argued that computers would soon rival the full range of human intelligence at its best. Now he examines the next step in this inexorable evolutionary process: the union of human and machine, in which the knowledge and skills embedded in our brains will be combined with the vastly greater capacity, speed, and knowledge-sharing ability of our creations.",
+        "authors": {
+          "author": {
+            "id": "47744",
+            "name": "Ray Kurzweil",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1238471819p5/47744.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1238471819p2/47744.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/47744.Ray_Kurzweil"
+            },
+            "avr_rate": "3.93",
+            "r_count": "17987",
+            "trc": "1447"
+          }
+        },
+        "pub": "2006",
+        "work": {
+          "id": "1080"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Jul 25 18:03:41 -0700 2014",
+      "date_updated": " Jul 25 18:03:50 -0700 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1006884423"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1006884423"
+      }
+    },
+    {
+      "id": "1006883277",
+      "book": {
+        "id": "185827",
+        "isbn": "076534422X",
+        "isbn13": "9780765344229",
+        "trc": "100",
+        "title": "Newton's Wake: A Space Opera",
+        "tws": "Newton's Wake: A Space Opera",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/185827.Newton_s_Wake",
+        "num_pages": "352",
+        "ei": "",
+        "pub": "Tor Science Fiction",
+        "pub_day": "1",
+        "pub_year": "2005",
+        "pub_month": "3",
+        "avr_rate": "3.59",
+        "r_count": "2213",
+        "desc": "ACROSS THE UNIVERSE<br /><br />In the aftermath of the Hard Rapture-a cataclysmic war sparked by the explosive evolution of Earth's artificial intelligences into godlike beings-a few remnants of humanity managed to survive. Some even prospered.<br /><br />Lucinda Carlyle, head of an ambitious clan of galactic entrepreneurs, had carved out a profitable niche for herself and her kin by taking control of the Skein, a chain of interstellar gates left behind by the posthumans. But on a world called Eurydice, a remote planet at the farthest rim of the galaxy, Lucinda stumbled upon a forgotten relic of the past that could threaten the Carlyles' way of life.<br /><br />For, in the last instants before the war, a desperate band of scientists had scanned billions of human personalities into digital storage, and sent them into space in the hope of one day resurrecting them to the flesh. Now, armed, dangerous, and very much alive, these revenants have triggered a fateful confrontation that could shatter the balance of power, and even change the nature of reality itself.<br />",
+        "authors": {
+          "author": {
+            "id": "108281",
+            "name": "Ken MacLeod",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1283522468p5/108281.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1283522468p2/108281.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/108281.Ken_MacLeod"
+            },
+            "avr_rate": "3.72",
+            "r_count": "26719",
+            "trc": "1833"
+          }
+        },
+        "pub": "2005",
+        "work": {
+          "id": "179625"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "749004241"
+          }
+        ]
+      },
+      "date_added": " Jul 25 18:01:58 -0700 2014",
+      "date_updated": " Jul 25 18:01:59 -0700 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1006883277"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1006883277"
+      }
+    },
+    {
+      "id": "1006855809",
+      "book": {
+        "id": "132694",
+        "isbn": "0765313588",
+        "isbn13": "9780765313584",
+        "trc": "280",
+        "title": "When Gravity Fails",
+        "tws": "When Gravity Fails",
+        "img": "https://images.gr-assets.com/books/1316729685m/132694.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1316729685s/132694.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/132694.When_Gravity_Fails",
+        "ei": "",
+        "avr_rate": "3.93",
+        "r_count": "5363",
+        "desc": "In a decadent world of cheap pleasures and easy death, Marid Audrian has kept his independence the hard way. Still, like everything else in the Budayeen, he’s available…for a price.<br /><br />For a new kind of killer roams the streets of the Arab ghetto, a madman whose bootlegged personality cartridges range from a sinister James Bond to a sadistic disemboweler named Khan. And Marid Audrian has been made an offer he can’t refuse.<br /><br />The 200-year-old godfather of the Budayeen’s underworld has enlisted Marid as his instrument of vengeance. But first Marid must undergo the most sophisticated of surgical implants before he dares to confront a killer who carries the power of every psychopath since the beginning of time.<br /><br />Wry, savage, and unignorable, <i>When Gravity Fails</i> was hailed as a classic by Effinger’s fellow SF writers on its original publication in 1987, and the sequence of Marid Audrian novels it begins were the culmination of his career.",
+        "authors": {
+          "author": {
+            "id": "76471",
+            "name": "George Alec Effinger",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1329456097p5/76471.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1329456097p2/76471.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/76471.George_Alec_Effinger"
+            },
+            "avr_rate": "3.93",
+            "r_count": "31695",
+            "trc": "1429"
+          }
+        },
+        "work": {
+          "id": "127822"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Feb 02 18:57:06 -0800 2016",
+      "read_at": "Wed Feb 03 18:15:24 -0800 2016",
+      "date_added": " Jul 25 17:17:49 -0700 2014",
+      "date_updated": "Wed Feb 03 18:15:24 -0800 2016",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/1006855809"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/1006855809"
+      }
+    },
+    {
+      "id": "981626751",
+      "book": {
+        "id": "17182126",
+        "isbn": "0385743564",
+        "isbn13": "9780385743563",
+        "trc": "7224",
+        "title": "Steelheart (The Reckoners, #1)",
+        "tws": "Steelheart",
+        "img": "https://images.gr-assets.com/books/1357576738m/17182126.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1357576738s/17182126.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/17182126-steelheart",
+        "num_pages": "386",
+        "ei": "",
+        "pub": "Delacorte Press",
+        "pub_day": "24",
+        "pub_year": "2013",
+        "pub_month": "9",
+        "avr_rate": "4.16",
+        "r_count": "105067",
+        "desc": "Ten years ago, Calamity came. It was a burst in the sky that gave ordinary men and women extraordinary powers. The awed public started calling them Epics. But Epics are no friend of man. With incredible gifts came the desire to rule. And to rule man you must crush his will.<br /><br />Nobody fights the Epics...nobody but the Reckoners. A shadowy group of ordinary humans, they spend their lives studying Epics, finding their weaknesses, and then assassinating them.<br /><br />And David wants in. He wants Steelheart — the Epic who is said to be invincible. The Epic who killed David's father. For years, like the Reckoners, David's been studying, and planning — and he has something they need. Not an object, but an experience.<br /><br />He's seen Steelheart bleed. And he wants revenge.",
+        "authors": {
+          "author": {
+            "id": "38550",
+            "name": "Brandon Sanderson",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1394044556p5/38550.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1394044556p2/38550.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson"
+            },
+            "avr_rate": "4.37",
+            "r_count": "2042403",
+            "trc": "134781"
+          }
+        },
+        "pub": "2013",
+        "work": {
+          "id": "21366540"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Jun 29 19:23:44 -0700 2014",
+      "date_updated": " Apr 23 16:02:45 -0700 2015",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/981626751"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/981626751"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2255 @@
+{
+  "review": [
+    {
+      "id": "401107205",
+      "book": {
+        "id": "278280",
+        "isbn": "1591024366",
+        "isbn13": "9781591024361",
+        "trc": "264",
+        "title": "River of Gods (India 2047, #1)",
+        "tws": "River of Gods",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/278280.River_of_Gods",
+        "num_pages": "597",
+        "ei": "",
+        "pub": "Pyr",
+        "pub_day": "1",
+        "pub_year": "2006",
+        "pub_month": "3",
+        "avr_rate": "3.92",
+        "r_count": "4712",
+        "desc": "As Mother India approaches her centenary, nine people are going about their business--a gangster, a cop, his wife, a politician, a stand-up comic, a set designer, a journalist, a scientist, and a dropout. And so is Aj--the waif, the mind reader, the prophet--when she one day finds a man who wants to stay hidden. <br /><br />In the next few weeks, they will all be swept together to decide the fate of the nation. <br /><br /><i>River of Gods</i> teems with the life of a country choked with peoples and cultures--one and a half billion people, twelve semi-independent nations, nine million gods. Ian McDonald has written the great Indian novel of the new millennium, in which a war is fought, a love betrayed, a message from a different world decoded, as the great river Ganges flows on.",
+        "authors": {
+          "author": {
+            "id": "25376",
+            "name": "Ian McDonald",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1372533252p5/25376.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1372533252p2/25376.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/25376.Ian_McDonald"
+            },
+            "avr_rate": "3.84",
+            "r_count": "34337",
+            "trc": "4216"
+          }
+        },
+        "pub": "2006",
+        "work": {
+          "id": "2440580"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          },
+          {
+            "id": "started-not-finished",
+            "_exclusive": "false",
+            "rev_id": "264246071",
+            "_sortable": "false"
+          }
+        ]
+      },
+      "date_added": " Aug 26 19:35:24 -0700 2012",
+      "date_updated": " Aug 26 19:35:24 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/401107205"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/401107205"
+      }
+    },
+    {
+      "id": "355269504",
+      "book": {
+        "id": "6981853",
+        "isbn": "0345522052",
+        "isbn13": "9780345522054",
+        "trc": "4",
+        "title": "In His Majesty's Service (Temeraire, #1-3)",
+        "tws": "In His Majesty's Service",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/6981853-in-his-majesty-s-service",
+        "num_pages": "818",
+        "ei": "",
+        "pub": "Del Rey Books",
+        "pub_day": "1",
+        "pub_year": "2009",
+        "pub_month": "12",
+        "avr_rate": "4.25",
+        "r_count": "2703",
+        "desc": "Together in one volume, here are the first three novels in Naomi Novik's\" New York Times \"bestselling Temeraire series, combining the gripping history of the Napoleonic era, the thrill of Anne McCaffrey's Dragonriders of Pern books, and the excitement of Patrick O'Brian's seafaring adventures. In His Majesty's Service also includes an exclusive original Temeraire short story. <br />Capt. Will Laurence is serving with honor in the British Navy when his ship captures a French frigate harboring most a unusual cargo-an incalculably valuable dragon egg. When the egg hatches, Laurence unexpectedly becomes the master of the young dragon Temeraire and finds himself on an extraordinary journey that will shatter his orderly, respectable life and alter the course of his nation's history. <br />Thrust into England's Aerial Corps, Laurence and Temeraire undergo rigorous training while staving off French forces intent on breaching British soil. But the pair has more than France to contend with when China learns that an imperial dragon intended for Napoleon-Temeraire himself- has fallen into British hands. The emperor summons the new pilot and his dragon to the Far East, a long voyage fraught with peril and intrigue. From England's shores to China's palaces, from the Silk Road's outer limits to the embattled borders of Prussia and Poland, Laurence and Temeraire must defend their partnership and their country from powerful adversaries around the globe. But can they succeed against the massed forces of Bonaparte's implacable army? <br />",
+        "authors": {
+          "author": {
+            "id": "8730",
+            "name": "Naomi Novik",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1206646770p5/8730.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1206646770p2/8730.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/8730.Naomi_Novik"
+            },
+            "avr_rate": "4.01",
+            "r_count": "297405",
+            "trc": "29511"
+          }
+        },
+        "pub": "2009",
+        "work": {
+          "id": "403779"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "234787438"
+          }
+        ]
+      },
+      "date_added": " Jun 25 06:15:09 -0700 2012",
+      "date_updated": " Jan 06 09:06:28 -0800 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/355269504"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/355269504"
+      }
+    },
+    {
+      "id": "320583717",
+      "book": {
+        "id": "12060586",
+        "isbn": "0312570023",
+        "isbn13": "9780312570026",
+        "trc": "70",
+        "title": "Aftermath (Autumn, #5)",
+        "tws": "Aftermath",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/12060586-aftermath",
+        "num_pages": "400",
+        "ei": "",
+        "pub": "St. Martin's Griffin",
+        "pub_day": "13",
+        "pub_year": "2012",
+        "pub_month": "3",
+        "avr_rate": "4.08",
+        "r_count": "1066",
+        "desc": "<i>It's been almost one hundred days since a killer disease wiped out 99% of the population. Three months since the dead reanimated. Survivors are few and far between now, and those who remain stick together to give themselves the best possible chance of continuing to stay alive. They are the last of the living.</i><br /><i></i><br /><br /><i></i><br /><i>A band of refugees has taken shelter in a medieval castle – a fortress that has stood strong for hundreds of years. Besieged by the dead, they only emerge when it's absolutely necessary. As autumn turns to winter, however, the balance of power slowly begins to shift.</i><br /><br /><i></i><br /><i>The unexpected appearance of survivors from another group changes everything. They bring choice, and an alternative way of life which is a far cry from the world everyone has been forced to leave behind. Society as we know it has crumbled beyond repair and things will never be the same again. Some people are ready to embrace this change, others can't let go of the past. The choice is divisive.</i><br /><br /><i></i><br /><i>Are we entering mankind's final days? In the aftermath of the disease, will the last survivors destroy each other, or will the dead destroy them all?</i>",
+        "authors": {
+          "author": {
+            "id": "117582",
+            "name": "David Moody",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p5/117582.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p2/117582.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/117582.David_Moody"
+            },
+            "avr_rate": "3.78",
+            "r_count": "34652",
+            "trc": "2754"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "17027804"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Apr 28 17:12:27 -0700 2012",
+      "read_at": " May 03 18:23:42 -0700 2012",
+      "date_added": " Apr 28 17:12:27 -0700 2012",
+      "date_updated": " May 03 18:23:42 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/320583717"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/320583717"
+      }
+    },
+    {
+      "id": "318913992",
+      "book": {
+        "id": "10869795",
+        "isbn": "0312570015",
+        "isbn13": "9780312570019",
+        "trc": "60",
+        "title": "Disintegration (Autumn, #4)",
+        "tws": "Disintegration",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/10869795-disintegration",
+        "num_pages": "342",
+        "ei": "",
+        "pub": "St. Martin's Griffin (Thomas Dunne Books)",
+        "avr_rate": "3.95",
+        "r_count": "1272",
+        "desc": "<div>\n  <p>The penultimate chapter in the riveting horror series!<br /><br />Forty days have passed since the world died. Billions of corpses walk the Earth. Everything is disintegrating. . . . <br /><br />            A group of eleven men and women have survived against the odds. On an almost daily basis, they attack the dead with brutal ferocity, tearing through them with utter contempt.<br /><br />            Somewhere nearby, out of sight and out of earshot, is another group that has adopted a completely different survival strategy. Where the others have used brutality and strength, these people have demonstrated subtlety, planning, and tactics.<br /><br />            A series of horrific events force the two groups together. Backed into a corner and surrounded by hundreds of thousands of corpses, they all know that their final battle with the dead is about to begin. </p>\n</div>",
+        "authors": {
+          "author": {
+            "id": "117582",
+            "name": "David Moody",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p5/117582.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p2/117582.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/117582.David_Moody"
+            },
+            "avr_rate": "3.78",
+            "r_count": "34652",
+            "trc": "2754"
+          }
+        },
+        "work": {
+          "id": "15785048"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": "Wed Apr 25 16:56:02 -0700 2012",
+      "read_at": " Apr 28 17:06:29 -0700 2012",
+      "date_added": "Wed Apr 25 16:56:02 -0700 2012",
+      "date_updated": " Apr 28 17:06:29 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/318913992"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/318913992"
+      }
+    },
+    {
+      "id": "315131192",
+      "book": {
+        "id": "77711",
+        "isbn": "0812515285",
+        "isbn13": "9780812515282",
+        "trc": "1616",
+        "title": "A Fire Upon the Deep (Zones of Thought, #1)",
+        "tws": "A Fire Upon the Deep",
+        "img": "https://images.gr-assets.com/books/1333915005m/77711.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1333915005s/77711.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep",
+        "num_pages": "613",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub": "Tor Science Fiction",
+        "avr_rate": "4.13",
+        "r_count": "41279",
+        "desc": "<i>Alternate Cover Edition can be found <a href=\"https://www.goodreads.com/book/show/22062498-a-fire-upon-the-deep\" rel=\"nofollow\">here</a>. </i><br /><br /><i>A Fire upon the Deep</i> is the big, breakout book that fulfills the promise of Vinge's career to date: a gripping tale of galactic war told on a cosmic scale.<br /><br />Thousands of years hence, many races inhabit a universe where a mind's potential is determined by its location in space, from superintelligent entities in the Transcend, to the limited minds of the Unthinking Depths, where only simple creatures and technology can function. Nobody knows what strange force partitioned space into these \"regions of thought,\" but when the warring Straumli realm use an ancient Transcendent artifact as a weapon, they unwittingly unleash an awesome power that destroys thousands of worlds and enslaves all natural and artificial intelligence.<br /><br />Fleeing the threat, a family of scientists, including two children, are taken captive by the Tines, an alien race with a harsh medieval culture, and used as pawns in a ruthless power struggle. A rescue mission, not entirely composed of humans, must rescue the children-and a secret that may save the rest of interstellar civilization.",
+        "authors": {
+          "author": {
+            "id": "44037",
+            "name": "Vernor Vinge",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/44037.Vernor_Vinge"
+            },
+            "avr_rate": "4.07",
+            "r_count": "102305",
+            "trc": "4738"
+          }
+        },
+        "work": {
+          "id": "1253374"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "208088193"
+          }
+        ]
+      },
+      "date_added": " Apr 19 05:02:36 -0700 2012",
+      "date_updated": " Apr 19 05:02:36 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/315131192"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/315131192"
+      }
+    },
+    {
+      "id": "315124529",
+      "book": {
+        "id": "233710",
+        "trc": "40",
+        "title": "Purification (Autumn, #3)",
+        "tws": "Purification",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/233710.Purification",
+        "num_pages": "261",
+        "format": "ebook",
+        "ei": "",
+        "pub": "INFECTED BOOKS",
+        "pub_day": "30",
+        "pub_year": "2005",
+        "pub_month": "1",
+        "avr_rate": "4.00",
+        "r_count": "2517",
+        "desc": "Trapped between the military and the dead, the remaining survivors carve out a fragile and uncertain existence. In a moment of madness their safety and security is jeopardised. All hope is gone, but in the rotting shadows of the past, they find the key to what remains of their future.",
+        "authors": {
+          "author": {
+            "id": "117582",
+            "name": "David Moody",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p5/117582.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p2/117582.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/117582.David_Moody"
+            },
+            "avr_rate": "3.78",
+            "r_count": "34652",
+            "trc": "2754"
+          }
+        },
+        "pub": "2005",
+        "work": {
+          "id": "226345"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Apr 19 04:38:22 -0700 2012",
+      "date_updated": "Wed Apr 25 16:55:10 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/315124529"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/315124529"
+      }
+    },
+    {
+      "id": "315124360",
+      "book": {
+        "id": "263463",
+        "trc": "69",
+        "title": "The City (Autumn, #2)",
+        "tws": "The City",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/263463.The_City",
+        "num_pages": "246",
+        "format": "ebook",
+        "ei": "",
+        "pub": "Infected Books",
+        "pub_day": "30",
+        "pub_year": "2005",
+        "pub_month": "1",
+        "avr_rate": "3.87",
+        "r_count": "3099",
+        "desc": "",
+        "authors": {
+          "author": {
+            "id": "117582",
+            "name": "David Moody",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p5/117582.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p2/117582.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/117582.David_Moody"
+            },
+            "avr_rate": "3.78",
+            "r_count": "34652",
+            "trc": "2754"
+          }
+        },
+        "pub": "2005",
+        "work": {
+          "id": "255395"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Apr 19 04:37:40 -0700 2012",
+      "read_at": " Apr 21 12:50:43 -0700 2012",
+      "date_added": " Apr 19 04:37:40 -0700 2012",
+      "date_updated": " Apr 21 12:50:43 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/315124360"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/315124360"
+      }
+    },
+    {
+      "id": "310860112",
+      "book": {
+        "id": "12099550",
+        "isbn": "0307406342",
+        "isbn13": "9780307406347",
+        "trc": "325",
+        "title": "Nocturnal",
+        "tws": "Nocturnal",
+        "img": "https://images.gr-assets.com/books/1333576552m/12099550.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1333576552s/12099550.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/12099550-nocturnal",
+        "num_pages": "566",
+        "ei": "",
+        "pub": "Crown",
+        "pub_day": "3",
+        "pub_year": "2012",
+        "pub_month": "4",
+        "avr_rate": "4.08",
+        "r_count": "4294",
+        "desc": "Scott Sigler reinvented the alien-invasion story in his bestselling novels <i>Infected</i> and <i>Contagious</i> … rebooted the biotech thriller in <i>Ancestor</i> …now, in his most ambitious, sweeping novel to date, he works his magic on the paranormal thriller, taking us inside a terrifying underworld of subterranean predators that only his twisted mind could invent. <br /><br />Homicide detective Bryan Clauser is losing his mind. How else to explain the dreams he keeps having—dreams that mirror, with impossible accuracy, the gruesome serial murders taking place all over San Francisco? How else to explain the <i>feelings</i> these dreams provoke in him—not disgust, not horror, but <i>excitement?</i>  <br /><br />As Bryan and his longtime partner, Lawrence “Pookie” Chang, investigate the murders, they learn that things are even stranger than they at first seem. For the victims are all enemies of a seemingly ordinary young boy—a boy who is gripped by the same dreams that haunt Bryan.  Meanwhile, a shadowy vigilante, seemingly armed with superhuman powers, is out there killing the killers.  And Bryan and Pookie’s superiors—from the mayor on down—seem strangely eager to keep the detectives from discovering the truth.<br /><br />Doubting his own sanity and stripped of his badge, Bryan begins to suspect that he’s stumbled into the crosshairs of a shadow war that has gripped his city for more than a century—a war waged by a race of killers living in San Francisco’s unknown, underground ruins, emerging at night to feed on those who will not be missed. <br /><br />And as Bryan learns the truth about his own intimate connections to the killings, he discovers that those who matter most to him are in mortal danger…and that he may be the only man gifted—or cursed—with the power to do battle with the <i>nocturnals. </i><br /><br />Featuring a dazzlingly plotted mystery and a terrifying descent into a nightmarish underworld—along with some of the most incredible action scenes ever put to paper, and an explosive, gut-wrenching conclusion you won’t soon forget—<i>Nocturnal</i> is the most spectacular outing to date from one of the genre’s brightest stars.",
+        "authors": {
+          "author": {
+            "id": "114504",
+            "name": "Scott Sigler",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1434042056p5/114504.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1434042056p2/114504.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/114504.Scott_Sigler"
+            },
+            "avr_rate": "4.03",
+            "r_count": "73018",
+            "trc": "7260"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "19211417"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Apr 28 17:07:14 -0700 2012",
+      "read_at": " May 20 12:12:36 -0700 2012",
+      "date_added": "Wed Apr 11 19:41:35 -0700 2012",
+      "date_updated": " May 20 12:12:37 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/310860112"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/310860112"
+      }
+    },
+    {
+      "id": "306239921",
+      "book": {
+        "id": "6648604",
+        "isbn": "0441018181",
+        "isbn13": "9780441018185",
+        "trc": "285",
+        "title": "WWW: Watch (WWW, #2)",
+        "tws": "WWW: Watch",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/6648604-www",
+        "ei": "",
+        "avr_rate": "4.00",
+        "r_count": "4193",
+        "desc": "Award-winning author Robert J. Sawyer continues his \"wildly thought-provoking\" science fiction saga of a sentient World Wide Web. Webmind is an emerging consciousness that has befriended Caitlin Decter and grown eager to learn about her world. But Webmind has also come to the attention of WATCH, the secret government agency that monitors the Internet for any threat to the United States--and they're fully aware of Caitlin's involvement in its awakening. WATCH is convinced that Webmind represents a risk to national security and wants it purged from cyberspace. But Caitlin believes in Webmind's capacity for compassion-and she will do anything and everything necessary to protect her friend.",
+        "authors": {
+          "author": {
+            "id": "25883",
+            "name": "Robert J. Sawyer",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1224975910p5/25883.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1224975910p2/25883.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/25883.Robert_J_Sawyer"
+            },
+            "avr_rate": "3.88",
+            "r_count": "98672",
+            "trc": "7548"
+          }
+        },
+        "work": {
+          "id": "6843168"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Apr 03 20:24:40 -0700 2012",
+      "read_at": "Wed Apr 11 18:42:31 -0700 2012",
+      "date_added": " Apr 03 20:24:40 -0700 2012",
+      "date_updated": "Wed Apr 11 18:42:31 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/306239921"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/306239921"
+      }
+    },
+    {
+      "id": "302433307",
+      "book": {
+        "id": "5997978",
+        "isbn": "0765319713",
+        "isbn13": "9780765319715",
+        "trc": "266",
+        "title": "Julian Comstock: A Story of 22nd-Century America",
+        "tws": "Julian Comstock: A Story of 22nd-Century America",
+        "img": "https://images.gr-assets.com/books/1312046700m/5997978.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1312046700s/5997978.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/5997978-julian-comstock",
+        "num_pages": "413",
+        "ei": "",
+        "avr_rate": "3.55",
+        "r_count": "2697",
+        "desc": "In the reign of President Deklan Comstock, a reborn United States is struggling back to prosperity. Over a century after the Efflorescence of Oil, after the Fall of the Cities, after the Plague of Infertility, after the False Tribulation, after the days of the Pious Presidents, the sixty stars and thirteen stripes wave from the plains of Athabaska to the national capital in New York City. In Colorado Springs, the Dominion sees to the nation’s spiritual needs. In Labrador, the Army wages war on the Dutch. America, unified, is rising once again.<br /><br />Then out of Labrador come tales of a new Ajax—Captain Commongold, the Youthful Hero of the Saguenay. The ordinary people follow his adventures in the popular press. The Army adores him. The President is…troubled. Especially when the dashing Captain turns out to be his nephew Julian, son of the falsely accused and executed Bryce.<br /><br />Treachery and intrigue dog Julian’s footsteps. Hairsbreadth escapes and daring rescues fill his days. Stern resolve and tender sentiment dice for Julian’s soul, while his admiration for the works of the Secular Ancients, and his adherence to the evolutionary doctrines of the heretical Darwin, set him at fatal odds with the hierarchy of the Dominion. Plague and fire swirl around the Presidential palace when at last he arrives with the acclamation of the mob.<br /><br />As told by Julian’s best friend and faithful companion, a rustic yet observant lad from the west, this tale of the 22nd Century asks— and answers—the age-old question: “Do you want to tell the truth, or do you want to tell a story?”",
+        "authors": {
+          "author": {
+            "id": "27276",
+            "name": "Robert Charles Wilson",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1426178785p5/27276.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1426178785p2/27276.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/27276.Robert_Charles_Wilson"
+            },
+            "avr_rate": "3.78",
+            "r_count": "62575",
+            "trc": "5148"
+          }
+        },
+        "work": {
+          "id": "6172639"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "199785481"
+          }
+        ]
+      },
+      "date_added": "Wed Mar 28 13:28:42 -0700 2012",
+      "date_updated": "Wed Mar 28 13:28:42 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/302433307"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/302433307"
+      }
+    },
+    {
+      "id": "299773039",
+      "book": {
+        "id": "12777374",
+        "trc": "40",
+        "title": "Evolution (LZR-1143, #2)",
+        "tws": "Evolution",
+        "img": "https://images.gr-assets.com/books/1349317396m/12777374.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1349317396s/12777374.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/12777374-evolution",
+        "num_pages": "279",
+        "ei": "",
+        "pub_day": "30",
+        "pub_year": "2011",
+        "pub_month": "9",
+        "avr_rate": "4.00",
+        "r_count": "1087",
+        "desc": "The dead have risen. A lethal virus has decimated millions, turning the infected into the walking dead. <br /><br />Society has crumbled, cities are in flames, and the human race is on the verge of extinction. <br /><br />Somehow, Mike McKnight has survived. So far. From his cell in a mental institution, he battled the ghosts of his past and the throngs of undead to uncover and retrieve the last vestige of mankind's hope to fight the deadly plague. <br /><br />Now, from the deck of an aircraft carrier, to the farmlands of the Eastern Shore and the very heart of the nation's capital, Mike carries the hope of an entire race. With him rides the only chance at fighting the spread of the virus, and turning back the tide of infection. <br /><br />But the undead are changing. They are evolving. Hunting in larger groups and banding together to track their prey, that are more dangerous predators than ever before. To survive, he will have to learn to adapt, and to come to grips with the most important evolution of all: his own.",
+        "authors": {
+          "author": {
+            "id": "932816",
+            "name": "Bryan James",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1442478495p5/932816.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1442478495p2/932816.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/932816.Bryan_James"
+            },
+            "avr_rate": "3.88",
+            "r_count": "5675",
+            "trc": "316"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "17923272"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Mar 24 05:23:19 -0700 2012",
+      "date_updated": " Mar 24 05:23:23 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/299773039"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/299773039"
+      }
+    },
+    {
+      "id": "295039867",
+      "book": {
+        "id": "12678461",
+        "isbn": "0385535151",
+        "isbn13": "9780385535151",
+        "trc": "964",
+        "title": "Amped",
+        "tws": "Amped",
+        "img": "https://images.gr-assets.com/books/1333996196m/12678461.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1333996196s/12678461.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/12678461-amped",
+        "num_pages": "277",
+        "ei": "",
+        "pub": "Doubleday",
+        "pub_day": "5",
+        "pub_year": "2012",
+        "pub_month": "6",
+        "avr_rate": "3.46",
+        "r_count": "7236",
+        "desc": "As he did in Robopocalypse, Daniel Wilson masterfully envisions a frightening near-future world. In Amped, people are implanted with a device that makes them capable of superhuman feats. The powerful technology has profound consequences for society, and soon a set of laws is passed that restricts the abilities—and rights—of \"amplified\" humans. On the day that the Supreme Court passes the first of these laws, twenty-nine-year-old Owen Gray joins the ranks of a new persecuted underclass known as \"amps.\" Owen is forced to go on the run, desperate to reach an outpost in Oklahoma where, it is rumored, a group of the most enhanced amps may be about to change the world—or destroy it.",
+        "authors": {
+          "author": {
+            "id": "33773",
+            "name": "Daniel H. Wilson",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1489079874p5/33773.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1489079874p2/33773.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/33773.Daniel_H_Wilson"
+            },
+            "avr_rate": "3.64",
+            "r_count": "53845",
+            "trc": "7406"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "23746028"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Jun 05 11:11:10 -0700 2012",
+      "read_at": " Jun 18 14:46:05 -0700 2012",
+      "date_added": " Mar 15 18:10:25 -0700 2012",
+      "date_updated": "Wed Jan 09 23:36:19 -0800 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/295039867"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/295039867"
+      }
+    },
+    {
+      "id": "295038650",
+      "book": {
+        "id": "263459",
+        "trc": "195",
+        "title": "Autumn (Autumn, #1)",
+        "tws": "Autumn",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/263459.Autumn",
+        "num_pages": "288",
+        "format": "ebook",
+        "ei": "",
+        "pub": "INFECTED BOOKS",
+        "pub_day": "6",
+        "pub_year": "2005",
+        "pub_month": "1",
+        "avr_rate": "3.66",
+        "r_count": "5806",
+        "desc": "In less than 24 hours a viral epidemic destroys nearly all of the population. Within moments each victim suffers an agonising death. At the end of 10 minutes, only a handful of survivors remain. By the end of the first day those survivors wish they were dead. As the dead get up and walk, they know they are in hell.",
+        "authors": {
+          "author": {
+            "id": "117582",
+            "name": "David Moody",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p5/117582.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p2/117582.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/117582.David_Moody"
+            },
+            "avr_rate": "3.78",
+            "r_count": "34652",
+            "trc": "2754"
+          }
+        },
+        "pub": "2005",
+        "work": {
+          "id": "255391"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Mar 15 18:08:33 -0700 2012",
+      "read_at": " Apr 13 19:51:50 -0700 2012",
+      "date_added": " Mar 15 18:08:19 -0700 2012",
+      "date_updated": " Apr 13 19:51:50 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/295038650"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/295038650"
+      }
+    },
+    {
+      "id": "295032818",
+      "book": {
+        "id": "4418395",
+        "isbn": "0441016790",
+        "isbn13": "9780441016792",
+        "trc": "617",
+        "title": "WWW: Wake (WWW, #1)",
+        "tws": "WWW: Wake",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/4418395-www",
+        "num_pages": "354",
+        "ei": "",
+        "avr_rate": "3.80",
+        "r_count": "6810",
+        "desc": "Caitlin Decter is young, pretty, feisty, a genius at math, and blind. When she receives an implant to restore her sight, instead of seeing reality she perceives the landscape of the World Wide Web-where she makes contact with a mysterious consciousness existing only in cyberspace. <br /><br />",
+        "authors": {
+          "author": {
+            "id": "25883",
+            "name": "Robert J. Sawyer",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1224975910p5/25883.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1224975910p2/25883.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/25883.Robert_J_Sawyer"
+            },
+            "avr_rate": "3.88",
+            "r_count": "98672",
+            "trc": "7548"
+          }
+        },
+        "work": {
+          "id": "4466559"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": "Wed Mar 28 13:27:02 -0700 2012",
+      "read_at": "Wed Apr 11 18:43:25 -0700 2012",
+      "date_added": " Mar 15 17:58:23 -0700 2012",
+      "date_updated": "Wed Apr 11 18:43:25 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/295032818"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/295032818"
+      }
+    },
+    {
+      "id": "295028407",
+      "book": {
+        "id": "8087710",
+        "trc": "328",
+        "title": "Pandemic (Infected, #3)",
+        "tws": "Pandemic",
+        "img": "https://images.gr-assets.com/books/1377968309m/8087710.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1377968309s/8087710.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/8087710-pandemic",
+        "num_pages": "592",
+        "ei": "",
+        "pub": "Crown",
+        "pub_day": "21",
+        "pub_year": "2014",
+        "pub_month": "1",
+        "avr_rate": "4.22",
+        "r_count": "3623",
+        "desc": "<b>The explosive conclusion to the New York Times bestselling trilogy that began with Infected and Contagious.</b><br /><br />The alien intelligence that unleashed two horrific assaults on humanity has been destroyed. But before it was brought down in flames, it launched one last payload-a tiny soda-can-sized canister filled with germs engineered to wreak new forms of havoc on the human race. That harmless-looking canister has languished under thousands of feet of water for years, undisturbed and impotent...until now.<br /><br />Days after the new disease is unleashed, a quarter of the human race is infected. Entire countries have fallen. And our planet's fate now rests on a small group of unlikely heroes, racing to find a cure before the enemies surrounding them can close in.",
+        "authors": {
+          "author": {
+            "id": "114504",
+            "name": "Scott Sigler",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1434042056p5/114504.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1434042056p2/114504.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/114504.Scott_Sigler"
+            },
+            "avr_rate": "4.03",
+            "r_count": "73018",
+            "trc": "7260"
+          }
+        },
+        "pub": "2014",
+        "work": {
+          "id": "12826170"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": "Wed Feb 05 00:00:00 -0800 2014",
+      "read_at": " Feb 18 00:00:00 -0800 2014",
+      "date_added": " Mar 15 17:50:23 -0700 2012",
+      "date_updated": " Feb 18 18:04:38 -0800 2014",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/295028407"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/295028407"
+      }
+    },
+    {
+      "id": "287266768",
+      "book": {
+        "id": "9219992",
+        "trc": "134",
+        "title": "Them or Us (Hater, #3)",
+        "tws": "Them or Us",
+        "img": "https://images.gr-assets.com/books/1303293360m/9219992.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1303293360s/9219992.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/9219992-them-or-us",
+        "num_pages": "361",
+        "format": "",
+        "ei": "",
+        "pub_day": "",
+        "pub_year": "2011",
+        "pub_month": "",
+        "avr_rate": "3.82",
+        "r_count": "1787",
+        "desc": "The war that has torn the human race apart is nearing its end. With the country in the grip of a nuclear winter, both Hater and Unchanged struggle to survive. Hinchcliffe, leader of an army of Haters, will stop at nothing to be at the top of the new world order.",
+        "authors": {
+          "author": {
+            "id": "117582",
+            "name": "David Moody",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p5/117582.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p2/117582.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/117582.David_Moody"
+            },
+            "avr_rate": "3.78",
+            "r_count": "34652",
+            "trc": "2754"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "14099942"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Mar 02 10:40:38 -0800 2012",
+      "read_at": " Mar 04 09:04:24 -0800 2012",
+      "date_added": " Mar 02 10:40:38 -0800 2012",
+      "date_updated": " Mar 04 09:04:24 -0800 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/287266768"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/287266768"
+      }
+    },
+    {
+      "id": "287164624",
+      "book": {
+        "id": "9969571",
+        "isbn": "030788743X",
+        "isbn13": "9780307887436",
+        "trc": "43523",
+        "title": "Ready Player One",
+        "tws": "Ready Player One",
+        "img": "https://images.gr-assets.com/books/1500930947m/9969571.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1500930947s/9969571.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/9969571-ready-player-one",
+        "num_pages": "374",
+        "ei": "",
+        "pub": "Crown Publishers",
+        "pub_day": "16",
+        "pub_year": "2011",
+        "pub_month": "8",
+        "avr_rate": "4.31",
+        "r_count": "450640",
+        "desc": "In the year 2044, reality is an ugly place. The only time teenage Wade Watts really feels alive is when he's jacked into the virtual utopia known as the  OASIS. Wade's devoted his life to studying the puzzles hidden within this world's digital confines, puzzles that are based on their creator's obsession with the pop culture of decades past and that promise massive power and fortune to whoever can unlock them. When Wade stumbles upon the first clue, he finds himself beset by players willing to kill to take this ultimate prize. The race is on, and if Wade's going to survive, he'll have to win—and confront the real world he's always been so desperate to escape.",
+        "authors": {
+          "author": {
+            "id": "31712",
+            "name": "Ernest Cline",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1310753539p5/31712.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1310753539p2/31712.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/31712.Ernest_Cline"
+            },
+            "avr_rate": "4.21",
+            "r_count": "515117",
+            "trc": "65227"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "14863741"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Mar 04 11:53:38 -0800 2012",
+      "read_at": " Mar 15 17:38:42 -0700 2012",
+      "date_added": " Mar 02 07:10:15 -0800 2012",
+      "date_updated": " Mar 15 17:38:42 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/287164624"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/287164624"
+      }
+    },
+    {
+      "id": "280813740",
+      "book": {
+        "id": "7171452",
+        "isbn": "0575084693",
+        "isbn13": "9780575084698",
+        "trc": "182",
+        "title": "Dog Blood (Hater, #2)",
+        "tws": "Dog Blood",
+        "img": "https://images.gr-assets.com/books/1329626556m/7171452.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1329626556s/7171452.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/7171452-dog-blood",
+        "num_pages": "336",
+        "ei": "",
+        "pub": "Thomas Dunne Books",
+        "pub_day": "",
+        "pub_year": "2010",
+        "pub_month": "",
+        "avr_rate": "3.80",
+        "r_count": "3254",
+        "desc": "The world has suffered a catastrophe of unknown cause, dividing humankind into two: the Haters and the Unchanged. Each group believes the other to be the enemy; each group is fighting for survival. Only by working together can the enemy – whoever that enemy is – be defeated. There are no other choices. Danny McCoyne has managed to break free, and after days of indiscriminate fighting and killing, he is determined to make his way home, to recalim the only thing of any value to him in this strange new world: his daughter Ellis. Unlike his wife and son, Ellis is like him, and he knows, in his heart of hearts, that she is not dead. His dearest wish is for Ellis to be fighting for the world at his side – but Danny soon discovers his daughter is worth far more than just another fighting body. Others like him have discovered that children are absolutely vital to the cause. They are strong, small, fast, and they have no inhibitions. They are pure Haters...",
+        "authors": {
+          "author": {
+            "id": "117582",
+            "name": "David Moody",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p5/117582.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p2/117582.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/117582.David_Moody"
+            },
+            "avr_rate": "3.78",
+            "r_count": "34652",
+            "trc": "2754"
+          }
+        },
+        "pub": "2010",
+        "work": {
+          "id": "7587700"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Feb 20 07:00:59 -0800 2012",
+      "read_at": " Mar 02 10:40:22 -0800 2012",
+      "date_added": " Feb 20 07:00:59 -0800 2012",
+      "date_updated": " Mar 02 10:40:22 -0800 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/280813740"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/280813740"
+      }
+    },
+    {
+      "id": "271522442",
+      "book": {
+        "id": "263460",
+        "isbn": "0955005167",
+        "isbn13": "9780955005169",
+        "trc": "446",
+        "title": "Hater (Hater, #1)",
+        "tws": "Hater",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/263460.Hater",
+        "ei": "",
+        "avr_rate": "3.65",
+        "r_count": "8359",
+        "desc": "Winner of the AudioFile Earphones Award <br /><br />A modern take on the classic “apocalyptic” novel, Hater tells the story of Danny McCoyne, an everyman forced to contend with a world gone mad, as society is rocked by a sudden increase in violent assaults. Christened “Haters” by the media, the attackers strike without warning and seemingly without reason. Within seconds, normally rational, self-controlled people become frenzied, vicious killers. As the carnage mounts, one thing soon is clear: everyone, irrespective of race, gender, age, or class, has the potential to become either a Hater or a victim. At any moment, even friends and family can turn on one another with violent intent. In the face of this mindless terror, all McCoyne can do is secure his family, seek shelter, and watch as the world falls apart. But when he bolts the front door, the question remains: Is he shutting the danger out or locking it in?<br /><br />© 2009 Blackstone Audio",
+        "authors": {
+          "author": {
+            "id": "117582",
+            "name": "David Moody",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p5/117582.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1390311449p2/117582.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/117582.David_Moody"
+            },
+            "avr_rate": "3.78",
+            "r_count": "34652",
+            "trc": "2754"
+          }
+        },
+        "work": {
+          "id": "255392"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Feb 02 18:55:29 -0800 2012",
+      "read_at": " Feb 20 06:29:42 -0800 2012",
+      "date_added": " Feb 02 18:55:15 -0800 2012",
+      "date_updated": " Feb 20 06:29:42 -0800 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/271522442"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/271522442"
+      }
+    },
+    {
+      "id": "271314476",
+      "book": {
+        "id": "407281",
+        "isbn": "097897073X",
+        "isbn13": "9780978970734",
+        "trc": "134",
+        "title": "Dying to Live (Dying to Live, #1)",
+        "tws": "Dying to Live",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/407281.Dying_to_Live",
+        "ei": "",
+        "avr_rate": "3.70",
+        "r_count": "3000",
+        "desc": "Jonah Caine, a lone survivor in a zombie-infested world, struggles to understand the apocalypse in which he lives. Unable to find a moral or sane reason for the horror that surrounds him, he is overwhelmed by violence and insignificance.<br /><br />After wandering for months, Jonah's lonely existence dramatically changes when he discovers a group of survivors. Living in a museum-turned-compound, they are led jointly by Jack, an ever-practical and efficient military man, and Milton, a mysterious, quizzical prophet who holds a strange power over the dead. Both leaders share Jonah's anguish over the brutality of their world, as well as his hope for its beauty. Together with others, they build a community that reestablishes an island of order and humanity surrounded by relentless ghouls.<br /><br />But this newfound peace is short-lived, as Jonah and his band of refugees clash with another group of survivors who remind them that the undead are not the only—nor the most grotesque—horrors they must face.",
+        "authors": {
+          "author": {
+            "id": "63950",
+            "name": "Kim Paffenroth",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1203630769p5/63950.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1203630769p2/63950.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/63950.Kim_Paffenroth"
+            },
+            "avr_rate": "3.77",
+            "r_count": "5840",
+            "trc": "363"
+          }
+        },
+        "work": {
+          "id": "396605"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "179056058"
+          }
+        ]
+      },
+      "date_added": " Feb 02 10:17:15 -0800 2012",
+      "date_updated": " Feb 02 10:17:15 -0800 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/271314476"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/271314476"
+      }
+    },
+    {
+      "id": "269311659",
+      "book": {
+        "id": "9634967",
+        "isbn": "0385533853",
+        "isbn13": "9780385533850",
+        "trc": "3153",
+        "title": "Robopocalypse (Robopocalypse, #1)",
+        "tws": "Robopocalypse",
+        "img": "https://images.gr-assets.com/books/1327885891m/9634967.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1327885891s/9634967.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/9634967-robopocalypse",
+        "num_pages": "347",
+        "format": "Audiobook",
+        "ei": "",
+        "pub": "Doubleday",
+        "pub_day": "7",
+        "pub_year": "2011",
+        "pub_month": "6",
+        "avr_rate": "3.67",
+        "r_count": "30776",
+        "desc": "In the near future, at a moment no one will notice, all the dazzling technology that runs our world will unite and turn against us. Taking on the persona of a shy human boy, a childlike but massively powerful artificial intelligence known as Archos comes online and assumes control over the global network of machines that regulate everything from transportation to utilities, defense and communication. <br /><br />In the months leading up to this, sporadic glitches are noticed by a handful of unconnected humans – a single mother disconcerted by her daughter’s menacing “smart” toys, a lonely Japanese bachelor who is victimized by his domestic robot companion, an isolated U.S. soldier who witnesses a ‘pacification unit’ go haywire – but most are unaware of the growing rebellion until it is too late.<br /><br />When the Robot War ignites -- at a moment known later as Zero Hour -- humankind will be both decimated and, possibly, for the first time in history, united. Robopocalypse is a brilliantly conceived action-filled epic, a terrifying story with heart-stopping implications for the real technology all around us…and an entertaining and engaging thriller unlike anything else written in years.",
+        "authors": {
+          "author": {
+            "id": "33773",
+            "name": "Daniel H. Wilson",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1489079874p5/33773.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1489079874p2/33773.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/33773.Daniel_H_Wilson"
+            },
+            "avr_rate": "3.64",
+            "r_count": "53847",
+            "trc": "7406"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "14247828"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Jan 29 04:51:45 -0800 2012",
+      "read_at": " Feb 02 18:53:25 -0800 2012",
+      "date_added": " Jan 29 04:51:45 -0800 2012",
+      "date_updated": " Feb 02 18:53:25 -0800 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/269311659"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/269311659"
+      }
+    },
+    {
+      "id": "262794230",
+      "book": {
+        "id": "46723",
+        "isbn": "0978970705",
+        "isbn13": "9780978970703",
+        "trc": "249",
+        "title": "Plague of the Dead (Morningstar Strain #1)",
+        "tws": "Plague of the Dead",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/46723.Plague_of_the_Dead",
+        "num_pages": "292",
+        "ei": "",
+        "pub_day": "",
+        "avr_rate": "3.84",
+        "r_count": "6675",
+        "desc": "The end begins with a viral outbreak unlike anything mankind has ever encountered before. The infected are subject to delirium, fever, a dramatic increase in violent behavior, and a one-hundred percent mortality rate. Death. But it doesn't end there. The victims return from death to walk the earth.<br /><br />When a massive military operation fails to contain the plague of the living dead it escalates into a global pandemic. In one fell swoop, the necessities of life become much more basic. Gone are petty everyday concerns. Gone are the amenities of civilized life. Yet a single law of nature remains: Live, or die. Kill, or be killed. On one side of the world, a battle-hardened General surveys the remnants of his command: a young medic, a veteran photographer, a brash Private, and dozens of refugees, all are his responsibility-all thousands of miles from home. Back in the United States, an Army Colonel discovers the darker side of Morningstar virus and begins to collaborate with a well-known journalist to leak the information to the public...The Morningstar Saga has begun.<br /><br />©2006 Z.A. Recht; (P)2009 Audible, Inc.",
+        "authors": {
+          "author": {
+            "id": "2890051",
+            "name": "Z.A. Recht",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1355379945p5/2890051.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1355379945p2/2890051.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/2890051.Z_A_Recht"
+            },
+            "avr_rate": "3.95",
+            "r_count": "14239",
+            "trc": "626"
+          }
+        },
+        "work": {
+          "id": "45818"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "173010705"
+          }
+        ]
+      },
+      "date_added": " Jan 16 06:12:05 -0800 2012",
+      "date_updated": " Jan 16 06:12:15 -0800 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/262794230"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/262794230"
+      }
+    },
+    {
+      "id": "262792421",
+      "book": {
+        "id": "77887",
+        "isbn": "0765315432",
+        "isbn13": "9780765315434",
+        "trc": "174",
+        "title": " of Suns (Virga, #1)",
+        "tws": " of Suns",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/77887.Sun_of_Suns",
+        "num_pages": "318",
+        "ei": "",
+        "pub": "Tor Books",
+        "pub_day": "3",
+        "pub_year": "2006",
+        "pub_month": "10",
+        "avr_rate": "3.74",
+        "r_count": "2293",
+        "desc": "It is the distant future. The world known as Virga is a fullerene balloon three thousand kilometers in diameter, filled with air, water, and aimlessly floating chunks of rock. The humans who live in this vast environment must build their own fusion suns and \"towns\" that are in the shape of enormous wood and rope wheels that are spun for gravity.<br /><br />Young, fit, bitter, and friendless, Hayden Griffin is a very dangerous man. He's come to the city of Rush in the nation of Slipstream with one thing in mind: to take murderous revenge for the deaths of his parents six years ago. His target is Admiral Chaison Fanning, head of the fleet of Slipstream, which conquered Hayden's nation of Aerie years ago. And the fact that Hayden's spent his adolescence living with pirates doesn't bode well for Fanning's chances...",
+        "authors": {
+          "author": {
+            "id": "19169",
+            "name": "Karl Schroeder",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1378361478p5/19169.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1378361478p2/19169.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/19169.Karl_Schroeder"
+            },
+            "avr_rate": "3.79",
+            "r_count": "16278",
+            "trc": "1873"
+          }
+        },
+        "pub": "2006",
+        "work": {
+          "id": "75218"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "173009512"
+          }
+        ]
+      },
+      "date_added": " Jan 16 06:05:55 -0800 2012",
+      "date_updated": " Jan 16 06:06:31 -0800 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/262792421"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/262792421"
+      }
+    },
+    {
+      "id": "257694067",
+      "book": {
+        "id": "8528856",
+        "trc": "10",
+        "title": "Terminal World",
+        "tws": "Terminal World",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/8528856-terminal-world",
+        "num_pages": "496",
+        "ei": "",
+        "pub": "Gollancz",
+        "pub_day": "15",
+        "pub_year": "2010",
+        "pub_month": "3",
+        "avr_rate": "3.69",
+        "r_count": "5068",
+        "desc": "Spearpoint, the last human city, is an atmosphere-piercing spire of vast size. Clinging to its skin are the zones, a series of semi-autonomous city-states, each of which enjoys a different-and rigidly enforced-level of technology.Following an infiltration mission that went tragically wrong, Quillon has been living incognito, working as a pathologist in the district morgue. But when a near-dead angel drops onto his dissecting table, Quillon's world is wrenched apart one more time. If Quillon is to save his life, he must leave his home and journey into the cold and hostile lands beyond Spearpoint's base, starting an exile that will take him further than he could ever imagine. But there is far more at stake than just Quillon's own survival, for the limiting technologies of the zones are determined not by governments or police but by the very nature of reality-and reality itself is showing worrying signs of instability.",
+        "authors": {
+          "author": {
+            "id": "51204",
+            "name": "Alastair Reynolds",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1369753656p5/51204.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1369753656p2/51204.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/51204.Alastair_Reynolds"
+            },
+            "avr_rate": "4.00",
+            "r_count": "189215",
+            "trc": "10724"
+          }
+        },
+        "pub": "2010",
+        "work": {
+          "id": "6373690"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Mar 11 11:50:53 -0800 2017",
+      "read_at": " Apr 22 06:03:12 -0700 2017",
+      "date_added": " Jan 06 21:48:42 -0800 2012",
+      "date_updated": " Apr 22 06:03:11 -0700 2017",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/257694067"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/257694067"
+      }
+    },
+    {
+      "id": "257691991",
+      "book": {
+        "id": "9424053",
+        "isbn": "0575088273",
+        "isbn13": "9780575088276",
+        "trc": "521",
+        "title": "Blue Remembered Earth (Poseidon's Children, #1)",
+        "tws": "Blue Remembered Earth",
+        "img": "https://images.gr-assets.com/books/1318599915m/9424053.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1318599915s/9424053.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/9424053-blue-remembered-earth",
+        "num_pages": "512",
+        "ei": "",
+        "pub": "Orion Publishing Group",
+        "pub_day": "",
+        "pub_year": "2012",
+        "pub_month": "1",
+        "avr_rate": "3.87",
+        "r_count": "8066",
+        "desc": "BLUE REMEMBERED EARTH is the first volume in a monumental trilogy tracing the Akinya family across more than ten thousand years of future history...out beyond the solar system, into interstellar space and the dawn of galactic society.<br /><br />One hundred and fifty years from now, in a world where Africa is the dominant technological and economic power, and where crime, war, disease and poverty have been banished to history, Geoffrey Akinya wants only one thing: to be left in peace, so that he can continue his studies into the elephants of the Amboseli basin. But Geoffrey's family, the vast Akinya business empire, has other plans. After the death of Eunice, Geoffrey's grandmother, erstwhile space explorer and entrepreneur, something awkward has come to light on the Moon, and Geoffrey is tasked - well, blackmailed, really - to go up there and make sure the family's name stays suitably unblemished. But little does Geoffrey realise - or anyone else in the family, for that matter - what he's about to unravel.<br /><br />Eunice's ashes have already have been scattered in sight of Kilimanjaro. But the secrets she died with are about to come back out into the open, and they could change everything.<br /><br />Or shatter this near-utopia into shards...",
+        "authors": {
+          "author": {
+            "id": "51204",
+            "name": "Alastair Reynolds",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1369753656p5/51204.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1369753656p2/51204.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/51204.Alastair_Reynolds"
+            },
+            "avr_rate": "4.00",
+            "r_count": "189215",
+            "trc": "10724"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "14308470"
+        }
+      },
+      "rating": "0",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "to-read",
+            "rev_id": "422867560"
+          },
+          {
+            "id": "started-not-finished",
+            "_exclusive": "false",
+            "rev_id": "422863680",
+            "_sortable": "false"
+          }
+        ]
+      },
+      "started_at": " Feb 10 06:13:37 -0800 2013",
+      "date_added": " Jan 06 21:43:38 -0800 2012",
+      "date_updated": " May 09 16:40:59 -0700 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/257691991"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/257691991"
+      }
+    },
+    {
+      "id": "256683265",
+      "book": {
+        "id": "48484",
+        "isbn": "0765312182",
+        "isbn13": "9780765312181",
+        "trc": "1322",
+        "title": "Blindsight (Firefall, #1)",
+        "tws": "Blindsight",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/48484.Blindsight",
+        "num_pages": "384",
+        "ei": "",
+        "pub": "Tor Books",
+        "pub_day": "3",
+        "pub_year": "2006",
+        "pub_month": "10",
+        "avr_rate": "3.99",
+        "r_count": "18004",
+        "desc": "It's been two months since a myriad of alien objects clenched about the Earth, screaming as they burned. The heavens have been silent since - until a derelict space probe hears whispers from a distant comet. Something talks out there: but not to us. Who to send to meet the alien, when the alien doesn't want to meet? Send a linguist with multiple-personality disorder, and a biologist so spliced to machinery he can't feel his own flesh. Send a pacifist warrior, and a vampire recalled from the grave by the voodoo of paleogenetics. Send a man with half his mind gone since childhood. Send them to the edge of the solar system, praying you can trust such freaks and monsters with the fate of a world. You fear they may be more alien than the thing they've been sent to find - but you'd give anything for that to be true, if you knew what was waiting for them.",
+        "authors": {
+          "author": {
+            "id": "27167",
+            "name": "Peter Watts",
+            "img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+            },
+            "sm_img": {
+              "url": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/27167.Peter_Watts"
+            },
+            "avr_rate": "3.92",
+            "r_count": "42530",
+            "trc": "3859"
+          }
+        },
+        "pub": "2006",
+        "work": {
+          "id": "47428"
+        }
+      },
+      "rating": "2",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Jan 05 05:23:15 -0800 2012",
+      "read_at": " Jan 27 05:38:06 -0800 2012",
+      "date_added": " Jan 05 05:23:15 -0800 2012",
+      "date_updated": " Jan 27 05:38:06 -0800 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/256683265"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/256683265"
+      }
+    },
+    {
+      "id": "251940052",
+      "book": {
+        "id": "10825907",
+        "isbn": "1451628811",
+        "isbn13": "9781451628814",
+        "trc": "227",
+        "title": "Shattered Hourglass (Day by Day Armageddon,#3)",
+        "tws": "Shattered Hourglass",
+        "img": "https://images.gr-assets.com/books/1359422558m/10825907.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1359422558s/10825907.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/10825907-shattered-hourglass",
+        "num_pages": "336",
+        "ei": "",
+        "pub": "Permuted Press",
+        "pub_day": "26",
+        "pub_year": "2012",
+        "pub_month": "12",
+        "avr_rate": "3.71",
+        "r_count": "3815",
+        "desc": "START INTERCEPT<br /><br />Armies of undead have risen up across the U.S. and around the globe;there is no safe haven from the diseased corpses hungering for human flesh. But in the heat of a Texas wasteland, a small band of survivors attempt to counter the millions closing in around them.<br /><br />INTERCEPT COMPLETE<br /><br />Survivor,Day by day, the handwritten journal entries of one man caught in a worldwide cataclysm capture the desperation—and the will to survive—as he joins forces with a handful of refugees to battle surviving enemies both human and inhuman from inside an abandoned strategic missile facility.But in the world of the undead, is mere survival enough?",
+        "authors": {
+          "author": {
+            "id": "42437",
+            "name": "J.L. Bourne",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1500408030p5/42437.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1500408030p2/42437.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/42437.J_L_Bourne"
+            },
+            "avr_rate": "4.01",
+            "r_count": "32086",
+            "trc": "1914"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "15739768"
+        }
+      },
+      "rating": "2",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Dec 20 20:50:49 -0800 2012",
+      "read_at": " Jan 11 22:09:17 -0800 2013",
+      "date_added": " Dec 27 18:29:52 -0800 2011",
+      "date_updated": " Jan 11 22:09:25 -0800 2013",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/251940052"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/251940052"
+      }
+    },
+    {
+      "id": "251938588",
+      "book": {
+        "id": "11806716",
+        "isbn": "1841499005",
+        "isbn13": "9781841499000",
+        "trc": "1372",
+        "title": "Blackout (Newsflesh Trilogy, #3)",
+        "tws": "Blackout",
+        "img": "https://images.gr-assets.com/books/1317680509m/11806716.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1317680509s/11806716.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/11806716-blackout",
+        "num_pages": "512",
+        "ei": "",
+        "pub": "Orbit",
+        "pub_day": "22",
+        "pub_year": "2012",
+        "pub_month": "5",
+        "avr_rate": "4.11",
+        "r_count": "17134",
+        "desc": "Rise up while you can. -Georgia Mason<br /><br />The year was 2014. The year we cured cancer. The year we cured the common cold. And the year the dead started to walk. The year of the Rising.<br /><br />The year was 2039. The world didn't end when the zombies came, it just got worse. Georgia and Shaun Mason set out on the biggest story of their generation. They uncovered the biggest conspiracy since the Rising and realized that to tell the truth, sacrifices have to be made.<br /><br />Now, the year is 2041, and the investigation that began with the election of President Ryman is much bigger than anyone had assumed. With too much left to do and not much time left to do it in, the surviving staff of After the End Times must face mad scientists, zombie bears, rogue government agencies-and if there's one thing they know is true in post-zombie America, it's this:<br /><br />Things can always get worse.<br /><br /><i>Blackout</i> is the conclusion to the epic trilogy that began in the Hugo-nominated <i>Feed</i> and the sequel, <i>Deadline</i>.",
+        "authors": {
+          "author": {
+            "id": "3153776",
+            "name": "Mira Grant",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1380320279p5/3153776.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1380320279p2/3153776.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/3153776.Mira_Grant"
+            },
+            "avr_rate": "3.94",
+            "r_count": "120068",
+            "trc": "14504"
+          }
+        },
+        "pub": "2012",
+        "work": {
+          "id": "13465100"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " May 24 12:44:47 -0700 2012",
+      "read_at": " Jun 04 17:47:00 -0700 2012",
+      "date_added": " Dec 27 18:26:20 -0800 2011",
+      "date_updated": " Jun 04 17:47:00 -0700 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/251938588"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/251938588"
+      }
+    },
+    {
+      "id": "207524677",
+      "book": {
+        "id": "10664113",
+        "trc": "16668",
+        "title": "A Dance with Dragons (A Song of Ice and Fire, #5)",
+        "tws": "A Dance with Dragons",
+        "img": "https://images.gr-assets.com/books/1327885335m/10664113.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1327885335s/10664113.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/10664113-a-dance-with-dragons",
+        "num_pages": "1125",
+        "ei": "",
+        "pub": "Bantam",
+        "pub_day": "12",
+        "pub_year": "2011",
+        "pub_month": "7",
+        "avr_rate": "4.31",
+        "r_count": "432871",
+        "desc": "In the aftermath of a colossal battle, the future of the Seven Kingdoms hangs in the balance—beset by newly emerging threats from every direction. In the east, Daenerys Targaryen, the last scion of House Targaryen, rules with her three dragons as queen of a city built on dust and death. But Daenerys has thousands of enemies, and many have set out to find her. As they gather, one young man embarks upon his own quest for the queen, with an entirely different goal in mind.<br /><br />Fleeing from Westeros with a price on his head, Tyrion Lannister, too, is making his way to Daenerys. But his newest allies in this quest are not the rag-tag band they seem, and at their heart lies one who could undo Daenerys’s claim to Westeros forever.<br /><br />Meanwhile, to the north lies the mammoth Wall of ice and stone—a structure only as strong as those guarding it. There, Jon Snow, 998th Lord Commander of the Night’s Watch, will face his greatest challenge. For he has powerful foes not only within the Watch but also beyond, in the land of the creatures of ice.<br /><br />From all corners, bitter conflicts reignite, intimate betrayals are perpetrated, and a grand cast of outlaws and priests, soldiers and skinchangers, nobles and slaves, will face seemingly insurmountable obstacles. Some will fail, others will grow in the strength of darkness. But in a time of rising restlessness, the tides of destiny and politics will lead inevitably to the greatest dance of all.",
+        "authors": {
+          "author": {
+            "id": "346732",
+            "name": "George R.R. Martin",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1351944410p5/346732.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1351944410p2/346732.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/346732.George_R_R_Martin"
+            },
+            "avr_rate": "4.37",
+            "r_count": "4255910",
+            "trc": "164002"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "2936175"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": "Wed Nov 23 18:27:05 -0800 2011",
+      "read_at": " Dec 27 18:21:14 -0800 2011",
+      "date_added": " Sep 11 20:35:55 -0700 2011",
+      "date_updated": " Jan 16 07:02:10 -0800 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/207524677"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/207524677"
+      }
+    },
+    {
+      "id": "207524557",
+      "book": {
+        "id": "13497",
+        "isbn": "055358202X",
+        "isbn13": "9780553582024",
+        "trc": "15750",
+        "title": "A Feast for Crows (A Song of Ice and Fire, #4)",
+        "tws": "A Feast for Crows",
+        "img": "https://images.gr-assets.com/books/1429538615m/13497.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1429538615s/13497.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13497.A_Feast_for_Crows",
+        "num_pages": "1061",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub": "Bantam Books",
+        "pub_day": "",
+        "pub_year": "2011",
+        "pub_month": "",
+        "avr_rate": "4.10",
+        "r_count": "489961",
+        "desc": "Alternate covers can be found <a href=\"https://www.goodreads.com/book/show/13418380-a-feast-for-crows\" rel=\"nofollow\">here</a>.<br /><br />With <i>A Feast for Crows</i>, Martin delivers the long-awaited fourth volume of the landmark series that has redefined imaginative fiction and stands as a modern masterpiece in the making.<br /><br />After centuries of bitter strife, the seven powers dividing the land have beaten one another into an uneasy truce. But it's not long before the survivors, outlaws, renegades, and carrion eaters of the Seven Kingdoms gather. Now, as the human crows assemble over a banquet of ashes, daring new plots and dangerous new alliances are formed while surprising faces—some familiar, others only just appearing—emerge from an ominous twilight of past struggles and chaos to take up the challenges of the terrible times ahead. Nobles and commoners, soldiers and sorcerers, assassins and sages, are coming together to stake their fortunes...and their lives. For at a feast for crows, many are the guests—but only a few are the survivors.",
+        "authors": {
+          "author": {
+            "id": "346732",
+            "name": "George R.R. Martin",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1351944410p5/346732.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1351944410p2/346732.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/346732.George_R_R_Martin"
+            },
+            "avr_rate": "4.37",
+            "r_count": "4255910",
+            "trc": "164002"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "1019062"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Nov 05 16:52:45 -0700 2011",
+      "read_at": "Wed Nov 23 18:28:18 -0800 2011",
+      "date_added": " Sep 11 20:35:29 -0700 2011",
+      "date_updated": "Wed Nov 23 18:28:18 -0800 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/207524557"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/207524557"
+      }
+    },
+    {
+      "id": "207524253",
+      "book": {
+        "id": "62291",
+        "isbn": "055357342X",
+        "isbn13": "9780553573428",
+        "trc": "15301",
+        "title": "A Storm of Swords (A Song of Ice and Fire, #3)",
+        "tws": "A Storm of Swords",
+        "img": "https://images.gr-assets.com/books/1497931121m/62291.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1497931121s/62291.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/62291.A_Storm_of_Swords",
+        "num_pages": "1177",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub": "Bantam",
+        "pub_day": "4",
+        "pub_year": "2003",
+        "pub_month": "3",
+        "avr_rate": "4.54",
+        "r_count": "536779",
+        "desc": "Here is the third volume in George R.R. Martin's magnificent cycle of novels that includes <i>A Game of Thrones</i> and <i>A Clash of Kings</i>. Together, this series comprises a genuine masterpiece of modern fantasy, destined to stand as one of the great achievements of imaginative fiction.<br /><br />Of the five contenders for power, one is dead, another in disfavor, and still the wars rage as alliances are made and broken. Joffrey sits on the Iron Throne, the uneasy ruler of the Seven Kingdoms. His most bitter rival, Lord Stannis, stands defeated and disgraced, victim of the sorceress who holds him in her thrall. Young Robb still rules the North from the fortress of Riverrun. Meanwhile, making her way across a blood-drenched continent is the exiled queen, Daenerys, mistress of the only three dragons still left in the world. And as opposing forces manoeuver for the final showdown, an army of barbaric wildlings arrives from the outermost limits of civilization, accompanied by a horde of mythical Others—a supernatural army of the living dead whose animated corpses are unstoppable. As the future of the land hangs in the balance, no one will rest until the Seven Kingdoms have exploded in a veritable storm of swords...",
+        "authors": {
+          "author": {
+            "id": "346732",
+            "name": "George R.R. Martin",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1351944410p5/346732.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1351944410p2/346732.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/346732.George_R_R_Martin"
+            },
+            "avr_rate": "4.37",
+            "r_count": "4255910",
+            "trc": "164002"
+          }
+        },
+        "pub": "2003",
+        "work": {
+          "id": "1164465"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": " Sep 11 20:34:10 -0700 2011",
+      "date_updated": " Dec 27 18:23:10 -0800 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/207524253"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/207524253"
+      }
+    },
+    {
+      "id": "207479359",
+      "book": {
+        "id": "10572",
+        "isbn": "0553381695",
+        "isbn13": "9780553381696",
+        "trc": "15022",
+        "title": "A Clash of Kings  (A Song of Ice and Fire, #2)",
+        "tws": "A Clash of Kings",
+        "img": "https://images.gr-assets.com/books/1358254974m/10572.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1358254974s/10572.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/10572.A_Clash_of_Kings",
+        "num_pages": "761",
+        "ei": "",
+        "pub": "Bantam",
+        "pub_day": "28",
+        "pub_year": "2002",
+        "pub_month": "5",
+        "avr_rate": "4.40",
+        "r_count": "618754",
+        "desc": "Alternate cover edition can be found <a href=\"https://www.goodreads.com/book/show/6041689-a-clash-of-kings\" rel=\"nofollow\">here</a>. <br /><br /><br />Time is out of joint. The summer of peace and plenty, ten years long, is drawing to a close, and the harsh, chill winter approaches like an angry beast. Two great leaders—Lord Eddard Stark and Robert Baratheon—who held sway over an age of enforced peace are dead...victims of royal treachery. Now, from the ancient citadel of Dragonstone to the forbidding shores of Winterfell, chaos reigns, as pretenders to the Iron Throne of the Seven Kingdoms prepare to stake their claims through tempest, turmoil, and war. <br /><br />As a prophecy of doom cuts across the sky—a comet the color of blood and flame—six factions struggle for control of a divided land. Eddard's son Robb has declared himself King in the North. In the south, Joffrey, the heir apparent, rules in name only, victim of the scheming courtiers who teem over King's Landing. Robert's two brothers each seek their own dominion, while a disfavored house turns once more to conquest. And a continent away, an exiled queen, the Mother of Dragons, risks everything to lead her precious brood across a hard hot desert to win back the crown that is rightfully hers. <br /><br />A Clash of Kings transports us into a magnificent, forgotten land of revelry and revenge, wizardry and wartime. It is a tale in which maidens cavort with madmen, brother plots against brother, and the dead rise to walk in the night. Here a princess masquerades as an orphan boy; a knight of the mind prepares a poison for a treacherous sorceress; and wild men descend from the Mountains of the Moon to ravage the countryside. <br /><br />Against a backdrop of incest and fratricide, alchemy and murder, the price of glory may be measured in blood. And the spoils of victory may just go to the men and women possessed of the coldest steel...and the coldest hearts. For when rulers clash, all of the land feels the tremors. <br /><br />Audacious, inventive, brilliantly imagined, A Clash of Kings is a novel of dazzling beauty and boundless enchantment;a tale of pure excitement you will never forget.",
+        "authors": {
+          "author": {
+            "id": "346732",
+            "name": "George R.R. Martin",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1351944410p5/346732.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1351944410p2/346732.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/346732.George_R_R_Martin"
+            },
+            "avr_rate": "4.37",
+            "r_count": "4255910",
+            "trc": "164002"
+          }
+        },
+        "pub": "2002",
+        "work": {
+          "id": "3272005"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Sep 11 18:02:30 -0700 2011",
+      "read_at": " Oct 13 18:39:49 -0700 2011",
+      "date_added": " Sep 11 18:02:30 -0700 2011",
+      "date_updated": " Oct 13 18:39:49 -0700 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/207479359"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/207479359"
+      }
+    },
+    {
+      "id": "191605872",
+      "book": {
+        "id": "6945530",
+        "isbn": "0061558265",
+        "isbn13": "9780061558269",
+        "trc": "1602",
+        "title": "The Night Eternal (The Strain Trilogy, #3)",
+        "tws": "The Night Eternal",
+        "img": "https://images.gr-assets.com/books/1327932900m/6945530.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1327932900s/6945530.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/6945530-the-night-eternal",
+        "num_pages": "371",
+        "ei": "",
+        "pub": "HarperCollins Publishers",
+        "pub_day": "25",
+        "pub_year": "2011",
+        "pub_month": "10",
+        "avr_rate": "3.67",
+        "r_count": "23521",
+        "desc": "It's been two years since the vampiric virus was unleashed in The Strain and the entire world now lies on the brink of annihilation. There has been a mass extermination of humans orchestrated by the Master—an ancient vampire possessed of unparalleled powers. The future of humankind lies in the hands of a ragtag band of freedom fighters—Dr. Eph Goodweather, Dr. Nora Martinez, Vasiliy Fet, and Mr. Quinlan, the half-breed offspring of the Master who is bent on revenge. It's their job to overturn this devastating new world order. But good and evil are malleable terms now, and the Master is most skilled at preying on the weaknesses of humans.<br /><br />Now, at this critical hour, there is evidence of a traitor in their midst. . . And only one man holds the answer to the Master's demise, but is he one who can be trusted with the fate of the world? And who among them will pay the ultimate sacrifice—so that others may be saved?",
+        "authors": {
+          "author": {
+            "id": "167605",
+            "name": "Guillermo del Toro",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1486483613p5/167605.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1486483613p2/167605.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/167605.Guillermo_del_Toro"
+            },
+            "avr_rate": "3.78",
+            "r_count": "132268",
+            "trc": "11251"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "6965593"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Dec 27 18:23:28 -0800 2011",
+      "read_at": "Wed Jan 04 10:50:48 -0800 2012",
+      "date_added": " Jul 29 04:54:51 -0700 2011",
+      "date_updated": "Wed Jan 04 10:50:48 -0800 2012",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/191605872"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/191605872"
+      }
+    },
+    {
+      "id": "191605655",
+      "book": {
+        "id": "13496",
+        "isbn": "0553588486",
+        "isbn13": "9780553588484",
+        "trc": "34940",
+        "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+        "tws": "A Game of Thrones",
+        "img": "https://images.gr-assets.com/books/1436732693m/13496.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1436732693s/13496.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones",
+        "num_pages": "848",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub": "Bantam",
+        "pub_day": "",
+        "pub_year": "2005",
+        "pub_month": "8",
+        "avr_rate": "4.45",
+        "r_count": "1479525",
+        "desc": "Summers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun.<br /><br />As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must … and a dead enemy is a thing of beauty.<br /><br />The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.",
+        "authors": {
+          "author": {
+            "id": "346732",
+            "name": "George R.R. Martin",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1351944410p5/346732.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1351944410p2/346732.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/346732.George_R_R_Martin"
+            },
+            "avr_rate": "4.37",
+            "r_count": "4255910",
+            "trc": "164002"
+          }
+        },
+        "pub": "2005",
+        "work": {
+          "id": "1466917"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Jul 29 04:52:58 -0700 2011",
+      "read_at": " Sep 11 18:01:59 -0700 2011",
+      "date_added": " Jul 29 04:52:58 -0700 2011",
+      "date_updated": " Sep 11 18:01:59 -0700 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/191605655"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/191605655"
+      }
+    },
+    {
+      "id": "184774914",
+      "book": {
+        "id": "8429687",
+        "isbn": "031608106X",
+        "isbn13": "9780316081061",
+        "trc": "1787",
+        "title": "Deadline (Newsflesh Trilogy, #2)",
+        "tws": "Deadline",
+        "img": "https://images.gr-assets.com/books/1408500444m/8429687.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1408500444s/8429687.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/8429687-deadline",
+        "num_pages": "584",
+        "ei": "",
+        "pub": "Orbit",
+        "pub_day": "1",
+        "pub_year": "2011",
+        "pub_month": "6",
+        "avr_rate": "4.10",
+        "r_count": "20484",
+        "desc": "Shaun Mason is a man without a mission. Not even running the news organization he built with his sister has the same urgency as it used to. Playing with dead things just doesn't seem as fun when you've lost as much as he has.<br /><br />But when a CDC researcher fakes her own death and appears on his doorstep with a ravenous pack of zombies in tow, Shaun has a newfound interest in life. Because she brings news-he may have put down the monster who attacked them, but the conspiracy is far from dead.<br /><br />Now, Shaun hits the road to find what truth can be found at the end of a shotgun. <br /><br /><b>Newsflesh </b><br /><i>Feed</i><br /><i>Deadline</i><br /><i>Blackout</i><br /><br /><br />For more from Mira Grant, check out:<br /><br /><b>Parasitology</b><br /><i>Parasite</i><br /><i>Symbiont </i><br /><i>Chimera</i><br /><br /><b>Newsflesh Short Fiction</b><br /><i>Apocalypse Scenario #683: The Box</i><br /><i>Countdown</i><br /><i>San Diego 2014: The Last Stand of the California Browncoats</i><br /><i>How Green This Land, How Blue This Sea</i><br /><i>The Day the Dead Came to Show and Tell</i><br /><i>Please Do Not Taunt the Octopus </i>",
+        "authors": {
+          "author": {
+            "id": "3153776",
+            "name": "Mira Grant",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1380320279p5/3153776.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1380320279p2/3153776.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/3153776.Mira_Grant"
+            },
+            "avr_rate": "3.94",
+            "r_count": "120068",
+            "trc": "14504"
+          }
+        },
+        "pub": "2011",
+        "work": {
+          "id": "13292985"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": "Wed Jul 13 17:18:38 -0700 2011",
+      "date_updated": "Wed Jul 13 17:18:38 -0700 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/184774914"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/184774914"
+      }
+    },
+    {
+      "id": "178616365",
+      "book": {
+        "id": "185823",
+        "isbn": "0765344211",
+        "isbn13": "9780765344212",
+        "trc": "22",
+        "title": "Engine City (Engines Of Light, #3)",
+        "tws": "Engine City",
+        "img": "https://images.gr-assets.com/books/1316131141m/185823.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1316131141s/185823.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/185823.Engine_City",
+        "num_pages": "304",
+        "ei": "",
+        "pub": "Tor Books",
+        "pub_day": "5",
+        "pub_year": "2004",
+        "pub_month": "1",
+        "avr_rate": "3.58",
+        "r_count": "788",
+        "desc": "WHO OWNS THE STARS?<br /><br />For ten thousand years Nova Babylonia has been the greatest city of the Second Sphere, an interstellar civilization of human and other beings who have been secretly removed, throughout history, from Earth.<br /> Now humans from the far reaches of the Sphere have come, to offer immortality-and to urge them to build defenses against the alien invasion they know is coming.<br /><br />As humans and aliens compete and conspire, the wheels of history will lathe all the players into shapes new and surprising. The alien invasion will reach New Babylon at last-led by the most alien figure of all.<br />",
+        "authors": {
+          "author": {
+            "id": "108281",
+            "name": "Ken MacLeod",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1283522468p5/108281.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1283522468p2/108281.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/108281.Ken_MacLeod"
+            },
+            "avr_rate": "3.72",
+            "r_count": "26719",
+            "trc": "1833"
+          }
+        },
+        "pub": "2004",
+        "work": {
+          "id": "1104973"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "started_at": " Jun 21 18:20:44 -0700 2011",
+      "read_at": "Wed Jul 13 17:18:07 -0700 2011",
+      "date_added": " Jun 21 18:20:44 -0700 2011",
+      "date_updated": "Wed Jul 13 17:18:07 -0700 2011",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/178616365"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/178616365"
+      }
+    }
+  ]
+}

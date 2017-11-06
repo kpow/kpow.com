@@ -1,0 +1,674 @@
+{
+  "review": [
+    {
+      "id": "7233785",
+      "book": {
+        "id": "105",
+        "isbn": "0441102670",
+        "isbn13": "9780441102679",
+        "trc": "472",
+        "title": "Chapterhouse: Dune (Dune Chronicles #6)",
+        "tws": "Chapterhouse: Dune",
+        "img": "https://images.gr-assets.com/books/1260954505m/105.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1260954505s/105.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/105.Chapterhouse",
+        "num_pages": "436",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub": "Ace Books",
+        "pub_day": "1",
+        "pub_year": "1987",
+        "pub_month": "7",
+        "avr_rate": "3.89",
+        "r_count": "37749",
+        "desc": "The desert planet Arrakis, called Dune, has been destroyed. Now, the Bene Gesserit, heirs to Dune's power, have colonized a green world--and are turning it into a desert, mile by scorched mile.<br />Here is the last book <b>Frank Herbert</b> wrote before his death. A stunning climax to the epic Dune legend that will live on forever...",
+        "authors": {
+          "author": {
+            "id": "58",
+            "name": "Frank Herbert",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1168661521p5/58.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1168661521p2/58.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/58.Frank_Herbert"
+            },
+            "avr_rate": "4.07",
+            "r_count": "946814",
+            "trc": "22117"
+          }
+        },
+        "pub": "1987",
+        "work": {
+          "id": "3634569"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": "Wed Oct 03 19:18:07 -0700 2007",
+      "date_updated": "Wed Oct 03 19:18:07 -0700 2007",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/7233785"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/7233785"
+      }
+    },
+    {
+      "id": "7233776",
+      "book": {
+        "id": "106",
+        "isbn": "0441172695",
+        "isbn13": "9780441172696",
+        "trc": "1920",
+        "title": "Dune Messiah (Dune Chronicles #2)",
+        "tws": "Dune Messiah",
+        "img": "https://images.gr-assets.com/books/1392528394m/106.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1392528394s/106.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/106.Dune_Messiah",
+        "num_pages": "331",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub": "Ace Books",
+        "pub_day": "15",
+        "pub_year": "1987",
+        "pub_month": "7",
+        "avr_rate": "3.86",
+        "r_count": "92327",
+        "desc": "<b>Dune Messiah</b> continues the story of the man Muad'dib, heir to a power unimaginable, bringing to completion the centuries-old scheme to create a super-being.\"Brilliant...It is all that <b>Dune</b> was, and maybe a little bit more.\"--<b>Galaxy Magazine</b>",
+        "authors": {
+          "author": {
+            "id": "58",
+            "name": "Frank Herbert",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1168661521p5/58.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1168661521p2/58.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/58.Frank_Herbert"
+            },
+            "avr_rate": "4.07",
+            "r_count": "946814",
+            "trc": "22117"
+          }
+        },
+        "pub": "1987",
+        "work": {
+          "id": "3634570"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": "Wed Oct 03 19:18:01 -0700 2007",
+      "date_updated": "Wed Oct 03 19:18:01 -0700 2007",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/7233776"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/7233776"
+      }
+    },
+    {
+      "id": "7233617",
+      "book": {
+        "id": "20253",
+        "isbn": "0553580302",
+        "isbn13": "9780553580303",
+        "trc": "177",
+        "title": "House Harkonnen (Prelude to Dune #2)",
+        "tws": "House Harkonnen",
+        "img": "https://images.gr-assets.com/books/1403181168m/20253.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1403181168s/20253.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/20253.House_Harkonnen",
+        "num_pages": "733",
+        "ei": "",
+        "pub": "Spectra Books",
+        "pub_day": "28",
+        "pub_year": "2001",
+        "pub_month": "8",
+        "avr_rate": "3.64",
+        "r_count": "13164",
+        "desc": "Brian Herbert and Kevin J. Anderson return to the vivid universe of Frank Herbert's <b>Dune</b>, bringing a vast array of rich and complex characters into conflict to shape the destiny of worlds....<br /><br />As Shaddam sits at last on the Golden Lion Throne, Baron Vladimir Harkonnen plots against the new Emperor and House Atreides -- and against the mysterious Sisterhood of the Bene Gesserit. For Leto Atreides, grown complacent and comfortable as ruler of his House, it is a time of momentous choice: between friendship and duty, safety and destiny. But for the survival of House Atreides, there is just one choice -- strive for greatness or be crushed.",
+        "authors": {
+          "author": {
+            "id": "56",
+            "name": "Brian Herbert",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p5/56.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p2/56.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/56.Brian_Herbert"
+            },
+            "avr_rate": "3.67",
+            "r_count": "137835",
+            "trc": "4004"
+          }
+        },
+        "pub": "2001",
+        "work": {
+          "id": "705946"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": "Wed Oct 03 19:15:29 -0700 2007",
+      "date_updated": "Wed Oct 03 19:15:29 -0700 2007",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/7233617"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/7233617"
+      }
+    },
+    {
+      "id": "7233614",
+      "book": {
+        "id": "99219",
+        "isbn": "0765340771",
+        "isbn13": "9780765340771",
+        "trc": "360",
+        "title": "The Butlerian Jihad (Legends of Dune, #1)",
+        "tws": "The Butlerian Jihad",
+        "img": "https://images.gr-assets.com/books/1505458671m/99219.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1505458671s/99219.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/99219.The_Butlerian_Jihad",
+        "num_pages": "684",
+        "ei": "",
+        "pub_day": "",
+        "avr_rate": "3.57",
+        "r_count": "15987",
+        "desc": "Frank Herbert's Dune series is one of the great creations of imaginative literature, science fiction's answer to The<i> Lord of the Rings.</i><br /><br />Decades after Herbert's original novels, the Dune saga was continued by Frank Herbert's son, Brian Herbert, in collaboration with Kevin J. Anderson. Working from Frank Herbert's own notes, the acclaimed authors reveal the chapter of the <i>Dune </i>saga most eagerly anticipated by readers: the Butlerian Jihad.<br /><br />Throughout the Dune novels, Frank Herbert frequently referred to the war in which humans wrested their freedom from \"thinking machines.\" In<i> Dune: The Butlerian Jihad</i>, Brian Herbert and Kevin J. Anderson bring to life the story of that war, a tale previously seen only in tantalizing hints and clues. Finally, we see how Serena Butler's passionate grief ignites the struggle that will liberate humans from their machine masters; here is the amazing tale of the Zensunni Wanderers, who escape bondage to flee to the desert world where they will declare themselves the Free Men of Dune. And here is the backward, nearly forgotten planet of Arrakis, where traders have discovered the remarkable properties of the spice melange....",
+        "authors": {
+          "author": {
+            "id": "56",
+            "name": "Brian Herbert",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p5/56.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p2/56.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/56.Brian_Herbert"
+            },
+            "avr_rate": "3.67",
+            "r_count": "137835",
+            "trc": "4004"
+          }
+        },
+        "work": {
+          "id": "1278722"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": "Wed Oct 03 19:15:26 -0700 2007",
+      "date_updated": "Wed Oct 03 19:15:26 -0700 2007",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/7233614"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/7233614"
+      }
+    },
+    {
+      "id": "7233613",
+      "book": {
+        "id": "99218",
+        "isbn": "076534078X",
+        "isbn13": "9780765340788",
+        "trc": "188",
+        "title": "The Machine Crusade (Legends of Dune, #2)",
+        "tws": "The Machine Crusade",
+        "img": "https://images.gr-assets.com/books/1412547890m/99218.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1412547890s/99218.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/99218.The_Machine_Crusade",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub_day": "",
+        "avr_rate": "3.73",
+        "r_count": "11163",
+        "desc": "<i>Alternate cover edition located <b><a href=\"https://www.goodreads.com/book/show/29579160-the-machine-crusade\" rel=\"nofollow\">here</a></b>.</i><br /><br />The breathtaking vision and incomparable storytelling of Brian Herbert and Kevin Anderson's <i>Dune: The Butlerian Jihad</i>, a prequel to Frank Herbert's classic <i>Dune</i>, propelled it to the ranks of speculative fiction's classics in its own right. Now, with all the color, scope, and fascination of the prior novel, comes <i>Dune: The Machine Crusade.</i><br />. <br />More than two decades have passed since the events chronicled in <i>The Butlerian Jihad</i>. The crusade against thinking robots has ground on for years, but the forces led by Serena Butler and Irbis Ginjo have made only slight gains; the human worlds grow weary of war, of the bloody, inconclusive swing from victory to defeat.<br /><br />The fearsome cymeks, led by Agamemnon, hatch new plots to regain their lost power from Omnius--as their numbers dwindle and time begins to run out. The fighters of Ginaz, led by Jool Noret, forge themselves into an elite warrior class, a weapon against the machine-dominated worlds. Aurelius Venport and Norma Cenva are on the verge of the most important discovery in human history-a way to \"fold\" space and travel instantaneously to any place in the galaxy.<br /><br />And on the faraway, nearly worthless planet of Arrakis, Selim Wormrider and his band of outlaws take the first steps to making themselves the feared fighters who will change the course of history: the Fremen.<br /><br />Here is the unrivaled imaginative power that has put Brian Herbert and Kevin Anderson on bestseller lists everywhere and earned them the high regard of readers around the globe. The fantastic saga of <i>Dune </i>continues in <i>Dune: The Machine Crusade.</i>",
+        "authors": {
+          "author": {
+            "id": "56",
+            "name": "Brian Herbert",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p5/56.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p2/56.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/56.Brian_Herbert"
+            },
+            "avr_rate": "3.67",
+            "r_count": "137835",
+            "trc": "4004"
+          }
+        },
+        "work": {
+          "id": "2081848"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": "Wed Oct 03 19:15:25 -0700 2007",
+      "date_updated": "Wed Oct 03 19:15:25 -0700 2007",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/7233613"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/7233613"
+      }
+    },
+    {
+      "id": "7233608",
+      "book": {
+        "id": "761575",
+        "isbn": "0553580272",
+        "isbn13": "9780553580273",
+        "trc": "341",
+        "title": "House Atreides (Prelude to Dune #1)",
+        "tws": "House Atreides",
+        "img": "https://images.gr-assets.com/books/1403181106m/761575.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1403181106s/761575.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/761575.House_Atreides",
+        "num_pages": "704",
+        "ei": "",
+        "pub": "Bantam Spectra",
+        "pub_day": "1",
+        "pub_year": "2000",
+        "pub_month": "8",
+        "avr_rate": "3.70",
+        "r_count": "18043",
+        "desc": "Frank Herbert's award-winning <i>Dune</i> chronicles captured the imagination of millions of readers worldwide. By his death in 1986, Herbert had completed six novels in the series, but much of his vision remained unwritten. Now, working from his father's recently discovered files, Brian Herbert and bestselling novelist Kevin J. Anderson collaborate on a new novel, the prelude to <i>Dune</i>—where we step onto the planet Arrakis…decades before <i>Dune</i>'s hero, Paul Muad'Dib Atreides, walks its sands.<br /><br />Here is the rich and complex world that Frank Herbert created, in the time leading up to the momentous events of <i>Dune</i>. As Emperor Elrood's son plots a subtle regicide, young Leto Atreides leaves for a year's education on the mechanized world of Ix; a planetologist named Pardot Kynes seeks the secrets of Arrakis; and the eight-year-old slave Duncan Idaho is hunted by his cruel masters in a terrifying game from which he vows escape and vengeance. But none can envision the fate in store form them; one that will make them renegades—and shapers of history.",
+        "authors": {
+          "author": {
+            "id": "56",
+            "name": "Brian Herbert",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p5/56.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p2/56.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/56.Brian_Herbert"
+            },
+            "avr_rate": "3.67",
+            "r_count": "137835",
+            "trc": "4004"
+          }
+        },
+        "pub": "2000",
+        "work": {
+          "id": "711892"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": "Wed Oct 03 19:15:19 -0700 2007",
+      "date_updated": "Wed Oct 03 19:15:19 -0700 2007",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/7233608"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/7233608"
+      }
+    },
+    {
+      "id": "7233605",
+      "book": {
+        "id": "20252",
+        "isbn": "0553580337",
+        "isbn13": "9780553580334",
+        "trc": "148",
+        "title": "House Corrino (Prelude to Dune #3)",
+        "tws": "House Corrino",
+        "img": "https://images.gr-assets.com/books/1298689043m/20252.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1298689043s/20252.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/20252.House_Corrino",
+        "num_pages": "667",
+        "ei": "",
+        "pub": "Spectra Books",
+        "pub_day": "27",
+        "pub_year": "2002",
+        "pub_month": "8",
+        "avr_rate": "3.64",
+        "r_count": "12137",
+        "desc": "<b>The triumphant conclusion to the blockbuster trilogy that made science fiction history!<br /></b><br />In <b>Dune: House Corrino</b> Brian Herbert and Kevin J. Anderson bring us the magnificent final chapter in the unforgettable saga begun in <b>Dune: House Atreides</b> and continued in <b>Dune: House Harkonnen</b>. <br />Here nobles and commoners, soldiers and slaves, wives and courtesans shape the amazing destiny of a tumultuous universe. An epic saga of love and war, crime and politics, religion and revolution, this magnificent novel is a fitting conclusion to a great science fiction trilogy ... and an invaluable addition to the thrilling world of Frank Herbert's immortal <b>Dune</b>. <br /><b>Dune: House Corrino<br /></b><br />Fearful of losing his precarious hold on the Golden Lion Throne, Shaddam IV, Emperor of a Million Worlds, has devised a radical scheme to develop an alternative to melange, the addictive spice that binds the Imperium together and that can be found only on the desert world of Dune. <br />In subterranean labs on the machine planet Ix, cruel Tleilaxu overlords use slaves and prisoners as part of a horrific plan to manufacture a synthetic form of melange known as amal. If amal can supplant the spice from Dune, it will give Shaddam what he seeks: absolute power. <br />But Duke Leto Atreides, grief-stricken yet unbowed by the tragic death of his son Victor, determined to restore the honor and prestige of his House, has his own plans for Ix. <br />He will free the Ixians from their oppressive conquerors and restore his friend Prince Rhombur, injured scion of the disgraced House Vernius, to his rightful place as Ixian ruler. It is a bold and risky venture, for House Atreides has limited military resources and many ruthless enemies, including the sadistic Baron Harkonnen, despotic master of Dune. <br />Meanwhile, Duke Leto's consort, the beautiful Lady Jessica, obeying the orders of her superiors in the Bene Gesserit Sisterhood, has conceived a child that the Sisterhood intends to be the penultimate step in the creation of an all-powerful being. Yet what the Sisterhood doesn't know is that the child Jessica is carrying is not the girl they are expecting, but a boy. <br />Jessica's act of disobedience is an act of love -- her attempt to provide her Duke with a male heir to House Atreides -- but an act that, when discovered, could kill both mother and baby. <br />Like the Bene Gesserit, Shaddam Corrino is also concerned with making a plan for the future -- securing his legacy. Blinded by his need for power, the Emperor will launch a plot against Dune, the only natural source of true spice. If he succeeds, his madness will result in a cataclysmic tragedy not even he foresees: the end of space travel, the Imperium, and civilization itself. <br />With Duke Leto and other renegades and revolutionaries fighting to stem the tide of darkness that threatens to engulf their universe, the stage is set for a showdown unlike any seen before. <i>From the Hardcover edition.</i>",
+        "authors": {
+          "author": {
+            "id": "56",
+            "name": "Brian Herbert",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p5/56.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p2/56.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/56.Brian_Herbert"
+            },
+            "avr_rate": "3.67",
+            "r_count": "137835",
+            "trc": "4004"
+          }
+        },
+        "pub": "2002",
+        "work": {
+          "id": "705991"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": "Wed Oct 03 19:15:12 -0700 2007",
+      "date_updated": "Wed Oct 03 19:15:12 -0700 2007",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/7233605"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/7233605"
+      }
+    },
+    {
+      "id": "7233601",
+      "book": {
+        "id": "99220",
+        "isbn": "0765340798",
+        "isbn13": "9780765340795",
+        "trc": "141",
+        "title": "The Battle of Corrin (Legends of Dune, #3)",
+        "tws": "The Battle of Corrin",
+        "img": "https://images.gr-assets.com/books/1317792692m/99220.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1317792692s/99220.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/99220.The_Battle_of_Corrin",
+        "num_pages": "704",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub": "Tor Books",
+        "pub_day": "1",
+        "pub_year": "2005",
+        "pub_month": "9",
+        "avr_rate": "3.72",
+        "r_count": "9878",
+        "desc": "<i>Alternate cover edition located <b><a href=\"https://www.goodreads.com/book/show/18680369-the-battle-of-corrin\" rel=\"nofollow\">here</a></b>.</i><br /><br />Following their internationally bestselling novels <i>Dune: The Butlerian Jihad</i> and <i>Dune: The Machine Crusade</i>, Brian Herbert and Kevin J. Anderson forge a final tumultuous finish to their prequels to Frank Herbert's <i>Dune</i>.<br /><br />It has been fifty-six hard years since the events of <i>The Machine Crusade</i>. Following the death of Serena Butler, the bloodiest decades of the Jihad take place. Synchronized Worlds and Unallied Planets are liberated one by one, and at long last, after years of victory, the human worlds begin to hope that the end of the centuries-long conflict with the thinking machines is finally in sight.<br /><br />Unfortunately, Omnius has one last, deadly card to play. In a last-ditch effort to destroy humankind, virulent plagues are let loose throughout the galaxy, decimating the populations of whole planets . . . and once again, the tide of the titanic struggle shifts against the warriors of the human race. At last, the war that has lasted many lifetimes will be decided in the apocalyptic Battle of Corrin.<br /><br />In the greatest battle in science fiction history, human and machine face off one last time. . . . And on the desert planet of Arrakis, the legendary Fremen of Dune become the feared fighting force to be discovered by Paul Muad'Dib in Frank Herbert's classic, <i>Dune</i>.",
+        "authors": {
+          "author": {
+            "id": "56",
+            "name": "Brian Herbert",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p5/56.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p2/56.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/56.Brian_Herbert"
+            },
+            "avr_rate": "3.67",
+            "r_count": "137835",
+            "trc": "4004"
+          }
+        },
+        "pub": "2005",
+        "work": {
+          "id": "21444"
+        }
+      },
+      "rating": "3",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": "Wed Oct 03 19:15:04 -0700 2007",
+      "date_updated": "Wed Oct 03 19:15:04 -0700 2007",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/7233601"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/7233601"
+      }
+    },
+    {
+      "id": "7233586",
+      "book": {
+        "id": "642049",
+        "isbn": "076535148X",
+        "isbn13": "9780765351487",
+        "trc": "30",
+        "title": "Hunters Of Dune (Dune Chronicles, #7)",
+        "tws": "Hunters Of Dune",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/642049.Hunters_Of_Dune",
+        "format": "Mass Market Paperback",
+        "ei": "",
+        "pub_day": "",
+        "avr_rate": "3.63",
+        "r_count": "10269",
+        "desc": "Hunters of Dune and the concluding volume, Sandworms of Dune, bring together the great story lines and beloved characters in Frank Herbert's classic Dune universe, ranging from the time of the Butlerian Jihad to the original Dune series and beyond. Based directly on Frank Herbert's final outline, which lay hidden in a safe-deposit box for a decade, these two volumes will finally answer the urgent questions Dune fans have been debating for two decades.At the end of Chapterhouse: Dune-Frank Herbert's final novel--a ship carrying the ghola of Duncan Idaho, Sheeana (a young woman who can control sandworms), and a crew of various refugees escapes into the uncharted galaxy, fleeing from the monstrous Honored Matres, dark counterparts to the Bene Gesserit Sisterhood. The nearly invincible Honored Matres have swarmed into the known universe, driven from their home by a terrifying, mysterious Enemy. As designed by the creative genius of Frank Herbert, the primary story of Hunters and Sandworms is the exotic odyssey of Duncan's no-ship as it is forced to elude the diabolical traps set by the ferocious, unknown Enemy. To strengthen their forces, the fugitives have used genetic technology from Scytale, the last Tleilaxu Master, to revive key figures from Dune's past-including Paul Muad'Dib and his beloved Chani, Lady Jessica, Stilgar, Thufir Hawat, and even Dr. Wellington Yueh. Each of these characters will use their special talents to meet the challenges thrown at them.Failure is unthinkable--not only is their survival at stake, but they hold the fate of the entire human race in their hands.",
+        "authors": {
+          "author": {
+            "id": "56",
+            "name": "Brian Herbert",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p5/56.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p2/56.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/56.Brian_Herbert"
+            },
+            "avr_rate": "3.67",
+            "r_count": "137835",
+            "trc": "4004"
+          }
+        },
+        "work": {
+          "id": "4911"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": "Wed Oct 03 19:14:46 -0700 2007",
+      "date_updated": "Wed Oct 03 19:14:46 -0700 2007",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/7233586"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/7233586"
+      }
+    },
+    {
+      "id": "7233534",
+      "book": {
+        "id": "42434",
+        "isbn": "076531293X",
+        "isbn13": "9780765312938",
+        "trc": "224",
+        "title": "Sandworms of Dune (Dune Chronicles #8)",
+        "tws": "Sandworms of Dune",
+        "img": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+        "sm_img": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/42434.Sandworms_of_Dune",
+        "num_pages": "494",
+        "ei": "",
+        "pub_day": "",
+        "avr_rate": "3.62",
+        "r_count": "8528",
+        "desc": "At the end of Frank Herbert's final novel, <i>Chapterhouse: Dune,</i> a ship carrying a crew of refugees escapes into the uncharted galaxy, fleeing from a terrifying, mysterious Enemy. The fugitives used genetic technology to revive key figures from Dune's past--including Paul Muad'Dib and Lady Jessica--to use their special talents to meet the challenges thrown at them.<br /><br />Based directly on Frank Herbert's final outline, which lay hidden in two safe-deposit boxes for a decade, <i>Sandworms of Dune </i>will answer the urgent questions Dune fans have been debating for two decades: the origin of the Honored Matres, the tantalizing future of the planet Arrakis, the final revelation of the Kwisatz Haderach, and the resolution to the war between Man and Machine. This breathtaking new novel in Frank Herbert's Dune series has enough surprises and plot twists to please even the most demanding reader.",
+        "authors": {
+          "author": {
+            "id": "56",
+            "name": "Brian Herbert",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p5/56.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1477569035p2/56.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/56.Brian_Herbert"
+            },
+            "avr_rate": "3.67",
+            "r_count": "137835",
+            "trc": "4004"
+          }
+        },
+        "work": {
+          "id": "41917"
+        }
+      },
+      "rating": "4",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "date_added": "Wed Oct 03 19:14:09 -0700 2007",
+      "date_updated": "Wed Oct 03 19:14:09 -0700 2007",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/7233534"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/7233534"
+      }
+    },
+    {
+      "id": "7233346",
+      "book": {
+        "id": "234225",
+        "isbn": "0340839937",
+        "isbn13": "9780340839935",
+        "trc": "9938",
+        "title": "Dune (Dune Chronicles #1)",
+        "tws": "Dune",
+        "img": "https://images.gr-assets.com/books/1434908555m/234225.jpg",
+        "sm_img": "https://images.gr-assets.com/books/1434908555s/234225.jpg",
+        "lg_img": "",
+        "link": "https://www.goodreads.com/book/show/234225.Dune",
+        "num_pages": "604",
+        "ei": "",
+        "pub": "Hodder & Stoughton",
+        "pub_day": "1",
+        "pub_year": "2006",
+        "pub_month": "6",
+        "avr_rate": "4.19",
+        "r_count": "535221",
+        "desc": "This book was mistakenly published under <a href=\"https://www.goodreads.com/book/show/2184419.Masculino_Que_Ninguno\" rel=\"nofollow\">ISBN13: 9780965017763</a>.<br /><br />Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, Dune tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the 'spice' melange, the most important and valuable substance in the cosmos. The story explores the complex, multi-layered interactions of politics, religion, ecology, technology, and human emotion as the forces of the empire confront each other for control of Arrakis.<br /><br />Published in 1965, it won the Hugo Award in 1966 and the inaugural Nebula Award for Best Novel. Dune is frequently cited as the world's best-selling sf novel.",
+        "authors": {
+          "author": {
+            "id": "58",
+            "name": "Frank Herbert",
+            "img": {
+              "url": "https://images.gr-assets.com/authors/1168661521p5/58.jpg"
+            },
+            "sm_img": {
+              "url": "https://images.gr-assets.com/authors/1168661521p2/58.jpg"
+            },
+            "link": {
+              "url": "https://www.goodreads.com/author/show/58.Frank_Herbert"
+            },
+            "avr_rate": "4.07",
+            "r_count": "946814",
+            "trc": "22117"
+          }
+        },
+        "pub": "2006",
+        "work": {
+          "id": "3634639"
+        }
+      },
+      "rating": "5",
+      "shelves": {
+        "shelf": [
+          {
+            "id": "read"
+          }
+        ]
+      },
+      "read_at": " Jun 01 00:00:00 -0700 1991",
+      "date_added": "Wed Oct 03 19:11:15 -0700 2007",
+      "date_updated": "Wed Oct 03 19:12:03 -0700 2007",
+      "url": {
+        "url": "https://www.goodreads.com/review/show/7233346"
+      },
+      "link": {
+        "url": "https://www.goodreads.com/review/show/7233346"
+      }
+    }
+  ]
+}
