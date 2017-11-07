@@ -15,11 +15,7 @@ class Books extends Component {
   }
 
   componentDidUpdate = () => {
-
-    if(this.state.totalItemsInView>3){
-      window.scrollTo(0,0);
-    }
-
+    if(this.state.totalItemsInView>3){window.scrollTo(0,0);}
   }
 
   componentDidMount() { this.getDisplayData(); }
@@ -27,11 +23,7 @@ class Books extends Component {
   getDisplayData = () => {
       let data = this.props.data;
       let toDisplayItems = [];
-
-      for(let i=0; i<=this.state.totalItemsInView-1; i++){
-        toDisplayItems.push(data[i]);
-      }
-
+      for(let i=0; i<=this.state.totalItemsInView-1; i++){toDisplayItems.push(data[i]);}
       this.setState({ displayItems: toDisplayItems });
   }
 

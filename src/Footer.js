@@ -59,7 +59,7 @@ class Footer extends Component {
         </Container>
       </Segment>
     )
-}
+  }
 }
 
 export default Footer;
