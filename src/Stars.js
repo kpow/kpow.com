@@ -54,7 +54,7 @@ class Stars extends Component {
         <Grid columns={3} container stackable >
           <Grid.Row>
           {this.state.displayItems.map((item, index) => (
-            <Grid.Column>
+            <Grid.Column key={index}>
               <StarItem key={index} data={item} />
             </Grid.Column>
           ))}
