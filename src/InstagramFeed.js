@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import { Player, BigPlayButton } from 'video-react';
+import ReactDOM from 'react-dom';
+import { Player, BigPlayButton, ControlBar } from 'video-react';
 
-import { Button, Container, Grid, Header,Card, Icon,Modal, Image} from 'semantic-ui-react'
+import { Button, Divider, Container, Grid, Header,Card, Icon,Modal, Image, Item, Label, Menu, Segment, Step, Table} from 'semantic-ui-react'
 import CardNav from './CardNav.js';
 
 export class InstagramFeed extends Component {
@@ -53,7 +54,7 @@ export class InstagramFeed extends Component {
         <Grid columns={this.state.totalItemsInView} container stackable >
           <Grid.Row>
           {this.state.displayItems.map((obj, i) => (
-            <Grid.Column key={i}>
+            <Grid.Column>
             <Card fluid style={{ marginBottom:'20px'}}>
              <Image src={obj.images.standard_resolution.url} centered/>
              <Card.Content>

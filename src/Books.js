@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import ReactDOM from 'react-dom';
+
 import {  Container, Grid, Header,} from 'semantic-ui-react';
 
 import CardNav from './CardNav.js';
@@ -54,7 +56,7 @@ class Books extends Component {
         <Grid columns={3} container stackable>
           <Grid.Row>
           {this.state.displayItems.map((item, index) => (
-            <Grid.Column key={index}> 
+            <Grid.Column>
               <BookItem data={item} />
             </Grid.Column>
           ))}

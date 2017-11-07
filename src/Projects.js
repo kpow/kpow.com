@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { Player, BigPlayButton } from 'video-react';
+import { Player, BigPlayButton, ControlBar } from 'video-react';
 
-import {Button,Container,Grid,Header,Image,Segment,} from 'semantic-ui-react';
+import {Button,Container,Divider,Grid,Header,Icon,Image,List,Menu,Segment,Visibility,Card,} from 'semantic-ui-react';
 
 import Slider from 'react-slick';
 
@@ -45,7 +45,7 @@ class Projects extends Component {
          <Slider {...settings} afterChange={this.onSlideChange}>
 
          {this.props.data.map((item, index) => (
-             <div key={index} style={{width:"600px"}}>
+             <div style={{width:"600px"}}>
 
              {item.content.video ? (
 
