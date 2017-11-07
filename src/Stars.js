@@ -20,6 +20,7 @@ class Stars extends Component {
       window.scrollTo(0,0);
     }
 
+    
   }
 
   componentDidMount() {  this._getDisplayData(); }
