@@ -19,16 +19,22 @@ export class InstagramFeed extends Component {
   componentDidMount() { this.getDisplayData(); }
 
   getDisplayData = () => {
+
       let data = this.props.data;
+      console.log(data);
       let toDisplayItems = [];
+
       for(let i=0; i<=this.state.totalItemsInView-1; i++){ toDisplayItems.push(data[i]); }
+
       this.setState({ displayItems: toDisplayItems });
+
   }
 
   setDisplayData = (data)=>{ this.setState({ displayItems: data }); }
 
   handleOpen = (whichOne) => this.setState({ modalOpen: true, currentVideo:whichOne});
   handleClose = () => this.setState({ modalOpen: false });
+
 
   render() {
 

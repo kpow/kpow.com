@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import './App.css';
 import {Route, Switch } from 'react-router-dom';
 
+
+
 import {AllStarsLayoutContainer} from './AllStarsLayout.js';
 import {AllBooksLayoutContainer} from './AllBooksLayout.js';
 import {HomepageLayoutContainer} from './HomepageLayout.js';
@@ -17,6 +19,7 @@ class App extends Component {
       <div>
         <SiteHeader />
         <Switch>
+
           <Route exact path='/' render={()=><HomepageLayoutContainer starSetter={this.props.starSetter} bookSetter={this.props.bookSetter} />}/>
           <Route exact path='/allstars' render={()=><AllStarsLayoutContainer starSetter={this.props.starSetter} />}/>
           <Route exact path='/allbooks' render={() => <AllBooksLayoutContainer bookSetter={this.props.bookSetter} />}/>

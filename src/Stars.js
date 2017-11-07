@@ -23,13 +23,17 @@ class Stars extends Component {
     
   }
 
-  componentDidMount() {  this._getDisplayData(); }
+  componentDidMount() {  this.getDisplayData(); }
 
-  _getDisplayData = () => {
+  getDisplayData = () => {
 
       let data = this.state.data;
       let toDisplayItems = [];
-      for (let i = 0; i <= this.state.totalItemsInView - 1; i++) {toDisplayItems.push(data[i]);}
+
+      for(let i=0; i<=this.state.totalItemsInView-1; i++){
+        toDisplayItems.push(data[i]);
+      }
+
       this.setState({ displayItems: toDisplayItems });
 
   }

@@ -8,16 +8,20 @@ class CardNav extends Component {
     this.state = {
       data:props.data,
       subloading:false,
-      currentPage: 1,
       currentMasterPage:1,
       totalMasterPages: Math.floor(this.props.totalItems / this.props.data.length),
+      currentPage:1,
       nextButtonDisabled:false,
       prevButtonDisabled:true,
       totalItemsInView:props.totalItemsInView || 3
     }
   }
 
-  _nextPage = () =>{
+  componentDidMount() {
+    
+  }
+
+  nextPage = () =>{
     let toDisplayItems = [];
     let data = this.props.data;
     let totalPages = Math.floor(data.length/this.state.totalItemsInView);
@@ -64,7 +68,7 @@ class CardNav extends Component {
 
   }
 // this one needs mad work
-  _prevPage = () =>{
+  prevPage = () =>{
     let toDisplayItems = [];
     let data = this.props.data;
     let totalPages = Math.floor(data.length / this.state.totalItemsInView);
@@ -115,14 +119,14 @@ class CardNav extends Component {
 
   render() {
 
-    if (this.state.subloading) return <Container text><h2>Loading...</h2></Container>
+    if (this.state.subloading) return <Container text><h1>Loading...</h1></Container>
 
     return (
 
       <Container>
         <Button.Group compact size='medium' style={{float:'right', paddingTop:'15px', marginBottom:'15px'}}>
-          <Button onClick={this._prevPage} disabled={this.state.prevButtonDisabled} labelPosition='left' icon='left chevron' content='Prev' />
-          <Button onClick={this._nextPage} disabled={this.state.nextButtonDisabled} labelPosition='right' icon='right chevron' content='Next' />
+          <Button onClick={this.prevPage} disabled={this.state.prevButtonDisabled} labelPosition='left' icon='left chevron' content='Prev' />
+          <Button onClick={this.nextPage} disabled={this.state.nextButtonDisabled} labelPosition='right' icon='right chevron' content='Next' />
         </Button.Group>
       </Container>
 
