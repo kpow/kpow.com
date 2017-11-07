@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import {
-  Button, Divider, Container, Grid, Card, Header, Icon, Image, Item, Label, Menu, Segment, Step, Table,
-} from 'semantic-ui-react';
+import {Card} from 'semantic-ui-react';
 import Moment from 'moment';
 
 class StarItem extends Component {

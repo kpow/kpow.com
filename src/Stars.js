@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
-
 import {  Container, Grid, Header,} from 'semantic-ui-react';
 
 import StarItem from './StarItem.js';

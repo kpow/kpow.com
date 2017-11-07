@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
-import {Button,Container,Divider,Embed, Grid,Header,Icon,Image,List,Menu,Segment,Responsive, Visibility,Card,} from 'semantic-ui-react'
+import {Segment,Responsive,Embed} from 'semantic-ui-react'
 
 export default class Resume extends Component {
 
-  componentDidMount = () => { ReactDOM.findDOMNode(this).scrollIntoView(); }
+  componentDidMount = () => { window.scrollTo(0, 0); }
 
   render() {
 

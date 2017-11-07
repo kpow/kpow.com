@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
-import {
-  Button,Container,Divider,Grid,Header,Icon,Image,List,Menu,Segment,Visibility,Card,
-} from 'semantic-ui-react';
-import { Link, Route, Switch } from 'react-router-dom';
+import {  Container,Menu } from 'semantic-ui-react';
+import { Link } from 'react-router-dom';
 
 class SiteHeader extends Component {
   constructor(props) {
