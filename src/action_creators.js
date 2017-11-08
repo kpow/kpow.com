@@ -7,8 +7,8 @@ export function setStarsData(stars) {
 }
 
 
-export function setTotalStars(starIds) {
-  return { type: 'SET_TOTAL_STARS', starIds };
+export function setTotalStars(totalStars) {
+  return { type: 'SET_TOTAL_STARS', totalStars };
 }
 
 

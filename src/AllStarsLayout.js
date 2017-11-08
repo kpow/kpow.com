@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import {Button,Container,Divider,Grid,Header,Icon,Image,List,Menu,Segment,Visibility,Card,} from 'semantic-ui-react'
 
 import Stars from './Stars.js';
 
@@ -13,7 +12,7 @@ export default class AllStarsLayout extends Component {
     return (
       <div style={{marginTop:'75px'}}>
 
-        {this.props.data && (<Stars totalItemsInView={9} totalItems={this.props.starIds.length} data={this.props.data} dataSetter={this.props.starSetter}/> )}
+        {this.props.data && (<Stars totalItemsInView={9} totalItems={this.props.totalStars} data={this.props.data} dataSetter={this.props.starSetter}/> )}
 
       </div>
     )
@@ -22,7 +21,7 @@ export default class AllStarsLayout extends Component {
 
 function mapStateToProps(state) {
   return {
-    starIds : state.get('allStarIds'),
+    totalStars: state.get('totalStars'),
     data: state.get('starsData'),
   };
 }

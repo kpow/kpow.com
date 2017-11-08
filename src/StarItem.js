@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import {
-  Button, Divider, Container, Grid, Card, Header, Icon, Image, Item, Label, Menu, Segment, Step, Table,
-} from 'semantic-ui-react';
+import {Card} from 'semantic-ui-react';
 import Moment from 'moment';
 
 class StarItem extends Component {
@@ -22,7 +20,7 @@ class StarItem extends Component {
     return (
       <div>
       <Card fluid as='a'
-        style={{minHeight:'375px', maxHeight:'375px', marginBottom:'20px'}}
+        style={{minHeight:'400px', maxHeight:'400px', marginBottom:'20px'}}
         image={image1}
         header={this.props.data.title}
         href={this.props.data.url}

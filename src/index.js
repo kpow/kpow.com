@@ -69,10 +69,6 @@ getJSON('https://kpow.space/services/projects.php').then(data => {
   store.dispatch(actions.setProjectsData(data.data));
 });
 
-//getJSON('/static_data/goodreads100_optimized.json').then(data => {
-//  store.dispatch(actions.setBooksData(data.reviews.review));
-//});
-
 getJSON('https://kpow.space/services/instagram.php').then(data => {
   store.dispatch(actions.setInstagramsData(data.data));
 });

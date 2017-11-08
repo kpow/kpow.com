@@ -1,5 +1,5 @@
 
-import {Map, List, fromJS} from 'immutable';
+import {Map} from 'immutable';
 
 function setState(state, newState) {
   return state.merge(newState);
@@ -10,7 +10,8 @@ function setStarsData(state, data) {
 }
 
 function setTotalStars(state, data) {
-  return state.set('allStarIds', data);
+  let totalStars = data.length;
+  return state.set('totalStars', totalStars);
 }
 
 function setBooksData(state, data) {
@@ -32,13 +33,15 @@ export default function(state = Map(), action) {
     case 'SET_STARS_DATA':
       return setStarsData(state, action.stars);
     case 'SET_TOTAL_STARS':
-      return setTotalStars(state, action.starIds);  
+      return setTotalStars(state, action.totalStars);  
     case 'SET_BOOKS_DATA':
       return setBooksData(state, action.books);
     case 'SET_PROJECTS_DATA':
       return setProjectsData(state, action.projects);
     case 'SET_INSTAGRAMS_DATA':
       return setInstagramsData(state, action.instagrams);
+     default:
+      return state; 
   }
-  return state;
+  //return state;
 }

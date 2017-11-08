@@ -4,7 +4,6 @@ import {Container,Responsive, Segment} from 'semantic-ui-react'
 import {connect} from 'react-redux';
 import * as actionCreators from './action_creators';
 
-import Footer from './Footer.js';
 import Projects from './Projects.js';
 import Stars from './Stars.js';
 import Books from './Books.js';
@@ -30,7 +29,7 @@ export default class HomepageLayout extends Component {
          ( <Container text><h1>Loading...booty</h1></Container> )}
 
             <Responsive as={Segment} {...Responsive.onlyMobile}>
-          {this.props.stars ? (<Stars totalItemsInView={1} totalItems={this.props.starIds.length} data={this.props.stars} dataSetter={this.props.starSetter} />) :
+          {this.props.stars ? (<Stars totalItemsInView={1} totalItems={this.props.totalStars} data={this.props.stars} dataSetter={this.props.starSetter} />) :
                  ( <Container text><h1>Loading...</h1></Container> )}
           {this.props.grams ? (<InstagramFeed totalItemsInView={1} totalItems={this.props.grams.length} data={this.props.grams} dataSetter={this.instagramSetter}/>) :
                  ( <Container text><h1>Loading...</h1></Container> )}
@@ -38,7 +37,7 @@ export default class HomepageLayout extends Component {
                  ( <Container text><h1>Loading...</h1></Container> )}
             </Responsive>
             <Responsive as={Segment} {...Responsive.onlyComputer}>
-          {this.props.stars ? (<Stars totalItemsInView={3} data={this.props.stars} totalItems={this.props.starIds.length} dataSetter={this.props.starSetter}/>) :
+          {this.props.stars ? (<Stars totalItemsInView={3} data={this.props.stars} totalItems={this.props.totalStars} dataSetter={this.props.starSetter}/>) :
                  ( <Container text><h1>Loading...</h1></Container> )}
           {this.props.grams ? (<InstagramFeed totalItemsInView={4} totalItems={this.props.grams.length} data={this.props.grams} dataSetter={this.instagramSetter} />) :
                   ( <Container text><h1>Loading...</h1></Container> )}
@@ -53,7 +52,7 @@ export default class HomepageLayout extends Component {
 
 function mapStateToProps(state) {
   return {
-    starIds : state.get('allStarIds'),
+    totalStars : state.get('totalStars'),
     stars: state.get('starsData'),
     books: state.get('booksData'),
     grams: state.get('instagramFeedData'),

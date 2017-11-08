@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {  Button, Divider, Container, Grid, Card, Header,Rating, Icon, Image, Item, Label, Menu, Segment, Step, Table } from 'semantic-ui-react'
+import {Image, Card } from 'semantic-ui-react'
 
 class BookItem extends Component {
   constructor(props) {
