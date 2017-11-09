@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-
 import {  Container, Grid, Header,} from 'semantic-ui-react';
 
 import CardNav from './CardNav.js';
 import BookItem from './BookItem.js';
+import { getDisplayData } from '../getDisplayData.js';
 
 class Books extends Component {
   constructor(props) {
@@ -13,26 +13,9 @@ class Books extends Component {
     }
   }
 
-  componentDidUpdate = () => {
+  componentDidUpdate = () => { if(this.state.totalItemsInView>3){ window.scrollTo(0,0); } }
 
-    if(this.state.totalItemsInView>3){
-      window.scrollTo(0,0);
-    }
-
-  }
-
-  componentDidMount() { this.getDisplayData(); }
-
-  getDisplayData = () => {
-      let data = this.props.data;
-      let toDisplayItems = [];
-
-      for(let i=0; i<=this.state.totalItemsInView-1; i++){
-        toDisplayItems.push(data[i]);
-      }
-
-      this.setState({ displayItems: toDisplayItems });
-  }
+  componentDidMount() { getDisplayData(this.props.data, this.props.totalItemsInView, this.setDisplayData ); }
 
   setDisplayData = (data)=>{ this.setState({ displayItems: data }); }
 

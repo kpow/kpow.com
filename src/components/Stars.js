@@ -4,6 +4,7 @@ import {  Container, Grid, Header,} from 'semantic-ui-react';
 
 import StarItem from './StarItem.js';
 import CardNav from './CardNav.js';
+import { getDisplayData } from '../getDisplayData.js';
 
 
 class Stars extends Component {
@@ -15,29 +16,9 @@ class Stars extends Component {
     }
   }
 
-  componentDidUpdate = () => {
+  componentDidUpdate = () => { if (this.state.totalItemsInView > 3) { window.scrollTo(0, 0); } }
 
-    if(this.state.totalItemsInView>3){
-      window.scrollTo(0,0);
-    }
-
-    
-  }
-
-  componentDidMount() {  this.getDisplayData(); }
-
-  getDisplayData = () => {
-
-      let data = this.state.data;
-      let toDisplayItems = [];
-
-      for(let i=0; i<=this.state.totalItemsInView-1; i++){
-        toDisplayItems.push(data[i]);
-      }
-
-      this.setState({ displayItems: toDisplayItems });
-
-  }
+  componentDidMount() { getDisplayData(this.props.data, this.props.totalItemsInView, this.setDisplayData); }
 
   setDisplayData = (data)=>{ this.setState({ displayItems: data }); }
 

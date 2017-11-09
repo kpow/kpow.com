@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import {Container,Responsive, Segment} from 'semantic-ui-react'
 
 import {connect} from 'react-redux';
-import * as actionCreators from './action_creators';
+import * as actionCreators from '../action_creators';
 
 import Projects from './Projects.js';
 import Stars from './Stars.js';

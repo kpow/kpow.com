@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 import Stars from './Stars.js';
 
 import {connect} from 'react-redux';
-import * as actionCreators from './action_creators';
+import * as actionCreators from '../action_creators';
 
 export default class AllStarsLayout extends Component {
 
