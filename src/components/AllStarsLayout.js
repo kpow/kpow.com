@@ -10,7 +10,7 @@ export default class AllStarsLayout extends Component {
   render() {
 
     return (
-      <div style={{marginTop:'75px'}}>
+      <div className="all-layout">
 
         {this.props.data && (<Stars totalItemsInView={9} totalItems={this.props.totalStars} data={this.props.data} dataSetter={this.props.starSetter}/> )}
 

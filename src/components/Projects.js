@@ -13,9 +13,7 @@ class Projects extends Component {
 
   componentDidMount() { }
 
-  onSlideChange = (data) =>{
-    console.log('onSlideChange'+data);
-  }
+  onSlideChange = (data) =>{ console.log('onSlideChange'+data); }
 
   render() {
 
@@ -33,7 +31,7 @@ class Projects extends Component {
 
     return (
       <div>
-      <Segment inverted vertical style={{margin:'8px'}}>
+      <Segment inverted vertical>
         <Container>
 
         <Header as='h1' dividing inverted

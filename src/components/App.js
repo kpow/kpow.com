@@ -8,6 +8,11 @@ import SiteHeader from './SiteHeader.js';
 import Resume from './Resume.js'
 import Footer from './Footer.js';
 
+import '../semantic/semantic.min.css';
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
+import "video-react/dist/video-react.css";
+
 import './App.css';
 
 class App extends Component {

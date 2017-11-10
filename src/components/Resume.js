@@ -8,7 +8,7 @@ export default class Resume extends Component {
   render() {
 
     return (
-      <div style={{marginTop:'50px'}}>
+      <div className="all-layout">
 
       <Segment.Group>
         <Responsive as={Segment} {...Responsive.onlyMobile}>

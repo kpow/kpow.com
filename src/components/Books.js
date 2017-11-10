@@ -45,7 +45,7 @@ class Books extends Component {
           </Grid.Row>
         </Grid>
 
-        <CardNav totalItemsInView={this.state.totalItemsInView} totalItems={this.props.totalItems} data={this.props.data} setItems={this.setDisplayData} dataSetter={this.props.dataSetter} />
+        <CardNav totalItemsInView={this.state.totalItemsInView} totalItems={400} data={this.props.data} setItems={this.setDisplayData} dataSetter={this.props.dataSetter} />
 
       </div>
     )

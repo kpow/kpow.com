@@ -29,3 +29,7 @@
 a.ui.card:hover {
     background: #000;
 }
+
+.all-layout {
+    margin-top: 75px;
+}
