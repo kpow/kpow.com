@@ -10,7 +10,6 @@ export class InstagramFeed extends Component {
     super(props);
     this.state = {
       data:props.data,
-      currentVideo:'https://scontent.cdninstagram.com/t50.2886-16/22431260_123113021720851_4878408048764256256_n.mp4',
       totalItemsInView:props.totalItemsInView || 4
     };
 
@@ -21,9 +20,7 @@ export class InstagramFeed extends Component {
   setDisplayData = (data)=>{ this.setState({ displayItems: data }); }
 
   render() {
-
-    if (!this.state.displayItems) return <Container text><h1>Loading...</h1></Container>
-
+  if (!this.state.displayItems) return <Container text><h1>Loading...</h1></Container>
     return (
       <div>
         <Container>
@@ -33,7 +30,6 @@ export class InstagramFeed extends Component {
            subheader="these are music post from my instagram"
            />
         </Container>
-
         <Grid columns={this.state.totalItemsInView} container stackable >
           <Grid.Row>
           {this.state.displayItems.map((obj, i) => (
@@ -43,21 +39,16 @@ export class InstagramFeed extends Component {
              <Card.Content>
               <Card.Header>{obj.caption.text}</Card.Header>
                <Card.Meta>{obj.location.name}</Card.Meta>
-
              </Card.Content>
              <Card.Content extra>
-
                     <VideoModal video={obj.videos.standard_resolution.url}/>
-
              </Card.Content>
            </Card>
             </Grid.Column>
           ))}
           </Grid.Row>
         </Grid>
-
         <CardNav totalItemsInView={this.state.totalItemsInView} totalItems={this.props.totalItems} data={this.state.data} setItems={this.setDisplayData} dataSetter={this.props.dataSetter} />
-
       </div>
     );
   }
