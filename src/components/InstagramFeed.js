@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { Container, Grid, Header,Card, Image} from 'semantic-ui-react'
+import { Container, Grid, Header} from 'semantic-ui-react'
 import CardNav from './CardNav.js';
-import VideoModal from './VideoModal.js';
+import InstagramItem from './InstagramItem';
 import { getDisplayData } from '../getDisplayData.js';
 
 export class InstagramFeed extends Component {
@@ -33,18 +33,7 @@ export class InstagramFeed extends Component {
         <Grid columns={this.state.totalItemsInView} container stackable >
           <Grid.Row>
           {this.state.displayItems.map((obj, i) => (
-            <Grid.Column key={i}>
-            <Card fluid style={{ marginBottom:'20px'}}>
-             <Image src={obj.images.standard_resolution.url} centered/>
-             <Card.Content>
-              <Card.Header>{obj.caption.text}</Card.Header>
-               <Card.Meta>{obj.location.name}</Card.Meta>
-             </Card.Content>
-             <Card.Content extra>
-                    <VideoModal video={obj.videos.standard_resolution.url}/>
-             </Card.Content>
-           </Card>
-            </Grid.Column>
+            <InstagramItem obj={obj} key={i} />
           ))}
           </Grid.Row>
         </Grid>

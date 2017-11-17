@@ -3,7 +3,7 @@ import {
   Container,Grid,Header,Image,List,Segment,
 } from 'semantic-ui-react';
 
-class Footer extends Component {
+class SiteFooter extends Component {
   constructor(props) {
     super(props)
     this.state = {
@@ -62,4 +62,4 @@ class Footer extends Component {
 }
 }
 
-export default Footer;
+export default SiteFooter;

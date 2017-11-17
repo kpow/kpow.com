@@ -18,7 +18,7 @@ class Stars extends Component {
 
   componentDidUpdate = () => { if (this.state.totalItemsInView > 3) { window.scrollTo(0, 0); } }
 
-  componentDidMount() { getDisplayData(this.props.data, this.props.totalItemsInView, this.setDisplayData); }
+  componentDidMount() { getDisplayData(this.state.data, this.state.totalItemsInView, this.setDisplayData); }
 
   setDisplayData = (data)=>{ this.setState({ displayItems: data }); }
 
@@ -48,7 +48,7 @@ class Stars extends Component {
           </Grid.Row>
         </Grid>
 
-        <CardNav totalItemsInView={this.state.totalItemsInView} totalItems={this.props.totalItems} data={this.props.data} setItems={this.setDisplayData} dataSetter={this.props.dataSetter}/>
+        <CardNav totalItemsInView={this.state.totalItemsInView} totalItems={this.props.totalItems} data={this.state.data} setItems={this.setDisplayData} dataSetter={this.props.dataSetter}/>
       </div>
     )
   }

@@ -6,7 +6,7 @@ import {AllBooksLayoutContainer} from './AllBooksLayout.js';
 import {HomepageLayoutContainer} from './HomepageLayout.js';
 import SiteHeader from './SiteHeader.js';
 import Resume from './Resume.js'
-import Footer from './Footer.js';
+import SiteFooter from './SiteFooter.js';
 
 import '../semantic/semantic.min.css';
 import 'slick-carousel/slick/slick.css';
@@ -28,7 +28,7 @@ class App extends Component {
           <Route exact path='/allbooks' render={() => <AllBooksLayoutContainer bookSetter={this.props.bookSetter} />}/>
           <Route exact path='/resume' component={Resume}/>
         </Switch>
-        <Footer />
+        <SiteFooter />
       </div>
 
     );

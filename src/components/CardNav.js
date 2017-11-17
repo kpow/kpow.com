@@ -17,9 +17,7 @@ class CardNav extends Component {
     }
   }
 
-  componentDidMount() {
-    
-  }
+  componentDidMount() {}
 
   nextPage = () =>{
     let toDisplayItems = [];
@@ -92,10 +90,6 @@ class CardNav extends Component {
       this.props.dataSetter(newCurrentMasterPage);
       this.setState({ subloading: true });
 
-      console.log("newCurrentMasterPage = "+newCurrentMasterPage);
-      console.log("prev click inside nextPage===totalPages = " + nextPage + "===" + totalPages);
-      console.log("prev click inside newSeed===newSeedOffset = " + newSeed + "===" + newSeedOffset);
-
       // this needs to be in callback or promise
         setTimeout(() => {
           let newData = this.props.data;
@@ -113,7 +107,6 @@ class CardNav extends Component {
       this.setState({ currentPage: nextPage, nextButtonDisabled: false });
 
     }
-
 
   }
 
