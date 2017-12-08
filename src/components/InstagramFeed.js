@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Container, Grid, Header} from 'semantic-ui-react'
+import { Container, Grid, Header,Button} from 'semantic-ui-react'
 import CardNav from './CardNav.js';
 import InstagramItem from './InstagramItem';
 import { getDisplayData } from '../getDisplayData.js';
@@ -26,7 +26,7 @@ export class InstagramFeed extends Component {
         <Container>
           <Header as='h1' dividing
            style={{ marginBottom: '1em', marginTop:'1.25em' }}
-           content = 'instagram'
+           content = 'MusicFeed'
            subheader="these are music post from my instagram"
            />
         </Container>
@@ -37,7 +37,9 @@ export class InstagramFeed extends Component {
           ))}
           </Grid.Row>
         </Grid>
-        <CardNav totalItemsInView={this.state.totalItemsInView} totalItems={this.props.totalItems} data={this.state.data} setItems={this.setDisplayData} dataSetter={this.props.dataSetter} />
+        <Container style={{marginBottom:'50px'}}>
+          <Button primary floated="left" href="https://instagram.com/kpow_musicgram">View on IG</Button><CardNav totalItemsInView={this.state.totalItemsInView} totalItems={this.props.totalItems} data={this.state.data} setItems={this.setDisplayData} dataSetter={this.props.dataSetter} />
+        </Container>
       </div>
     );
   }
