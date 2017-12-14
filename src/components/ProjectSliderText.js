@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Container, Grid, Image, } from 'semantic-ui-react';
+import { Button, Container, Grid, } from 'semantic-ui-react';
 
 
 const ProjectSliderText = (props) => (

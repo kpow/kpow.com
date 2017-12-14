@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 import Books from './Books.js';
 import ImageStrip from './ImageStrip';
-import {Container, Image} from 'semantic-ui-react';
+import {Container} from 'semantic-ui-react';
 
 import {connect} from 'react-redux';
 import * as actionCreators from '../action_creators';

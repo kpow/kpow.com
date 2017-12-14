@@ -1,7 +1,5 @@
 import React from 'react';
-import { Button, Container, Grid, Image, } from 'semantic-ui-react';
 import Slider from 'react-slick';
-import { Player, BigPlayButton } from 'video-react';
 import ProjectSliderText from '../components/ProjectSliderText';
 import ProjectSliderMedia from '../components/ProjectSliderMedia';
 

@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import {Image, Card } from 'semantic-ui-react'
-import MicrolinkCard from 'react-microlink'
 
 class BookItem extends Component {
   constructor(props) {
@@ -9,7 +8,7 @@ class BookItem extends Component {
   }
 
   componentDidMount() {
-    let bookImage = null;
+    //let bookImage = null;
     // fetch('https://api.microlink.io?url='+this.props.data.book.link)
     //   .then(response => response.json())
     //   .then(data => {
