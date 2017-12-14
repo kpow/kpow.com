@@ -36,7 +36,7 @@ function getJSON(url) {
 
 const getStarsData = (page=1) =>{
   console.log('getjson');
-  getJSON('https://kpow.space/services/stars.php?page='+page).then(data => {
+  getJSON('https://kpow.space/services/stars.php?page='+page+'&perPage=36').then(data => {
     store.dispatch(actions.setStarsData(data.reverse()));
   }).then(()=>{console.log('dingdong');});
 
@@ -44,7 +44,7 @@ const getStarsData = (page=1) =>{
 
 const getBooksData = (page = 1) => {
   console.log('getbooksjson');
-  getJSON('https://kpow.space/static_data/books'+page+'.json').then(data => {
+  getJSON('static_data/books'+page+'.json').then(data => {
   //console.log(data);  
   store.dispatch(actions.setBooksData(data.review));
   }).then(() => { console.log('dingbooksdong'); });

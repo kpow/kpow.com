@@ -64,7 +64,7 @@ export default class HomepageLayout extends Component {
           {this.props.books ? (<Books totalItemsInView={3} data={this.props.books} totalItems={402} dataSetter={this.props.bookSetter} />) :
             (<Container text><h1>Loading...</h1></Container>)}
         </Responsive>
-
+        <br /><br /><br /><br />
       </div>
     )
   }

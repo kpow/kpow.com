@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import {Image, Card } from 'semantic-ui-react'
+import MicrolinkCard from 'react-microlink'
 
 class BookItem extends Component {
   constructor(props) {
@@ -8,17 +9,26 @@ class BookItem extends Component {
   }
 
   componentDidMount() {
-
+    let bookImage = null;
+    // fetch('https://api.microlink.io?url='+this.props.data.book.link)
+    //   .then(response => response.json())
+    //   .then(data => {
+    //     bookImage = data;
+    //     console.log(bookImage);
+    //   });
   }
 
   render() {
+
     let theBook = this.props.data.book;
     let theRating = Number(this.props.data.rating);
     return (
       <div>
 
         <Card fluid as='a' href={theBook.link} target='_new' style={{minHeight:'470px', maxHeight:'470px', marginBottom:'20px'}}>
-         <Image src={theBook.img} style={{height:200}} centered/>
+          {/*<Image src={"https://api.microlink.io?url=" + theBook.link+"&embed=image.url"} style={{height:200}} centered/>*/}
+          <Image src={theBook.img} style={{ height: 200 }} centered />
+
          <Card.Content>
            <Card.Header>{theBook.tws}</Card.Header>
            <Card.Meta>{theBook.authors.author.name}</Card.Meta>
@@ -34,7 +44,7 @@ class BookItem extends Component {
          <span style={{ float: 'right' }}>avg. rating: <strong>{theBook.avr_rate}</strong> stars</span>
 
          </Card.Content>
-       </Card>
+        </Card>
       </div>
 
     )

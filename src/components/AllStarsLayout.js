@@ -13,7 +13,7 @@ export default class AllStarsLayout extends Component {
       <div className="all-layout">
 
         {this.props.data && (<Stars totalItemsInView={9} totalItems={this.props.totalStars} data={this.props.data} dataSetter={this.props.starSetter}/> )}
-
+        <br /><br /><br /><br />
       </div>
     )
   }

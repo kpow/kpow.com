@@ -16,7 +16,7 @@ class SiteFooter extends Component {
 
     return (
 
-      <Segment inverted vertical style={{ padding: '5em 0em', marginTop:'4.25em' }}>
+      <Segment inverted vertical style={{ padding: '5em 0em'}}>
         <Container>
           <Grid divided inverted stackable>
             <Grid.Row>

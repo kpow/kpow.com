@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 
 import Books from './Books.js';
+import ImageStrip from './ImageStrip';
+import {Container, Image} from 'semantic-ui-react';
 
 import {connect} from 'react-redux';
 import * as actionCreators from '../action_creators';
@@ -10,13 +12,19 @@ export default class AllBooksLayout extends Component {
   componentDidMount() {  }
 
   render() {
+  
+    if (!this.props.data) return <Container text><h1>Loading...</h1></Container>
 
     return (
-      <div className="all-layout">
-
-        {this.props.data && (<Books totalItemsInView={9} totalItems={403} data={this.props.data} dataSetter={this.props.bookSetter} /> )}
-
+    
+        
+      <div style={{paddingTop:'60px'}}>
+        <ImageStrip data={this.props.data} />
+        {this.props.data && (<Books totalItemsInView={6} totalItems={403} data={this.props.data} dataSetter={this.props.bookSetter} /> )}
+        <br /><br /><br /><br />
+        <ImageStrip data={this.props.data} />
       </div>
+
     )
   }
 }
