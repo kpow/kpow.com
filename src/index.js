@@ -36,7 +36,8 @@ function getJSON(url) {
 
 const getStarsData = (page=1) =>{
   console.log('getjson');
-  getJSON('https://kpow.space/services/stars.php?page='+page+'&perPage=36').then(data => {
+  getJSON('https://kpow.space/services/stars.php?page='+page+'&perPage=108').then(data => {
+    console.log("page = "+page);
     store.dispatch(actions.setStarsData(data.reverse()));
   }).then(()=>{console.log('dingdong');});
 

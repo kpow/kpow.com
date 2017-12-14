@@ -18,7 +18,7 @@ class ImageStrip extends Component {
       
       <Container fluid style={{ height: '139px', backgroundColor: '#000', overflow: 'hidden', whiteSpace:'nowrap' }}>
         {displayData.map((item, index) => (
-          <Image key={index} src={item.book.img} height="139px" inline/>
+          <Image key={index} src={item.img} height="139px" inline/>
         ))}
         
       </Container>
