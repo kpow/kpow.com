@@ -48,7 +48,7 @@ class Stars extends Component {
           </Grid.Row>
         </Grid>
 
-        <CardNav totalItemsInView={this.state.totalItemsInView} totalItems={this.props.totalItems} data={this.state.data} setItems={this.setDisplayData} dataSetter={this.props.dataSetter}/>
+        <CardNav totalItemsInView={this.props.totalItemsInView} totalItems={this.props.totalItems} data={this.props.data} setItems={this.setDisplayData} dataSetter={this.props.dataSetter}/>
       </div>
     )
   }
