@@ -38,7 +38,8 @@ export class InstagramFeed extends Component {
           </Grid.Row>
         </Grid>
         <Container style={{marginBottom:'50px'}}>
-          <Button primary floated="left" href="https://instagram.com/kpow_musicgram">View on IG</Button><CardNav totalItemsInView={this.state.totalItemsInView} totalItems={this.props.totalItems} data={this.state.data} setItems={this.setDisplayData} dataSetter={this.props.dataSetter} />
+          <Button primary floated="left" href="https://instagram.com/kpow_musicgram">View on IG</Button>
+          <CardNav totalItemsInView={this.state.totalItemsInView} totalItems={this.props.totalItems} data={this.state.data} setItems={this.setDisplayData} dataSetter={this.props.dataSetter} />
         </Container>
       </div>
     );

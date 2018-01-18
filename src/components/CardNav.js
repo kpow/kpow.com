@@ -15,6 +15,8 @@ class CardNav extends Component {
       prevButtonDisabled:true,
       totalItemsInView:props.totalItemsInView || 3
     }
+    this.nextPage = this.nextPage.bind(this);
+    this.prevPage = this.prevPage.bind(this);
   }
 
   componentDidMount() {}
