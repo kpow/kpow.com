@@ -21,6 +21,7 @@
 .ui.card>.content,
 .ui.cards>.card>.content {
     background: #fff;
+    overflow: hidden;
 }
 
 .ui.cards a.card:hover,
