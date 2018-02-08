@@ -137,6 +137,7 @@ my-app/
     logo.svg
 ```
 
+
 For the project to build, **these files must exist with exact filenames**:
 
 * `public/index.html` is the page template;
