@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import { Container,Menu} from 'semantic-ui-react';
 import { Link } from 'react-router-dom';
 
+import Skull from '../images/skull2.svg';
+
 class SiteHeader extends Component {
   constructor(props) {
     super(props)
@@ -19,8 +21,11 @@ class SiteHeader extends Component {
       <div>
       <Menu fixed='top' size='large' inverted compact>
         <Container>
-        <Menu.Item style={{padding:'10px', paddingRight:'15px', paddingLeft:'0'}} as={Link} to='/'>
-          <h1 className="site-logo">kpow</h1>
+            <Menu.Item style={{ padding: '0', paddingRight: '5px', marginTop:'0'}} as={Link} to='/'>
+              <h1 className="site-logo">
+                <img height='50' style={{ display: 'inline-block', paddingLeft: '0' }} src={Skull} />
+                <span style={{ display: 'inline-block', paddingRight: '5px', height: '50px', verticalAlign:'middle' }}>kpow</span>
+              </h1>
         </Menu.Item>
         <Menu.Item position='right' as={Link} to='/allstars'>allstars</Menu.Item>
         <Menu.Item  as={Link} to='/allbooks'>allbooks</Menu.Item>
