@@ -10,9 +10,7 @@ class SiteHeader extends Component {
     this.state = {}
   }
 
-  componentDidMount() {
-
-  }
+  componentDidMount() {}
 
   render() {
 
@@ -21,10 +19,10 @@ class SiteHeader extends Component {
       <div>
       <Menu fixed='top' size='large' inverted compact>
         <Container>
-            <Menu.Item style={{ padding: '0', paddingRight: '5px', marginTop:'0'}} as={Link} to='/'>
+            <Menu.Item style={{ padding: '0'}} as={Link} to='/'>
               <h1 className="site-logo">
-                <img height='50' style={{ display: 'inline-block', paddingLeft: '0' }} src={Skull} />
-                <span style={{ display: 'inline-block', paddingRight: '5px', height: '50px', verticalAlign:'middle' }}>kpow</span>
+                <img height='50' style={{ display: 'inline-block', paddingTop: '3px', paddingBottom: '5px', verticalAlign: 'middle'  }} src={Skull} />
+                <span style={{ display: 'inline-block', paddingRight: '5px',paddingTop:'5px', height: '50px', verticalAlign:'middle' }}>kpow</span>
               </h1>
         </Menu.Item>
         <Menu.Item position='right' as={Link} to='/allstars'>allstars</Menu.Item>
