@@ -1,34 +1,34 @@
 import React, { Component } from 'react';
-import {Container,Header,Segment,} from 'semantic-ui-react';
+import { Container, Header, Segment } from 'semantic-ui-react';
 import ProjectSlider from '../components/ProjectSlider';
 
 class Projects extends Component {
   constructor(props, context) {
-    super(props, context)
-    this.state = { }
+    super(props, context);
+    this.state = {};
   }
 
-  componentDidMount() { }
+  componentDidMount() {}
 
   render() {
-
     return (
       <div>
-      <Segment inverted vertical>
-        <Container>
+        <Segment inverted vertical>
+          <Container>
+            <Header
+              as="h1"
+              dividing
+              inverted
+              style={{ paddingTop: '1em' }}
+              content="projects"
+              subheader="a few of the projects I've worked on"
+            />
 
-        <Header as='h1' dividing inverted
-         style={{ paddingTop: '1em' }}
-         content = 'projects'
-         subheader="a few of the projects I've worked on"
-        />
-
-        <ProjectSlider props={this.props} />
-
-        </Container>
-      </Segment>
+            <ProjectSlider props={this.props} />
+          </Container>
+        </Segment>
       </div>
-    )
+    );
   }
 }
 
