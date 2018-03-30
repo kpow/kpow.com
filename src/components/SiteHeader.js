@@ -48,7 +48,7 @@ class SiteHeader extends Component {
             <Menu.Item as={Link} to="/allbooks">
               allbooks
             </Menu.Item>
-            <Menu.Item as={Link} link={true} to="https://instagram.com/koolyp">
+            <Menu.Item as={Link} link to="https://instagram.com/koolyp">
               insta
             </Menu.Item>
           </Container>
