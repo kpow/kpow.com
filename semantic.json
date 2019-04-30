@@ -2,10 +2,10 @@
   "base": "semantic\\",
   "paths": {
     "source": {
-      "config": "src/theme.config",
-      "definitions": "src/definitions/",
-      "site": "src/site/",
-      "themes": "src/themes/"
+      "config": "../src/theme.config",
+      "definitions": "..//src/definitions/",
+      "site": "../src/site/",
+      "themes": "../src/themes/"
     },
     "output": {
       "packaged": "../src/semantic/",
