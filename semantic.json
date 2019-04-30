@@ -8,10 +8,10 @@
       "themes": "../src/themes/"
     },
     "output": {
-      "packaged": "../src/semantic/",
-      "uncompressed": "../src/semantic/components/",
-      "compressed": "../src/semantic/components/",
-      "themes": "../src/semantic/themes/"
+      "packaged": "../node_modules/semantic-ui/",
+      "uncompressed": "../node_modules/semantic-ui/components/",
+      "compressed": "../node_modules/semantic-ui/components/",
+      "themes": "../node_modules/semantic-ui/themes/"
     },
     "clean": "dist/"
   },
