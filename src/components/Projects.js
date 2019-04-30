@@ -24,7 +24,6 @@ class Projects extends Component {
               subheader="new stuff coming soon, I broke the old one :("
             />
 
-            <ProjectSlider props={this.props} />
           </Container>
         </Segment>
       </div>
