@@ -21,7 +21,7 @@ class Projects extends Component {
               inverted
               style={{ paddingTop: '1em' }}
               content="projects"
-              subheader="a few of the projects I've worked on"
+              subheader="new stuff coming soon, I broke the old one :("
             />
 
             <ProjectSlider props={this.props} />
