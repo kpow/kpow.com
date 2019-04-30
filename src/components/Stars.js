@@ -24,7 +24,6 @@ class Stars extends Component {
 
   render() {
 
-    if (!this.state.displayItems) return <Container text><h1>Loading...</h1></Container>
 
     return (
 
