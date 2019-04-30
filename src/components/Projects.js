@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Container, Header, Segment } from 'semantic-ui-react';
-import ProjectSlider from '../components/ProjectSlider';
 
 class Projects extends Component {
   constructor(props, context) {
